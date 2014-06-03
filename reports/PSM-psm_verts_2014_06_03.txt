@@ -1,0 +1,310 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 360
+Number of records retrieved in searches: 2286
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 7
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Indonesia ; Times: 17
+	Country: Malaysia ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Netherlands ; Times: 5
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: United States ; Times: 159
+	Country: Unknown ; Times: 134
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 6
+	Date: 2014-05-02 ; Times: 15
+	Date: 2014-05-03 ; Times: 1
+	Date: 2014-05-05 ; Times: 13
+	Date: 2014-05-06 ; Times: 6
+	Date: 2014-05-07 ; Times: 19
+	Date: 2014-05-08 ; Times: 3
+	Date: 2014-05-09 ; Times: 8
+	Date: 2014-05-10 ; Times: 7
+	Date: 2014-05-11 ; Times: 8
+	Date: 2014-05-12 ; Times: 7
+	Date: 2014-05-13 ; Times: 32
+	Date: 2014-05-14 ; Times: 7
+	Date: 2014-05-15 ; Times: 31
+	Date: 2014-05-16 ; Times: 127
+	Date: 2014-05-17 ; Times: 7
+	Date: 2014-05-18 ; Times: 6
+	Date: 2014-05-19 ; Times: 3
+	Date: 2014-05-20 ; Times: 6
+	Date: 2014-05-21 ; Times: 12
+	Date: 2014-05-22 ; Times: 6
+	Date: 2014-05-23 ; Times: 8
+	Date: 2014-05-25 ; Times: 3
+	Date: 2014-05-26 ; Times: 1
+	Date: 2014-05-27 ; Times: 2
+	Date: 2014-05-28 ; Times: 2
+	Date: 2014-05-29 ; Times: 3
+	Date: 2014-05-30 ; Times: 10
+	Date: 2014-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 16
+	Query: "Barisia imbricata stateprovince:"Mexico"" ; Times: 1
+	Query: "marmota olympus" ; Times: 2
+	Query: "Marmota broweri" ; Times: 1
+	Query: "stoner" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "lama glama AND (america) year >= 1970" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "Dicrostonyx nelsoni" ; Times: 1
+	Query: "felis chaus" ; Times: 3
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: ""bison bison"" ; Times: 2
+	Query: "Pteropus speciosus" ; Times: 1
+	Query: "falco peregrinus country="United Kingdom"" ; Times: 1
+	Query: "country:"Panama" specificepithet:aeneus genus:Oxybelis" ; Times: 1
+	Query: "gorilla gorilla" ; Times: 1
+	Query: "Lepus alleni records" ; Times: 2
+	Query: "pecari tajacu" ; Times: 2
+	Query: "trichechus" ; Times: 9
+	Query: ""Sphyrapicus thyroideus" (skin) mappable:1" ; Times: 2
+	Query: "Odocoileus" ; Times: 3
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "Oryzomys perenensis" ; Times: 1
+	Query: "Episoriculus caudatus" ; Times: 1
+	Query: "arborimus albipes" ; Times: 2
+	Query: "sus scrofa" ; Times: 15
+	Query: ""Toxostoma crissale"" ; Times: 1
+	Query: "egretta rufescens" ; Times: 3
+	Query: "Otomys anchietae" ; Times: 1
+	Query: "species:panthera onca" ; Times: 2
+	Query: "manatee" ; Times: 1
+	Query: ""Toxostoma lecontei"" ; Times: 1
+	Query: "Sciurus variegatoides Panama" ; Times: 1
+	Query: "Hylopetes nigripes" ; Times: 1
+	Query: "pipistrellus 2013" ; Times: 1
+	Query: ""phoebastria nigripes" (PSM Slater)" ; Times: 1
+	Query: "genus:panthera year >= 1970 year <= 2014" ; Times: 1
+	Query: "falco peregrinus peregrinus" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "Texas Natural History Center" ; Times: 1
+	Query: "panthera onca" ; Times: 6
+	Query: "eggs Falco sparverius" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Aechmophorus" ; Times: 1
+	Query: "Petinomys mindanensis" ; Times: 1
+	Query: "country:"venezuela" genus:Panthera" ; Times: 1
+	Query: "Apodemus argenteus" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(34.166363384737814,-118.01101684570312))<2848.348537124411" ; Times: 1
+	Query: "Tamandua" ; Times: 1
+	Query: "Kenneth Racey" ; Times: 2
+	Query: "specificepithet:melodia class:Aves institutioncode:CAS OR UMMZ OR FMNH" ; Times: 1
+	Query: "Dicrostonyx unalascensis" ; Times: 1
+	Query: "zapus trinotatus" ; Times: 2
+	Query: "bufo marinus 1990" ; Times: 1
+	Query: "tarsius" ; Times: 1
+	Query: "Canis lupus" ; Times: 2
+	Query: "PECTORALIS type:specimen AND (NOT AVES)" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 3
+	Query: "Scapanus townsendii" ; Times: 1
+	Query: "recordedby:K. Racey" ; Times: 3
+	Query: "Pteropus" ; Times: 10
+	Query: "Callosciurus pygerythrus" ; Times: 1
+	Query: "Spermophilus elegans" ; Times: 1
+	Query: "Pudu" ; Times: 1
+	Query: "Slater Museum" ; Times: 1
+	Query: "Charina" ; Times: 5
+	Query: "genus:Tarsius" ; Times: 2
+	Query: "burke" ; Times: 1
+	Query: "falco peregrinus peregrinus country:"United Kingdom"" ; Times: 2
+	Query: "myotis sodalis" ; Times: 1
+	Query: "specificepithet:townsendii genus:scapanus mappable:1" ; Times: 4
+	Query: "specificepithet:melodia class:Aves institutioncode:CAS OR UMMZ" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "Cynomys gunnisoni" ; Times: 1
+	Query: "eggs Falco sparverius year >= 1800 year <= 1900" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "Phyllops falcatus" ; Times: 1
+	Query: "coccyzus stateprovince:"Washington" year >= 1909 year <= 1910" ; Times: 1
+	Query: "Streptopelia" ; Times: 1
+	Query: "country:"Mexico" genus:Odocoileus" ; Times: 5
+	Query: "lama glama year >= 1970" ; Times: 1
+	Query: "marsupialia" ; Times: 1
+	Query: "Oryctolagus" ; Times: 2
+	Query: "Sundasciurus philippinensis" ; Times: 1
+	Query: "nasua narica" ; Times: 2
+	Query: "coccyzus stateprovince:"Washington" year >= 1909 year <= 2012" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 33
+	Query: "VASHON ISLAND genus:SCAPANUS" ; Times: 1
+	Query: "Spermophilus saturatus" ; Times: 2
+	Query: "penelope" ; Times: 2
+	Query: "FG" ; Times: 1
+	Query: "Ochotona princeps type:specimen mappable:1" ; Times: 2
+	Query: "bassaricyon" ; Times: 45
+	Query: "PECTORALIS type:specimen" ; Times: 1
+	Query: "Allactaga williamsi" ; Times: 1
+	Query: "Thomomys idahoensis" ; Times: 1
+	Query: "phrynosoma douglasii" ; Times: 1
+	Query: "Myodes imaizumii" ; Times: 1
+	Query: ""sylvilagus nuttallii"" ; Times: 1
+	Query: "marmota olympus mappable:1" ; Times: 1
+	Query: "ALBIGULARIS" ; Times: 1
+	Query: "Thamnophis eques stateprovince:"Mexico"" ; Times: 1
+	Query: "pteropus" ; Times: 6
+	Query: "stateprovince:"California" specificepithet:alpestris genus:"eremophila"" ; Times: 1
+	Query: "Podomys floridanus" ; Times: 3
+	Query: "Tachyoryctes daemon" ; Times: 1
+	Query: "PUDU MEPHISTOPHILES" ; Times: 2
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "dasypus" ; Times: 1
+	Query: "Sorex rohweri" ; Times: 1
+	Query: "country:"Ecuador" (Dasyprocta punctata) AND (Ecuador)" ; Times: 1
+	Query: "Panthera" ; Times: 6
+	Query: "larus wing grays harbor institutioncode:PSM" ; Times: 1
+	Query: "Vandeleuria oleracea" ; Times: 1
+	Query: "Crocidura dsinezumi" ; Times: 1
+	Query: "class:Mammalia palenque chiapas" ; Times: 2
+	Query: "coccyzus stateprovince:"Washington" specificepithet:americanus genus:coccyzus year >= 1909 year <= 2012" ; Times: 1
+	Query: "sula dactylatra" ; Times: 3
+	Query: "Monotremata" ; Times: 2
+	Query: "Arvicanthis nairobae" ; Times: 1
+	Query: "Neodon sikimensis" ; Times: 1
+	Query: "MSU" ; Times: 2
+	Query: "zapus trinotatus UWBM" ; Times: 1
+	Query: "lemur catta" ; Times: 7
+	Query: "ectopistes" ; Times: 1
+	Query: "Sorex hosonoi" ; Times: 1
+	Query: "Trichechus" ; Times: 1
+	Query: "specificepithet:nigripes genus:Phoebastria" ; Times: 1
+	Query: "Chaetodipus artus" ; Times: 5
+	Query: "Arvicola scherman" ; Times: 1
+	Query: "ALBIGULARIS type:specimen" ; Times: 1
+	Query: "falco peregrinus" ; Times: 2
+	Query: "Sorex shinto" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 1
+	Query: ""Dendroica kirtlandii" type:specimen" ; Times: 1
+	Query: "2748" ; Times: 1
+	Query: "stateprovince:"Darien" country:"Panama" class:Mammalia" ; Times: 1
+	Query: "Myodes andersoni" ; Times: 1
+	Query: "Dicrostonyx richardsoni" ; Times: 3
+	Query: "bufo marinus 2005" ; Times: 1
+	Query: "TNHC" ; Times: 1
+	Query: "larus wing grays harbor institutioncode:PSM year >= 1990 year <= 1992" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 2
+	Query: "Pteropus institutioncode:PSM" ; Times: 1
+	Query: "4128" ; Times: 1
+	Query: "cervus" ; Times: 1
+	Query: "Spermophilus canus" ; Times: 1
+	Query: "Lepus alleni" ; Times: 2
+	Query: "2757" ; Times: 1
+	Query: "Niviventer eha" ; Times: 1
+	Query: "Egypt" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.3797125804622,-119.24560546875))<4177" ; Times: 1
+	Query: "class:Mammalia Neodon sikimensis" ; Times: 1
+	Query: "specificepithet:townsendii genus:scapanus" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Harlee" ; Times: 2
+	Query: ""Vulpes vulpes" year >= 1950 year <= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:tigris genus:panthera" ; Times: 1
+	Query: "LAMA GLAMA" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1679 download events in this period)
+Total number of records downloaded: 2885 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2753
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 10
+	Date: 2014-05-02 ; Times: 2
+	Date: 2014-05-05 ; Times: 8
+	Date: 2014-05-06 ; Times: 3
+	Date: 2014-05-16 ; Times: 2
+	Date: 2014-05-17 ; Times: 2
+	Date: 2014-05-18 ; Times: 2
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-21 ; Times: 2
+	Date: 2014-05-22 ; Times: 2
+	Date: 2014-05-23 ; Times: 3
+	Date: 2014-05-25 ; Times: 3
+	Date: 2014-05-26 ; Times: 1
+	Date: 2014-05-27 ; Times: 1
+	Date: 2014-05-29 ; Times: 4
+	Date: 2014-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "zalophus" ; Times: 1
+	Query: "Barisia imbricata stateprovince:"Mexico"" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus year >= 1980 year <= 2014" ; Times: 1
+	Query: "Tamias type:specimen AND (NOT striatus NOT sibiricus) year >= 1800 year <= 2005" ; Times: 1
+	Query: "type:specimen county:"Clark" stateprovince:"Nevada" class:mammalia" ; Times: 1
+	Query: ""Arizona elegans"" ; Times: 1
+	Query: ""Aquila chrysaetos"" ; Times: 1
+	Query: "felis chaus" ; Times: 3
+	Query: "Squamata country:"Australia"" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.16295449004889,-118.00277709960938))<8154.80069913644" ; Times: 1
+	Query: ""Athene cunicularia"" ; Times: 1
+	Query: "puma concolor type:specimen" ; Times: 1
+	Query: "Artiodactyla" ; Times: 1
+	Query: "Mulcahy" ; Times: 2
+	Query: "Primates" ; Times: 1
+	Query: "marmota olympus mappable:1" ; Times: 1
+	Query: ""Toxostoma crissale"" ; Times: 1
+	Query: "Thamnophis eques stateprovince:"Mexico"" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "Pteropus institutioncode:PSM" ; Times: 1
+	Query: ""Sauromalus obesus"" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "ursus" ; Times: 1
+	Query: ""Toxostoma lecontei"" ; Times: 1
+	Query: "palenque" ; Times: 1
+	Query: "egretta rufescens" ; Times: 1
+	Query: ""Campylorhynchus brunneicapillus"" ; Times: 1
+	Query: "Micrurus fulvius stateprovince:"Florida"" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "marsupialia" ; Times: 1
+	Query: "type:specimen county:"Plumas" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "class:Mammalia palenque chiapas" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.164090803573146,-118.00689697265625))<8170.3746424486" ; Times: 1
+	Query: ""Masticophis flagellum"" ; Times: 2
+	Query: "tadarida" ; Times: 1
+	Query: "Monotremata" ; Times: 5
+	Query: "type:specimen county:"Tehama" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.166363384737814,-118.01101684570312))<2848.348537124411" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 599
+Total number of records retrieved from searches: 8839
+Number of download events that retrieved data from the resource: 404
+Total number of records downloaded: 67380
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 599
+Total number of records retrieved from searches: 8839
+Number of download events that retrieved data from the resource: 601
+Total number of records downloaded: 167007
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
