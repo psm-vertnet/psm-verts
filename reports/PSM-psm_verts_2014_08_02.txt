@@ -1,0 +1,360 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 280
+Number of records retrieved in searches: 2374
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 5
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Costa Rica ; Times: 3
+	Country: France ; Times: 1
+	Country: Germany ; Times: 8
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 24
+	Country: Spain ; Times: 3
+	Country: United States ; Times: 209
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 4
+	Date: 2014-07-02 ; Times: 6
+	Date: 2014-07-03 ; Times: 7
+	Date: 2014-07-04 ; Times: 7
+	Date: 2014-07-05 ; Times: 2
+	Date: 2014-07-06 ; Times: 4
+	Date: 2014-07-07 ; Times: 23
+	Date: 2014-07-08 ; Times: 9
+	Date: 2014-07-09 ; Times: 19
+	Date: 2014-07-10 ; Times: 19
+	Date: 2014-07-11 ; Times: 40
+	Date: 2014-07-12 ; Times: 3
+	Date: 2014-07-13 ; Times: 2
+	Date: 2014-07-14 ; Times: 10
+	Date: 2014-07-15 ; Times: 16
+	Date: 2014-07-16 ; Times: 17
+	Date: 2014-07-17 ; Times: 8
+	Date: 2014-07-18 ; Times: 12
+	Date: 2014-07-19 ; Times: 4
+	Date: 2014-07-20 ; Times: 4
+	Date: 2014-07-21 ; Times: 8
+	Date: 2014-07-22 ; Times: 2
+	Date: 2014-07-23 ; Times: 10
+	Date: 2014-07-24 ; Times: 13
+	Date: 2014-07-25 ; Times: 6
+	Date: 2014-07-26 ; Times: 1
+	Date: 2014-07-27 ; Times: 3
+	Date: 2014-07-28 ; Times: 9
+	Date: 2014-07-29 ; Times: 8
+	Date: 2014-07-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "reithrodontomys montanus" ; Times: 1
+	Query: "panthera" ; Times: 2
+	Query: "cynomys ludovicianus" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "genus:Patagioenas" ; Times: 4
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "ascaphus truei year >= 1800 year <= 2000" ; Times: 2
+	Query: "Ochotona princeps oregon" ; Times: 1
+	Query: "stateprovince:"north dakota" specificepithet:nivalis genus:mustela" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "specificepithet:fusca genus:Phoebetria" ; Times: 4
+	Query: ""Sciurus niger" type:specimen (skeleton) year >= 1950 year <= 2014" ; Times: 1
+	Query: "pecari tajacu" ; Times: 5
+	Query: "stateprovince:"washington" specificepithet:corax genus:corvus year >= 1950 year <= 2014 distance(location,geopoint(46.6795944656402,-117.0703125))<141845" ; Times: 1
+	Query: "sus scrofa" ; Times: 6
+	Query: "stateprovince:"washington" specificepithet:corax genus:corvus year >= 1960 year <= 2014" ; Times: 1
+	Query: "class:Mammalia Spilogale gracilis" ; Times: 5
+	Query: "Panthera onca" ; Times: 1
+	Query: "stateprovince:"North Dakota" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 3
+	Query: "Ochotona princeps oregon 1926" ; Times: 1
+	Query: "phocoena" ; Times: 1
+	Query: "(dasyuridae)" ; Times: 1
+	Query: "strix varia illinois" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT fossil) year >= 1940 year <= 2014" ; Times: 1
+	Query: "Ummz Picoides borealis" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1960 year <= 2014 distance(location,geopoint(46.6795944656402,-117.0703125))<272499" ; Times: 1
+	Query: "stateprovince:"north dakota" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "procyon lotor stateprovince:"washington"" ; Times: 1
+	Query: "Mustela nivalis" ; Times: 3
+	Query: "arborimus pomo sonoma" ; Times: 2
+	Query: "stateprovince:"arizona" specificepithet:corax genus:corvus year >= 1950 year <= 2014" ; Times: 1
+	Query: "Lepus americanus institutioncode:PSM year >= 1950 year <= 1957" ; Times: 1
+	Query: "graphiurus" ; Times: 1
+	Query: "Dasyuridae institutioncode:PSM" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "stateprovince:"oregon" specificepithet:corax genus:corvus year >= 1960 year <= 2014" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" class:aves year >= 1950 year <= 2014" ; Times: 1
+	Query: "picoides borealis" ; Times: 4
+	Query: "Tamias ruficaudus type:specimen mappable:1" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 11
+	Query: "type:specimen county:"humboldt" stateprovince:"california" class:aves year >= 1950 year <= 2014" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1900 year <= 2014 distance(location,geopoint(56.58369172128337,-134.3408203125))<285682" ; Times: 1
+	Query: "guatemala solola mammals" ; Times: 1
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "epicrates striatus" ; Times: 1
+	Query: "catalognumber:Bird-02046 institutioncode:PSM" ; Times: 1
+	Query: "geomys personatus distance(location,geopoint(27.371767300523047,-98.184814453125))<196343" ; Times: 1
+	Query: "panthera mappable:1" ; Times: 1
+	Query: "stateprovince:"oregon" specificepithet:corax genus:corvus (skin) year >= 1960 year <= 2014" ; Times: 1
+	Query: "institutioncode:psm" ; Times: 1
+	Query: "Monophyllus redmani" ; Times: 2
+	Query: "jewett ochotona" ; Times: 2
+	Query: "genus:phoebetria class:aves" ; Times: 1
+	Query: "UMNH Spilogale" ; Times: 1
+	Query: "county:"Humboldt" stateprovince:"California" specificepithet:pomo genus:Arborimus class:Mammalia" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "acomys" ; Times: 3
+	Query: "brachylagus" ; Times: 3
+	Query: "thamnophis hammondii" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 3
+	Query: "zalophus californianus" ; Times: 2
+	Query: "arborimus pomo" ; Times: 1
+	Query: "skin immutabilis type:specimen (diomedea OR phoebastria) AND (NOT Mexico) year >= 1970 year <= 1979" ; Times: 2
+	Query: "geomys personatus" ; Times: 2
+	Query: "cockroach" ; Times: 1
+	Query: "Onychoprion fuscatus year >= 1907 year <= 1953" ; Times: 1
+	Query: ""quiscalus mexicanus" type:specimen" ; Times: 2
+	Query: "Lepus americanus stateprovince:"Alaska" institutioncode:PSM year >= 1950 year <= 1957" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1980 year <= 2014 distance(location,geopoint(47.55240677521587,-112.9397951066494))<553899" ; Times: 1
+	Query: ""picoides borealis" year >= 1700 year <= 1969" ; Times: 1
+	Query: "specificepithet:lagopus genus:Buteo" ; Times: 2
+	Query: "guano ranch" ; Times: 4
+	Query: "Terrapene carolina stateprovince:"New Jersey"" ; Times: 1
+	Query: "Chiroptera Bahamas" ; Times: 1
+	Query: "alectoris mappable:1" ; Times: 2
+	Query: "Tympanuchus cupido cupido specificepithet:cupido genus:Tympanuchus" ; Times: 2
+	Query: "aegolius h*" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "Jewett ochotona" ; Times: 1
+	Query: "specificepithet:scandiacus genus:bubo" ; Times: 1
+	Query: "Uromastyx aegyptius" ; Times: 2
+	Query: "stateprovince:"washington" specificepithet:corax genus:corvus year >= 1960 year <= 2014 distance(location,geopoint(46.6795944656402,-117.0703125))<141845" ; Times: 1
+	Query: "class:Mammalia balaenoptera acutorostrata" ; Times: 9
+	Query: "pterodroma cookii" ; Times: 1
+	Query: "orca mappable:1" ; Times: 1
+	Query: "Uromastix aegyptius" ; Times: 10
+	Query: "ROM 692" ; Times: 1
+	Query: "Tamias palmeri type:specimen mappable:1" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 10
+	Query: "geomys personatus distance(location,geopoint(27.371767300523047,-98.184814453125))<100000" ; Times: 1
+	Query: "recordedby:Brown year >= 1916 year <= 1916" ; Times: 2
+	Query: "NEOTOMA CINEREA OREGON" ; Times: 1
+	Query: ""Tamias sibiricus" type:specimen mappable:1" ; Times: 1
+	Query: "crow" ; Times: 2
+	Query: "specificepithet:Axis" ; Times: 2
+	Query: "Peromyscus leucopus stateprovince:"Missouri"" ; Times: 1
+	Query: "amphiesma" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1960 year <= 2014 distance(location,geopoint(46.6795944656402,-117.0703125))<141845" ; Times: 1
+	Query: "alaska bull" ; Times: 1
+	Query: "cynomys gunnisoni type:specimen genus:cynomys year >= 1930 year <= 2014" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1960 year <= 2014" ; Times: 1
+	Query: "country:"Canada" specificepithet:palustris genus:Sorex institutioncode:PSM" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+	Query: "genus:Balaenoptera" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1960 year <= 2014 distance(location,geopoint(46.6795944656402,-117.0703125))<202077" ; Times: 2
+	Query: "county:"humboldt" specificepithet:longicaudus genus:Arborimus" ; Times: 1
+	Query: "Trichechus manatus manatus" ; Times: 1
+	Query: "ochotona jewett" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "stateprovince:"washington" specificepithet:corax genus:corvus year >= 1950 year <= 2014" ; Times: 1
+	Query: "class:Mammalia Spilogale" ; Times: 1
+	Query: ""picoides borealis"" ; Times: 2
+	Query: "geomys personatus distance(location,geopoint(28.69058765425071,-98.10791015625))<177239" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1990 year <= 2014" ; Times: 2
+	Query: "Tympanuchus cupido cupido specificepithet:cupido cupido genus:Tympanuchus" ; Times: 1
+	Query: "epicrates" ; Times: 3
+	Query: "skin immutabilis type:specimen (diomedea OR phoebastria) AND (NOT Mexico) year >= 1950 year <= 1959" ; Times: 1
+	Query: "stateprovince:"California" genus:Patagioenas" ; Times: 1
+	Query: "Fulica gigantea" ; Times: 3
+	Query: "stateprovince:"California" specificepithet:pomo genus:Arborimus class:Mammalia" ; Times: 1
+	Query: "guano oregon" ; Times: 3
+	Query: "tnhc" ; Times: 1
+	Query: "phrynosoma shasta county" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Kentucky"" ; Times: 1
+	Query: "dryocopus pileatus" ; Times: 2
+	Query: "specificepithet:nigripes genus:Phoebastria" ; Times: 2
+	Query: "Dasyuridae" ; Times: 1
+	Query: "Patagioenas fasciata" ; Times: 3
+	Query: ""uta stansburiana" mappable:1 distance(location,geopoint(37.474858084971046,-120.4541015625))<100000" ; Times: 1
+	Query: "aegolius" ; Times: 1
+	Query: "phrynosoma siskiyou county" ; Times: 2
+	Query: "noctilionidae" ; Times: 1
+	Query: "ibis ibis class:aves" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 2
+	Query: "specificepithet:corax genus:corvus year >= 1980 year <= 2014" ; Times: 1
+	Query: "type:specimen genus:Ectopistes" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "ochotona oregon" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) distance(location,geopoint(33.97980872872457,-120.157470703125))<100000" ; Times: 1
+	Query: "geomys personatus distance(location,geopoint(28.69058765425071,-98.10791015625))<100000" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "specificepithet:axis" ; Times: 9
+	Query: "equus" ; Times: 1
+	Query: "ROM" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Neotoma cinerea stateprovince:"California"" ; Times: 1
+	Query: "rana muscosa" ; Times: 6
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:cryptoleucus genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "UAM Canis lupus" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) distance(location,geopoint(33.97980872872457,-120.157470703125))<146792" ; Times: 1
+	Query: "gorilla" ; Times: 2
+	Query: "cynomys gunnisoni type:specimen year >= 1930 year <= 2014" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1950 year <= 2014" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 437 download events in this period)
+Total number of records downloaded: 9452 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 9254
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 17
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 1
+	Date: 2014-07-02 ; Times: 1
+	Date: 2014-07-03 ; Times: 3
+	Date: 2014-07-06 ; Times: 1
+	Date: 2014-07-07 ; Times: 4
+	Date: 2014-07-08 ; Times: 1
+	Date: 2014-07-09 ; Times: 5
+	Date: 2014-07-10 ; Times: 1
+	Date: 2014-07-11 ; Times: 2
+	Date: 2014-07-12 ; Times: 9
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-14 ; Times: 2
+	Date: 2014-07-15 ; Times: 14
+	Date: 2014-07-16 ; Times: 4
+	Date: 2014-07-17 ; Times: 3
+	Date: 2014-07-18 ; Times: 2
+	Date: 2014-07-19 ; Times: 14
+	Date: 2014-07-20 ; Times: 2
+	Date: 2014-07-21 ; Times: 2
+	Date: 2014-07-22 ; Times: 1
+	Date: 2014-07-24 ; Times: 1
+	Date: 2014-07-25 ; Times: 4
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-29 ; Times: 2
+	Date: 2014-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Tympanuchus cupido cupido specificepithet:cupido cupido genus:Tympanuchus" ; Times: 1
+	Query: "Tamias ruficaudus type:specimen mappable:1" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: ""Tamias striatus" type:specimen mappable:1" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "type:specimen county:"humboldt" stateprovince:"california" class:aves year >= 1950 year <= 2014" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "vespertilionidae" ; Times: 1
+	Query: "Tupinambis" ; Times: 2
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "UAM Canis lupus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "mormoopidae" ; Times: 1
+	Query: "Kaloula picta philippines" ; Times: 1
+	Query: "Aphelocoma type:specimen" ; Times: 1
+	Query: "country:"Trinidad" year <= 2014" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "canis lupus mappable:1" ; Times: 1
+	Query: "arborimus pomo" ; Times: 1
+	Query: "Tamias amoenus type:specimen mappable:1" ; Times: 1
+	Query: "rhodinocichla" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Kentucky"" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Tamias dorsalis type:specimen mappable:1" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "cynomys gunnisoni type:specimen year >= 1930 year <= 2014" ; Times: 1
+	Query: ""Tamias siskiyou" type:specimen mappable:1" ; Times: 1
+	Query: "graphiurus" ; Times: 1
+	Query: ""Tamias sibiricus" type:specimen mappable:1" ; Times: 1
+	Query: ""Tamias townsendii" type:specimen mappable:1" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "noctilionidae" ; Times: 1
+	Query: "order:Squamata mappable:1" ; Times: 1
+	Query: ""Tamias speciosus" type:specimen mappable:1" ; Times: 1
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "siren lacertina" ; Times: 1
+	Query: "specificepithet:Axis" ; Times: 1
+	Query: ""Tamias sonomae" type:specimen mappable:1" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Texas"" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: ""Tamias umbrinus" type:specimen mappable:1" ; Times: 1
+	Query: "Tamias quadrivittatus type:specimen mappable:1" ; Times: 1
+	Query: "natalidae" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: "emballonuridae" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "stateprovince:"North Dakota" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "Occidozyga laevis philippines" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "picoides borealis" ; Times: 2
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "phyllostomidae" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "stateprovince:"New Mexico" genus:myotis year >= 1950 year <= 2013 mappable:1" ; Times: 1
+	Query: "stateprovince:"New Mexico" genus:myotis year >= 1970 year <= 2014 mappable:1" ; Times: 1
+	Query: "Neotoma cinerea stateprovince:"California"" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Missouri"" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 1
+	Query: "Peromyscus boylii Peromyscus boylii type:specimen" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "Tamias minimus type:specimen mappable:1" ; Times: 1
+	Query: "country:"suriname"" ; Times: 1
+	Query: "country:"Guyana" year <= 2014" ; Times: 1
+	Query: "Tamias ochrogenys type:specimen mappable:1" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "molossidae" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "geomys personatus distance(location,geopoint(28.69058765425071,-98.10791015625))<177239" ; Times: 1
+	Query: "Tamias palmeri type:specimen mappable:1" ; Times: 1
+	Query: "Peromyscus leucopus AND (NOT reptilia)" ; Times: 1
+	Query: "Tamias senex type:specimen mappable:1" ; Times: 1
+	Query: "country:"paraguay"" ; Times: 1
+	Query: "sphenomorphus jagori" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1105
+Total number of records retrieved from searches: 15706
+Number of download events that retrieved data from the resource: 532
+Total number of records downloaded: 92053
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1105
+Total number of records retrieved from searches: 15706
+Number of download events that retrieved data from the resource: 729
+Total number of records downloaded: 191680
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
