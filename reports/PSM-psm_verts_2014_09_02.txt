@@ -1,0 +1,329 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 228
+Number of records retrieved in searches: 1244
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Ecuador ; Times: 2
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Israel ; Times: 6
+	Country: Mexico ; Times: 10
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 185
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 3
+	Date: 2014-08-03 ; Times: 1
+	Date: 2014-08-04 ; Times: 4
+	Date: 2014-08-05 ; Times: 19
+	Date: 2014-08-06 ; Times: 4
+	Date: 2014-08-07 ; Times: 1
+	Date: 2014-08-08 ; Times: 4
+	Date: 2014-08-10 ; Times: 1
+	Date: 2014-08-11 ; Times: 1
+	Date: 2014-08-12 ; Times: 12
+	Date: 2014-08-13 ; Times: 12
+	Date: 2014-08-14 ; Times: 8
+	Date: 2014-08-15 ; Times: 4
+	Date: 2014-08-16 ; Times: 4
+	Date: 2014-08-17 ; Times: 1
+	Date: 2014-08-18 ; Times: 25
+	Date: 2014-08-19 ; Times: 6
+	Date: 2014-08-20 ; Times: 7
+	Date: 2014-08-21 ; Times: 10
+	Date: 2014-08-22 ; Times: 5
+	Date: 2014-08-23 ; Times: 5
+	Date: 2014-08-25 ; Times: 1
+	Date: 2014-08-26 ; Times: 19
+	Date: 2014-08-27 ; Times: 10
+	Date: 2014-08-28 ; Times: 5
+	Date: 2014-08-29 ; Times: 52
+	Date: 2014-08-30 ; Times: 3
+	Date: 2014-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virescens genus:butorides AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "Suncus murinus" ; Times: 3
+	Query: "Martes pennanti type:specimen AND (NOT Canada NOT Alaska NOT Michigan)" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 2
+	Query: "Egretta thula" ; Times: 1
+	Query: "gulo gulo mappable:1" ; Times: 1
+	Query: "arborimus albipes" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:prehensilis genus:coendou" ; Times: 5
+	Query: "dendragapus stateprovince:"new mexico"" ; Times: 3
+	Query: "coendou" ; Times: 2
+	Query: "stateprovince:"Oregon" specificepithet:latrans genus:Canis" ; Times: 1
+	Query: "anas laysanensis" ; Times: 1
+	Query: "Chroicocephalus" ; Times: 1
+	Query: "stateprovince:"Idaho" genus:Canis" ; Times: 1
+	Query: ""myotis sodalis"" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Ardea alba" ; Times: 2
+	Query: "gulo gulo" ; Times: 3
+	Query: "Nasuella olivacea" ; Times: 7
+	Query: "myocastor" ; Times: 3
+	Query: "Chiroptera (Bahamas OR Bahama OR Bah)" ; Times: 1
+	Query: ""butorides virescens" AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "tepic" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:myotis" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1941 year <= 2014" ; Times: 1
+	Query: "TCWC herps" ; Times: 4
+	Query: "Chiroptera (Bahamas OR Bahama)" ; Times: 1
+	Query: "Cepphus columba columba" ; Times: 3
+	Query: "specificepithet:laysanensis genus:Anas" ; Times: 1
+	Query: "Lepus othus" ; Times: 1
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "Chiroptera country:"Bahamas"" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 2
+	Query: "amphisbaena" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 3
+	Query: ""butorides virescens" AND (NOT california) year >= 1888 year <= 1922" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 3
+	Query: "eggs specificepithet:virescens genus:butorides AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "Chriococephalus" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "specificepithet:virescens genus:butorides (skin OR skeleton) AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "Martes americana americana" ; Times: 1
+	Query: "specificepithet:chameleon" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1940 year <= 2014 distance(location,geopoint(49.49667452747044,-93.8671875))<203120" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "panthera tigris" ; Times: 1
+	Query: "stateprovince:"oregon" specificepithet:corax genus:corvus year >= 1980 year <= 2014" ; Times: 1
+	Query: "Hodomys" ; Times: 1
+	Query: "noctilio" ; Times: 2
+	Query: "myocastor coypus" ; Times: 5
+	Query: "type:specimen (Ectopistes migratorius)" ; Times: 1
+	Query: "buteo regalis" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 18
+	Query: "Gloydius" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 1
+	Query: "stateprovince:"Oregon" genus:Canis" ; Times: 1
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "specificepithet:nebulosa genus:strix" ; Times: 1
+	Query: "stateprovince:"Washington" genus:Canis" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "Herpestes javanicus type:specimen" ; Times: 1
+	Query: "genus:Coendou prehensilis" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: "rHINEURA" ; Times: 3
+	Query: "specificepithet:corax genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "stateprovince:"British Columbia" genus:Canis" ; Times: 1
+	Query: "gulo gulo mappable:1 distance(location,geopoint(40.0668647282059,-119.00390625))<645810" ; Times: 1
+	Query: "zonotrichia leucophrys leucophrys year >= 1990 year <= 2010" ; Times: 1
+	Query: ""Hipposideros diadema" mappable:1" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "cynomys gunnisoni" ; Times: 1
+	Query: "specificepithet:prehensilis genus:Coendou" ; Times: 13
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 2
+	Query: "batrachoseps "Baja California"" ; Times: 2
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "type:specimen specificepithet:prehensilis genus:Coendou" ; Times: 1
+	Query: "TCWC birds" ; Times: 1
+	Query: "matinicus rock" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: ""butorides virescens" AND (NOT california)" ; Times: 1
+	Query: "stateprovince:"Oregon" genus:Vulpes" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 8
+	Query: "Cratogeomys castanops" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 25
+	Query: "willet" ; Times: 1
+	Query: "Peropteryx macrotis distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1961 year <= 2014" ; Times: 1
+	Query: "gulo gulo type:specimen" ; Times: 1
+	Query: "specificepithet:pyctoris genus:Rattus" ; Times: 1
+	Query: "type:specimen genus:Ectopistes mappable:1" ; Times: 1
+	Query: "specificepithet:axis axis" ; Times: 2
+	Query: "stateprovince:"minnesota" specificepithet:corax genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "Ovibos moschatus psm" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "UCM" ; Times: 1
+	Query: "Plegadis chihi" ; Times: 2
+	Query: "Martes americana" ; Times: 3
+	Query: "toad" ; Times: 1
+	Query: "specificepithet:virescens genus:butorides (skin) AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "terrapene ornata" ; Times: 2
+	Query: "country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "specificepithet:axis" ; Times: 4
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "Genetta genetta type:specimen" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "macrotus waterhousii" ; Times: 1
+	Query: "Sigmodon alleni" ; Times: 3
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:parryii OR Genus:Urocitellus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 273 download events in this period)
+Total number of records downloaded: 5755 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3894
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: United States ; Times: 72
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-03 ; Times: 1
+	Date: 2014-08-04 ; Times: 1
+	Date: 2014-08-05 ; Times: 18
+	Date: 2014-08-06 ; Times: 1
+	Date: 2014-08-07 ; Times: 1
+	Date: 2014-08-08 ; Times: 5
+	Date: 2014-08-11 ; Times: 1
+	Date: 2014-08-12 ; Times: 1
+	Date: 2014-08-13 ; Times: 4
+	Date: 2014-08-14 ; Times: 8
+	Date: 2014-08-15 ; Times: 1
+	Date: 2014-08-16 ; Times: 2
+	Date: 2014-08-17 ; Times: 7
+	Date: 2014-08-18 ; Times: 9
+	Date: 2014-08-19 ; Times: 4
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-21 ; Times: 1
+	Date: 2014-08-22 ; Times: 6
+	Date: 2014-08-25 ; Times: 3
+	Date: 2014-08-26 ; Times: 11
+	Date: 2014-08-27 ; Times: 10
+	Date: 2014-08-28 ; Times: 6
+	Date: 2014-08-29 ; Times: 1
+	Date: 2014-08-30 ; Times: 2
+	Date: 2014-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Martes pennanti type:specimen AND (NOT Canada NOT Alaska NOT Michigan)" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "Saccopteryx bilineata distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "country:"Kenya" class:Mammalia" ; Times: 1
+	Query: "Ochotona princeps country:"United States" year >= 1971 year <= 2014 mappable:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "ensatina eschscholtzii" ; Times: 1
+	Query: "Acris gryllus" ; Times: 1
+	Query: ""Urocitellus parryii" OR "Spermophilus parryii"" ; Times: 1
+	Query: "scalopus aquaticus type:specimen" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "country:"Mexico" specificepithet:petechia genus:Dendroica" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza institutioncode:CAS OR MVZ" ; Times: 1
+	Query: "stateprovince:"Oregon" specificepithet:latrans genus:Canis" ; Times: 1
+	Query: "anas laysanensis" ; Times: 1
+	Query: "stateprovince:"Idaho" genus:Canis" ; Times: 1
+	Query: "eptesicus" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Perognathus inornatus inornatus" ; Times: 4
+	Query: "Dipodomys" ; Times: 1
+	Query: "Baja California Sur mammals" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "tepic" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:myotis" ; Times: 2
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "Chiroptera (Bahamas OR Bahama)" ; Times: 1
+	Query: "Lepus othus" ; Times: 2
+	Query: "country:"Mexico" specificepithet:cochlearius genus:Cochlearius" ; Times: 1
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "Chiroptera country:"Bahamas"" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "amphisbaena" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "family:Chamaeleonidae class:reptilia" ; Times: 1
+	Query: "class:Mammalia Panthera leo" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Acris crepitans" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Hodomys" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "buteo regalis" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "stateprovince:"Oregon" genus:Canis" ; Times: 1
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "stateprovince:"Washington" genus:Canis" ; Times: 1
+	Query: "condylura cristata type:specimen" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 3
+	Query: "rHINEURA" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "country:"Mexico" specificepithet:albus genus:Eudocimus" ; Times: 1
+	Query: "dendragapus stateprovince:"new mexico"" ; Times: 1
+	Query: "type:specimen (turdus) AND (NOT migratorius NOT merula NOT albicollis NOT philomelos NOT pilaris NOT ruficollis NOT rufopalliatus NOT olivaceus NOT obscurus)" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Spilogale putorius type:specimen" ; Times: 2
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: "Coahuila mammals type:specimen" ; Times: 1
+	Query: "Peromyscus gossypinus type:specimen" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "Coleonyx variegatus variegatus" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Ambystoma" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "specificepithet:pyctoris genus:Rattus" ; Times: 1
+	Query: "specificepithet:axis axis" ; Times: 1
+	Query: "Mephitis mephitis type:specimen" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "specificepithet:axis" ; Times: 1
+	Query: "Baja California Norte mammals" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Herpestidae type:specimen" ; Times: 1
+	Query: "Sigmodon alleni" ; Times: 2
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "genus:Spermophilus specificepithet:parryii OR Genus:Urocitellus" ; Times: 1
+	Query: "Sceloporus" ; Times: 4
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1333
+Total number of records retrieved from searches: 16950
+Number of download events that retrieved data from the resource: 639
+Total number of records downloaded: 97808
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1333
+Total number of records retrieved from searches: 16950
+Number of download events that retrieved data from the resource: 836
+Total number of records downloaded: 197435
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
