@@ -1,0 +1,285 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 180
+Number of records retrieved in searches: 2916
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 7
+	Country: Czech Republic ; Times: 3
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: Panama ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 129
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 26
+	Date: 2014-10-11 ; Times: 7
+	Date: 2014-10-12 ; Times: 1
+	Date: 2014-10-13 ; Times: 3
+	Date: 2014-10-14 ; Times: 15
+	Date: 2014-10-15 ; Times: 8
+	Date: 2014-10-16 ; Times: 13
+	Date: 2014-10-17 ; Times: 9
+	Date: 2014-10-18 ; Times: 4
+	Date: 2014-10-19 ; Times: 2
+	Date: 2014-10-20 ; Times: 14
+	Date: 2014-10-21 ; Times: 5
+	Date: 2014-10-22 ; Times: 12
+	Date: 2014-10-23 ; Times: 4
+	Date: 2014-10-24 ; Times: 9
+	Date: 2014-10-25 ; Times: 2
+	Date: 2014-10-26 ; Times: 5
+	Date: 2014-10-27 ; Times: 10
+	Date: 2014-10-28 ; Times: 13
+	Date: 2014-10-29 ; Times: 3
+	Date: 2014-10-30 ; Times: 9
+	Date: 2014-10-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia Martes pennanti" ; Times: 3
+	Query: "nasua narica mappable:1" ; Times: 1
+	Query: "specificepithet:varia genus:mniotilta (nest)" ; Times: 1
+	Query: "institutioncode:psm vertebrae collection" ; Times: 1
+	Query: "Balaenoptera acutorostrata skull" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "oCHOTONA COLLARIS" ; Times: 1
+	Query: "Morus" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 4
+	Query: "cracidae" ; Times: 2
+	Query: "abronia PSM" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "AN 830" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "gulo" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 2
+	Query: "institutioncode:psm Odocoileus hemionus" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:Corax genus:Corvus" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "stateprovince:"Oregon" recordedby:Braly" ; Times: 3
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 10
+	Query: "institutioncode:psm mammals" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: "Lemmiscus class:Mammalia" ; Times: 1
+	Query: "Phoca" ; Times: 1
+	Query: "parrot" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "antilocapra" ; Times: 1
+	Query: "Tarsius" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "nepal type:specimen" ; Times: 1
+	Query: "fairy" ; Times: 1
+	Query: "Canis lupus mappable:1" ; Times: 1
+	Query: "Glaucomys sabrinus year >= 1950 year <= 1960" ; Times: 1
+	Query: "meles meles" ; Times: 1
+	Query: "grus canadensis (alaska)" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "(how many species)" ; Times: 1
+	Query: "UWBM Washington Puma concolor" ; Times: 1
+	Query: "monotremata" ; Times: 1
+	Query: "Lepus othus" ; Times: 1
+	Query: "institutioncode:psm" ; Times: 6
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "genus:Phoca" ; Times: 1
+	Query: "Alligator mississippiensis" ; Times: 1
+	Query: "antilocapra (skull)" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "Alaska AND Kodiak type:specimen class:Aves" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "Petaluma county:"Sonoma" stateprovince:"California"" ; Times: 1
+	Query: "aneides hardii" ; Times: 2
+	Query: "catharus minimus" ; Times: 2
+	Query: "institutioncode:psm gannet" ; Times: 1
+	Query: "psaltria santa barbara" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "colocolo" ; Times: 1
+	Query: "Macaca mulatta mappable:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 6
+	Query: "nasua narica" ; Times: 2
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex" ; Times: 1
+	Query: "Nasuella olivacea" ; Times: 5
+	Query: "eleutherodactylus hobartsmithi" ; Times: 1
+	Query: "Chordeiles minor austin texas" ; Times: 1
+	Query: "Alaska AND Kodiak class:Aves" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "octodontidae" ; Times: 1
+	Query: "Abronia graminea" ; Times: 3
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "acerodon jubatus" ; Times: 1
+	Query: "PSM 21190" ; Times: 2
+	Query: "ghost" ; Times: 1
+	Query: "Alaska AND Kodiak" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 6
+	Query: "Peromyscus simulus" ; Times: 2
+	Query: "Barisia imbricata" ; Times: 2
+	Query: "specificepithet:sabrinus genus:Glaucomys year >= 1950 year <= 1960" ; Times: 2
+	Query: "institutioncode:psm Bovidae" ; Times: 3
+	Query: "institutioncode:psm morus bassanus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 3
+	Query: "Nasua type:specimen country:"Ecuador"" ; Times: 1
+	Query: "institutioncode:psm caribou" ; Times: 1
+	Query: "cavia porcellus" ; Times: 4
+	Query: "Chaetodipus artus" ; Times: 1
+	Query: "Alaska AND Kodiak type:specimen class:Aves institutioncode:psm" ; Times: 1
+	Query: "aethomys chrysophilus" ; Times: 2
+	Query: "specificepithet:dalli genus:Ovis" ; Times: 3
+	Query: "stateprovince:"washington" specificepithet:corax genus:corvus AND (NOT film NOT fossil NOT egg) year >= 1984 year <= 2014" ; Times: 1
+	Query: "gerbilliscus" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "plethodon idahoensis" ; Times: 6
+	Query: "stateprovince:"washington" specificepithet:corax genus:corvus AND (NOT film NOT fossil NOT egg) year >= 1924 year <= 1954" ; Times: 1
+	Query: "Hodomys alleni" ; Times: 2
+	Query: "lynx rufus institutioncode:PSM" ; Times: 4
+	Query: "vulpes lagopus" ; Times: 1
+	Query: "audubon type:specimen" ; Times: 1
+	Query: "county:"thurston" stateprovince:"Washington" specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "institutioncode:psm Cervidae" ; Times: 1
+	Query: "grus canadensis 1913 (alaska)" ; Times: 1
+	Query: "lepus othus PSM" ; Times: 1
+	Query: "county:"douglas" stateprovince:"Washington" specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "Alaska type:specimen class:Aves institutioncode:psm" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 166 download events in this period)
+Total number of records downloaded: 2773 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2461
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Czech Republic ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Paraguay ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 2
+	Date: 2014-10-11 ; Times: 1
+	Date: 2014-10-13 ; Times: 3
+	Date: 2014-10-14 ; Times: 3
+	Date: 2014-10-16 ; Times: 2
+	Date: 2014-10-17 ; Times: 2
+	Date: 2014-10-18 ; Times: 2
+	Date: 2014-10-19 ; Times: 1
+	Date: 2014-10-20 ; Times: 4
+	Date: 2014-10-21 ; Times: 6
+	Date: 2014-10-22 ; Times: 10
+	Date: 2014-10-23 ; Times: 2
+	Date: 2014-10-24 ; Times: 4
+	Date: 2014-10-25 ; Times: 5
+	Date: 2014-10-27 ; Times: 6
+	Date: 2014-10-28 ; Times: 4
+	Date: 2014-10-29 ; Times: 1
+	Date: 2014-10-30 ; Times: 2
+	Date: 2014-10-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis lupus mappable:1" ; Times: 1
+	Query: "class:Mammalia Martes pennanti" ; Times: 1
+	Query: "nasua narica mappable:1" ; Times: 1
+	Query: "Uroderma magnirostrum" ; Times: 1
+	Query: "dipodomys (ethanol OR alcohol OR fluid OR spirit OR alcoholic OR alc OR al)" ; Times: 1
+	Query: "nasua narica country:"Mexico"" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "nasua nasua mappable:1" ; Times: 1
+	Query: "eleutherodactylus hobartsmithi" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "Psammomys" ; Times: 1
+	Query: "octodontidae" ; Times: 1
+	Query: "Sorex ornatus" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "Chaetodipus pernix" ; Times: 1
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "type:specimen country:"kenya" class:amphibia mappable:1" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "gerbilliscus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "type:specimen country:"south africa" class:amphibia mappable:1" ; Times: 1
+	Query: "stateprovince:"Colorado" class:Mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "type:specimen specificepithet:purpureus genus:Carpodacus" ; Times: 2
+	Query: "Peromyscus simulus" ; Times: 1
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "MINDORO" ; Times: 1
+	Query: "Europe country:"France" mappable:1" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Hodomys alleni" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "passer domesticus type:specimen" ; Times: 1
+	Query: "momotus" ; Times: 1
+	Query: "Alaska AND Kodiak type:specimen class:Aves" ; Times: 1
+	Query: "rana muscosa" ; Times: 1
+	Query: "Didelphis Virginiana" ; Times: 1
+	Query: "Lemmiscus class:Mammalia" ; Times: 1
+	Query: "type:specimen country:"egypt" class:amphibia mappable:1" ; Times: 1
+	Query: "passer montanus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "pipilo maculatus" ; Times: 1
+	Query: "Paraguay" ; Times: 1
+	Query: "stateprovince:"Indiana" class:Mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "Onychomys leucogaster mappable:1" ; Times: 1
+	Query: "stateprovince:"Texas" class:Amphibia year >= 1888 year <= 2014" ; Times: 1
+	Query: "onychomys leucogaster" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1765
+Total number of records retrieved from searches: 20848
+Number of download events that retrieved data from the resource: 765
+Total number of records downloaded: 159312
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1765
+Total number of records retrieved from searches: 20848
+Number of download events that retrieved data from the resource: 962
+Total number of records downloaded: 258939
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
