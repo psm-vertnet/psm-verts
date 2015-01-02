@@ -1,0 +1,311 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 205
+Number of records retrieved in searches: 4013
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: France ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: New Zealand ; Times: 3
+	Country: Portugal ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 171
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 18
+	Date: 2014-12-02 ; Times: 4
+	Date: 2014-12-03 ; Times: 17
+	Date: 2014-12-04 ; Times: 30
+	Date: 2014-12-05 ; Times: 1
+	Date: 2014-12-06 ; Times: 10
+	Date: 2014-12-07 ; Times: 14
+	Date: 2014-12-08 ; Times: 6
+	Date: 2014-12-09 ; Times: 3
+	Date: 2014-12-10 ; Times: 1
+	Date: 2014-12-11 ; Times: 17
+	Date: 2014-12-12 ; Times: 3
+	Date: 2014-12-13 ; Times: 4
+	Date: 2014-12-14 ; Times: 1
+	Date: 2014-12-15 ; Times: 10
+	Date: 2014-12-16 ; Times: 16
+	Date: 2014-12-17 ; Times: 11
+	Date: 2014-12-18 ; Times: 11
+	Date: 2014-12-19 ; Times: 9
+	Date: 2014-12-20 ; Times: 1
+	Date: 2014-12-21 ; Times: 2
+	Date: 2014-12-23 ; Times: 2
+	Date: 2014-12-24 ; Times: 4
+	Date: 2014-12-26 ; Times: 2
+	Date: 2014-12-27 ; Times: 2
+	Date: 2014-12-28 ; Times: 2
+	Date: 2014-12-29 ; Times: 1
+	Date: 2014-12-30 ; Times: 1
+	Date: 2014-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:floridana genus:neotoma mappable:1" ; Times: 1
+	Query: "panthera" ; Times: 2
+	Query: ""phoca vitulina"" ; Times: 2
+	Query: "pteropus giganteus" ; Times: 1
+	Query: "Aneides lugubris Mendocino California" ; Times: 1
+	Query: "R. Turnbull" ; Times: 1
+	Query: "Pusa hispida AND skin year >= 1958 year <= 1962" ; Times: 1
+	Query: "plegadis falcinellus" ; Times: 1
+	Query: "Plethodon idahoensis" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "BYU" ; Times: 1
+	Query: ""Gulo gulo" mappable:1" ; Times: 1
+	Query: "genus:panthera" ; Times: 1
+	Query: "Gulo gulo" ; Times: 3
+	Query: "Slater museum" ; Times: 1
+	Query: "microtus californicus mexico" ; Times: 1
+	Query: "Nasua narica" ; Times: 6
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "aphelocoma coerulescens" ; Times: 6
+	Query: ""spermophilus mexicanus" stateprovince:"texas"" ; Times: 2
+	Query: "institutioncode:PSM ( Pusa hispida AND project chariot)" ; Times: 2
+	Query: "Cyrtonyx" ; Times: 2
+	Query: "Serinus canaria year >= 1990 year <= 2014" ; Times: 1
+	Query: "institutioncode:PSM (Delphinapterus leucas AND project chariot)" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "(shelton pc)" ; Times: 3
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 5
+	Query: "Vulpes lagopus year >= 1950 year <= 2014" ; Times: 6
+	Query: "microtus californicus country:"mexico"" ; Times: 1
+	Query: "type:specimen stateprovince:"Washington" country:"United States" year >= 1960 year <= 1961" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus (skeleton OR skin OR skull) year >= 1975" ; Times: 1
+	Query: "Arborimus pomo year <= 2014 mappable:1" ; Times: 1
+	Query: "country:"new zealand" recordedby:campbell" ; Times: 1
+	Query: "institutioncode:psm" ; Times: 5
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "scaphiopus" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: ""Spermophilus mexicanus" stateprovince:"texas"" ; Times: 2
+	Query: "institutioncode:psm Dasyuromorphia" ; Times: 3
+	Query: "Ursus arctos" ; Times: 1
+	Query: "institutioncode:psm Didelphidae" ; Times: 4
+	Query: "Aneides lugubris Humboldt California" ; Times: 2
+	Query: "umnh mammal" ; Times: 1
+	Query: "Hembree class:Mammalia" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "type:specimen county:"lincoln" stateprovince:"maine"" ; Times: 1
+	Query: "(Shelton PC) year >= 1950 year <= 1965" ; Times: 1
+	Query: "Pusa hispida" ; Times: 3
+	Query: "microtus oregoni Vashon island" ; Times: 1
+	Query: "Rom" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 1
+	Query: "Phocidae AND project chariot" ; Times: 2
+	Query: "nOCTILIO" ; Times: 1
+	Query: "puma concolor type:specimen country:"United States"" ; Times: 1
+	Query: "nasua narica" ; Times: 2
+	Query: "Balaenoptera acutorostrata" ; Times: 15
+	Query: "sylvilagus brasiliensis" ; Times: 3
+	Query: "slater type:specimen stateprovince:"Washington" country:"United States" year >= 1960 year <= 1961" ; Times: 1
+	Query: "microtus oregoni king" ; Times: 1
+	Query: "Canis rufus type:specimen" ; Times: 3
+	Query: "class:mammalia syndactylus" ; Times: 1
+	Query: "ambystoma californiense" ; Times: 1
+	Query: ""Notiosorex crawfordi" stateprovince:"Texas"" ; Times: 1
+	Query: "MSB Colubridae" ; Times: 1
+	Query: "synthliboramphus" ; Times: 1
+	Query: "Lampropeltis zonata California" ; Times: 1
+	Query: "papio" ; Times: 1
+	Query: "stateprovince:"Alaska" class:aves year >= 1949 year <= 1949" ; Times: 1
+	Query: "washington King renton" ; Times: 1
+	Query: "Arborimus pomo stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:dorsatum genus:Erethizon year >= 1975" ; Times: 1
+	Query: "mammalia AND project chariot" ; Times: 2
+	Query: "ummz vireo" ; Times: 1
+	Query: "ummz burleigh" ; Times: 3
+	Query: "sea lion" ; Times: 2
+	Query: "catalognumber:18629 (Mammal)" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: ""Vireo huttoni"" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen country:"ecuador"" ; Times: 1
+	Query: "slater museum" ; Times: 1
+	Query: "microtus oregoni Vashon" ; Times: 1
+	Query: "synthliboramphus craveri" ; Times: 1
+	Query: "catalognumber:18629 (Mammalia)" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:mississippiensis genus:Ictinia" ; Times: 1
+	Query: "specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "Falco sparverius (oregon)" ; Times: 5
+	Query: "Erignathus barbatus year >= 1958 year <= 1962" ; Times: 1
+	Query: "canada rana sylvatica" ; Times: 2
+	Query: "zanzibar" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Aonyx" ; Times: 2
+	Query: "7323 Birds (skeleton OR skull)" ; Times: 1
+	Query: "lampropeltis zonata mappable:1" ; Times: 1
+	Query: "Boa constrictor" ; Times: 2
+	Query: ""procyon lotor" stateprovince:"texas"" ; Times: 3
+	Query: "Vulpes lagopus" ; Times: 4
+	Query: "Vombatus" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "aphelocoma coerulescens stateprovince:"Florida"" ; Times: 1
+	Query: "Hodomys alleni" ; Times: 3
+	Query: "spea bombifrons" ; Times: 2
+	Query: ""Odocoileus virginianus" institutioncode:PSM" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Pusa hispida AND (NOT UAM) year >= 1958 year <= 1962" ; Times: 1
+	Query: "(Shelton) year >= 1950 year <= 1965" ; Times: 1
+	Query: ""Odocoileus hemionus" institutioncode:PSM" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "lepus townsendii" ; Times: 8
+	Query: "recordedby:maynard" ; Times: 1
+	Query: "PSM Mammal Mammal-14203" ; Times: 1
+	Query: "mammalia county:"sevier"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 238 download events in this period)
+Total number of records downloaded: 6288 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4144
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 76
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 1
+	Date: 2014-12-02 ; Times: 4
+	Date: 2014-12-03 ; Times: 7
+	Date: 2014-12-04 ; Times: 4
+	Date: 2014-12-05 ; Times: 9
+	Date: 2014-12-06 ; Times: 1
+	Date: 2014-12-07 ; Times: 1
+	Date: 2014-12-08 ; Times: 6
+	Date: 2014-12-09 ; Times: 4
+	Date: 2014-12-10 ; Times: 7
+	Date: 2014-12-12 ; Times: 2
+	Date: 2014-12-15 ; Times: 3
+	Date: 2014-12-16 ; Times: 3
+	Date: 2014-12-17 ; Times: 1
+	Date: 2014-12-18 ; Times: 4
+	Date: 2014-12-21 ; Times: 1
+	Date: 2014-12-22 ; Times: 1
+	Date: 2014-12-23 ; Times: 2
+	Date: 2014-12-24 ; Times: 11
+	Date: 2014-12-25 ; Times: 1
+	Date: 2014-12-26 ; Times: 4
+	Date: 2014-12-27 ; Times: 1
+	Date: 2014-12-28 ; Times: 2
+	Date: 2014-12-30 ; Times: 3
+	Date: 2014-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen stateprovince:"alaska" specificepithet:vitulina genus:phoca" ; Times: 1
+	Query: "ambystoma californiense" ; Times: 1
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "Spermophilus beldingi beldingi stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Microtus montanus montanus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "type:specimen genus:lynx" ; Times: 1
+	Query: "Aneides" ; Times: 2
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "county:"Coconino" stateprovince:"Arizona"" ; Times: 1
+	Query: "Aneides Mendocino California" ; Times: 1
+	Query: "Lacertidae" ; Times: 1
+	Query: "Arborimus pomo year <= 2014 mappable:1" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "county:"Apache" stateprovince:"Arizona"" ; Times: 1
+	Query: "Aneides lugubris Mendocino California" ; Times: 1
+	Query: "rhyacotriton variegatus" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: ""spea intermontana" mappable:1" ; Times: 1
+	Query: ""plethodon dunni"" ; Times: 1
+	Query: "wyoming" ; Times: 1
+	Query: "chiroptera stateprovince:"New Mexico" year <= 1959" ; Times: 1
+	Query: "stateprovince:"Ohio" class:Aves" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "Aneides lugubris genus:Aneides mappable:1" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" class:Aves" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "megascops asio" ; Times: 1
+	Query: "Arborimus pomo stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "type:specimen country:"costa rica" (cuculiformes)" ; Times: 1
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "chiroptera panama" ; Times: 1
+	Query: "Vulpes lagopus year >= 1950 year <= 2014" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" class:amphibia mappable:1" ; Times: 1
+	Query: "Microtus montanus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:carolinensis genus:sciurus year >= 1975" ; Times: 1
+	Query: "batrachoseps attenuatus (Mendocino county)" ; Times: 1
+	Query: "Canis rufus type:specimen" ; Times: 1
+	Query: "lynx" ; Times: 2
+	Query: "aphelocoma coerulescens stateprovince:"Florida"" ; Times: 1
+	Query: "peromyscus eremicus stateprovince:"california"" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus year >= 1975" ; Times: 1
+	Query: "Batrachoseps Mendocino California" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "county:"Sandoval" stateprovince:"New Mexico"" ; Times: 1
+	Query: "type:specimen country:"el salvador" (cuculiformes)" ; Times: 1
+	Query: "rhyacotriton olympicus" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: ""spermophilus mexicanus" stateprovince:"texas"" ; Times: 2
+	Query: "spea bombifrons" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:coronatum genus:Phrynosoma" ; Times: 1
+	Query: "type:specimen specificepithet:aquaticus genus:scalopus year >= 1975" ; Times: 1
+	Query: "Tamias speciosus speciosus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "county:"San Juan" stateprovince:"New Mexico"" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah"" ; Times: 1
+	Query: "mabuya mappable:1" ; Times: 1
+	Query: "type:specimen country:"el salvador" (passeriformes)" ; Times: 1
+	Query: "rana areolata" ; Times: 1
+	Query: "type:specimen country:"costa rica" (passeriformes)" ; Times: 1
+	Query: "Rana muscosa" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "muntiacus skull" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:multicarinata genus:Elgaria" ; Times: 1
+	Query: "testudinidae" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: "micrurus tener" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2097
+Total number of records retrieved from searches: 26390
+Number of download events that retrieved data from the resource: 894
+Total number of records downloaded: 168396
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2097
+Total number of records retrieved from searches: 26390
+Number of download events that retrieved data from the resource: 1091
+Total number of records downloaded: 268023
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
