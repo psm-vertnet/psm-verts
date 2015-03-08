@@ -1,0 +1,398 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 268
+Number of records retrieved in searches: 4602
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 11
+	Country: Czech Republic ; Times: 1
+	Country: France ; Times: 7
+	Country: Germany ; Times: 9
+	Country: Mexico ; Times: 24
+	Country: Netherlands ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 203
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 20
+	Date: 2015-02-02 ; Times: 7
+	Date: 2015-02-03 ; Times: 21
+	Date: 2015-02-04 ; Times: 10
+	Date: 2015-02-05 ; Times: 22
+	Date: 2015-02-06 ; Times: 12
+	Date: 2015-02-07 ; Times: 2
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 6
+	Date: 2015-02-10 ; Times: 15
+	Date: 2015-02-11 ; Times: 12
+	Date: 2015-02-12 ; Times: 16
+	Date: 2015-02-13 ; Times: 14
+	Date: 2015-02-14 ; Times: 8
+	Date: 2015-02-15 ; Times: 1
+	Date: 2015-02-16 ; Times: 9
+	Date: 2015-02-17 ; Times: 14
+	Date: 2015-02-18 ; Times: 11
+	Date: 2015-02-19 ; Times: 7
+	Date: 2015-02-20 ; Times: 9
+	Date: 2015-02-21 ; Times: 5
+	Date: 2015-02-22 ; Times: 2
+	Date: 2015-02-23 ; Times: 14
+	Date: 2015-02-24 ; Times: 3
+	Date: 2015-02-25 ; Times: 13
+	Date: 2015-02-26 ; Times: 6
+	Date: 2015-02-27 ; Times: 2
+	Date: 2015-02-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "PSM Leucosticte "Oregon"" ; Times: 1
+	Query: "Chaetura pelagica mappable:1" ; Times: 1
+	Query: "Contia tenuis county:"Alameda" stateprovince:"California"" ; Times: 1
+	Query: "gavia stellata institutioncode:psm" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "29047 class:mammalia institutioncode:psm" ; Times: 1
+	Query: "ambystoma maculatum maryland" ; Times: 1
+	Query: "Taxidea" ; Times: 1
+	Query: "Hypsiglena" ; Times: 1
+	Query: "chelydra serpentina chelydra serpentina stateprovince:"maryland"" ; Times: 1
+	Query: "chelydra serpentina maryland" ; Times: 1
+	Query: "boa constrictor constrictor" ; Times: 1
+	Query: "psm reindeer" ; Times: 1
+	Query: "psm athene" ; Times: 3
+	Query: "genus:Dasypus" ; Times: 3
+	Query: "PSM Leucosticte tephrocotis wallowa" ; Times: 1
+	Query: "Plethodon idahoensis" ; Times: 1
+	Query: "psm Marmota caligata" ; Times: 1
+	Query: "alca torda eggs" ; Times: 1
+	Query: "type:specimen county:"Los Angeles" stateprovince:"California" (Hypsiglena torquata)" ; Times: 1
+	Query: "PSM lemur" ; Times: 1
+	Query: "county:"Okanogan" stateprovince:"Washington" specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "project chariot" ; Times: 1
+	Query: "specificepithet:talamancae genus:Oryzomys" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "institutioncode:psm pavo" ; Times: 2
+	Query: "psm otus asio" ; Times: 1
+	Query: "PSM Oregon Leucosticte" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "institutioncode:psm panthera" ; Times: 2
+	Query: "county:"Seward" stateprovince:"Nebraska" year <= 2015" ; Times: 1
+	Query: "psm Marmota vancouverensis" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:atricristatus genus:Baeolophus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hurley institutioncode:psm year >= 1929 year <= 1931" ; Times: 2
+	Query: "institutioncode:psm paradisaeidae" ; Times: 3
+	Query: "Leucosticte wallowa" ; Times: 1
+	Query: "aneides lugubris county:"Humboldt"" ; Times: 2
+	Query: "panthera onca" ; Times: 7
+	Query: "PSM Leucosticte" ; Times: 2
+	Query: "samana" ; Times: 1
+	Query: "Melospiza melodia stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "xenosaurus" ; Times: 2
+	Query: "walrus" ; Times: 2
+	Query: "bubo psm" ; Times: 1
+	Query: "rausch stateprovince:"alaska" year >= 1949 year <= 1949" ; Times: 1
+	Query: "Isthmomys pirrensis" ; Times: 2
+	Query: "country:"canada" specificepithet:ungava genus:phenacomys" ; Times: 1
+	Query: "crotalus molossus" ; Times: 2
+	Query: "stateprovince:"california" specificepithet:cinereus genus:lasiurus" ; Times: 1
+	Query: "psm tyto" ; Times: 2
+	Query: "Leptodeira splendida" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Gorilla gorilla" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Leucosticte Oregon PSM" ; Times: 1
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:Striatus genus:Tamias year >= 1960 year <= 2015" ; Times: 1
+	Query: "palomar mountain distance(location,geopoint(33.32651223950189,-116.9498062133789))<100000" ; Times: 1
+	Query: "Mclean county illinois" ; Times: 1
+	Query: "jones year >= 1900 year <= 1935" ; Times: 1
+	Query: ""Dasypus novemcinctus " mappable:1" ; Times: 1
+	Query: "salamandra" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "phrynosoma mcallii" ; Times: 1
+	Query: "Slater Museum" ; Times: 1
+	Query: "PSM Leucosticte atrata" ; Times: 1
+	Query: "Leucosticte tephrocotis wallowa stateprovince:"Oregon"" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1950 year <= 1970" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:striatus genus:Tamias year >= 1920" ; Times: 1
+	Query: "PSM Leucosticte Oregon" ; Times: 1
+	Query: "psm asio otus" ; Times: 1
+	Query: "county:"Hall" stateprovince:"Nebraska" year <= 2015" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "ROM Leucosticte" ; Times: 1
+	Query: "PSM Urocyon littoralis" ; Times: 1
+	Query: "psm turdus migratorius" ; Times: 2
+	Query: "county:"Seward" stateprovince:"Nebraska" year >= 1960 year <= 2015" ; Times: 1
+	Query: "Empidonax year >= 1990 year <= 2013 mappable:1" ; Times: 1
+	Query: "Hylocichla mustelina (Maine)" ; Times: 1
+	Query: "thamnophis eques" ; Times: 1
+	Query: "pyxicephalidae" ; Times: 1
+	Query: "psm micrathene" ; Times: 1
+	Query: "charina "charina" (california) AND (mexico)" ; Times: 1
+	Query: ""Empidonax traillii" type:specimen (montana) mappable:1" ; Times: 1
+	Query: ""Dendroica petechia" type:specimen (California) mappable:1 distance(location,geopoint(39.35836934869491,-120.73608353734016))<100000" ; Times: 1
+	Query: "piranga ludoviciana johnson" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 3
+	Query: "Phoebastria albatrus" ; Times: 2
+	Query: "Hemidactylus Turcicus" ; Times: 2
+	Query: "county:"Los Angeles" stateprovince:"California" specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "Mclean county illinois mammals" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Psittacula type:specimen (eggs OR nest)" ; Times: 1
+	Query: "heliophobius argenteocinereus" ; Times: 1
+	Query: "Leucosticte tephrocotis wallowa" ; Times: 1
+	Query: "Rhineura floridana" ; Times: 1
+	Query: "Mclean illinois mammals" ; Times: 1
+	Query: "psm Glaucidium" ; Times: 1
+	Query: "psm strix" ; Times: 3
+	Query: "Wilsonia citrina stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "psm megascops" ; Times: 3
+	Query: "specificepithet:ungava genus:phenacomys" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:heath year >= 1900 year <= 1920" ; Times: 1
+	Query: "Oregon Leucosticte tephrocotis type:specimen" ; Times: 1
+	Query: "psm otus" ; Times: 2
+	Query: "Psittacula AND eggs" ; Times: 1
+	Query: "genus:dasypus" ; Times: 3
+	Query: "catharus guttatus (Maine)" ; Times: 1
+	Query: "strix psm" ; Times: 1
+	Query: "gymnogyps" ; Times: 2
+	Query: "stateprovince:"Giza" country:"Egypt" class:Reptilia" ; Times: 1
+	Query: "connecticut hill stateprovince:"New York"" ; Times: 1
+	Query: "chaetura pelagica mappable:1" ; Times: 3
+	Query: "melospiza melodia yakima" ; Times: 1
+	Query: "Amphisbaena manni" ; Times: 3
+	Query: "enhydra lutris" ; Times: 1
+	Query: "cyrtonyx montezumae chihuahua" ; Times: 1
+	Query: "spea stateprovince:"Nebraska" year <= 2015" ; Times: 1
+	Query: "type:specimen genus:Ursus year >= 1931 year <= 1933" ; Times: 1
+	Query: "blarina stateprovince:"missouri"" ; Times: 2
+	Query: "Oregon Leucosticte type:specimen" ; Times: 1
+	Query: "tigrinus" ; Times: 1
+	Query: "genus:Ursus year >= 1931 year <= 1933" ; Times: 2
+	Query: "peromyscus ann arbor AND (ummz)" ; Times: 1
+	Query: "Callipepla Californica mappable:1" ; Times: 3
+	Query: "dendroica petechia year >= 2000 year <= 2013 mappable:1" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 7
+	Query: "cathartes aura" ; Times: 1
+	Query: "type:specimen specificepithet:brachyurus genus:Buteo AND (skin)" ; Times: 1
+	Query: "country:"New Zealand" institutioncode:psm" ; Times: 1
+	Query: "stateprovince:"Valle del cauca" country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "stateprovince:"Colorado" specificepithet:Princeps genus:Zapus" ; Times: 3
+	Query: "leucosticte oregon" ; Times: 2
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "gallinula chloropus" ; Times: 1
+	Query: "geococcyx californianus mappable:1" ; Times: 2
+	Query: ""sciurus arizonensis"" ; Times: 1
+	Query: "psm bubo" ; Times: 2
+	Query: "PSM Oregon Leucosticte tephrocotis type:specimen" ; Times: 1
+	Query: "Marmota olympus" ; Times: 1
+	Query: "institutioncode:psm phalaropus" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "psm hawaii" ; Times: 1
+	Query: "class:mammalia institutioncode:psm" ; Times: 1
+	Query: "stateprovince:"Oregon" specificepithet:siskiyou class:Mammalia" ; Times: 2
+	Query: "Urocyon littoralis year <= 2015" ; Times: 1
+	Query: "Geococcyx californianus mappable:1" ; Times: 4
+	Query: "tnhc" ; Times: 1
+	Query: "rochester" ; Times: 1
+	Query: "county:"Osceola" stateprovince:"Florida" year <= 2015" ; Times: 1
+	Query: "type:specimen stateprovince:"North Dakota" (Devils Lake) mappable:1" ; Times: 1
+	Query: ""dendroica petechia" (idaho) mappable:1" ; Times: 1
+	Query: "Falco peregrinus eggs" ; Times: 1
+	Query: "Chen caerulescens" ; Times: 1
+	Query: "Delphinus Delphis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 2
+	Query: "branta bernicla distance(location,geopoint(70.50535400877942,-153.017578125))<215614" ; Times: 1
+	Query: "Geococcyx Californianus mappable:1" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "Psittacula eggs" ; Times: 3
+	Query: "PSM Apodemus" ; Times: 1
+	Query: "dutch birds" ; Times: 1
+	Query: "msb sceloporus" ; Times: 1
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:striatus genus:Tamias" ; Times: 1
+	Query: "institutioncode:PSM" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "psm asio" ; Times: 1
+	Query: "Gorilla" ; Times: 1
+	Query: "palomar mountain" ; Times: 1
+	Query: "institutioncode:psm" ; Times: 2
+	Query: "Buckley" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hunter" ; Times: 1
+	Query: "usnm 1936" ; Times: 1
+	Query: "institutioncode:psm ovis canadensis" ; Times: 1
+	Query: "Brehm" ; Times: 1
+	Query: "dendroica petechia year >= 1990 year <= 2013 mappable:1" ; Times: 1
+	Query: "genus:Balaena" ; Times: 1
+	Query: "Leucosticte Oregon" ; Times: 5
+	Query: "dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Callipepla californica mappable:1" ; Times: 3
+	Query: "chelydra maryland" ; Times: 1
+	Query: "Numenius arquata" ; Times: 1
+	Query: "dasypus" ; Times: 1
+	Query: "canis aureus" ; Times: 1
+	Query: "urosaurus new mexico" ; Times: 1
+	Query: "stateprovince:"maryland" specificepithet:ruber genus:pseudotriton" ; Times: 1
+	Query: "charina "charina" (california) AND (trivirgata)" ; Times: 1
+	Query: "phrynosoma cornutum otero county" ; Times: 2
+	Query: "genus:melospiza specificepithet:melodia year:1936" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 94 (out of 326 download events in this period)
+Total number of records downloaded: 7087 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4668
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 8
+	Country: France ; Times: 2
+	Country: India ; Times: 4
+	Country: Mexico ; Times: 12
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 55
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 2
+	Date: 2015-02-02 ; Times: 4
+	Date: 2015-02-03 ; Times: 5
+	Date: 2015-02-04 ; Times: 11
+	Date: 2015-02-05 ; Times: 5
+	Date: 2015-02-06 ; Times: 5
+	Date: 2015-02-07 ; Times: 4
+	Date: 2015-02-09 ; Times: 2
+	Date: 2015-02-10 ; Times: 4
+	Date: 2015-02-11 ; Times: 6
+	Date: 2015-02-12 ; Times: 5
+	Date: 2015-02-13 ; Times: 8
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-18 ; Times: 2
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-21 ; Times: 2
+	Date: 2015-02-23 ; Times: 6
+	Date: 2015-02-24 ; Times: 8
+	Date: 2015-02-25 ; Times: 6
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: ""sciurus arizonensis"" ; Times: 1
+	Query: "stateprovince:"Oregon" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "xenosaurus" ; Times: 3
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "stateprovince:"Valle del cauca" country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "genus:Monodon" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:Striatus genus:Tamias year >= 1960 year <= 2015" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Falco peregrinus eggs" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "Dryocopus pileatus mappable:1" ; Times: 1
+	Query: "genus:Ducula" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "genus:Heloderma" ; Times: 2
+	Query: ""Empidonax traillii" type:specimen (California) mappable:1" ; Times: 1
+	Query: "phrynosoma mcallii" ; Times: 2
+	Query: "Delphinus Delphis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "desmognathus marmoratus" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "country:"Mexico" specificepithet:horridus genus:Sceloporus" ; Times: 2
+	Query: "Ambystoma Tigrinum mappable:1" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 2
+	Query: "genus:Grampus" ; Times: 1
+	Query: "Hyla japonica" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "genus:orcinus" ; Times: 1
+	Query: ""Spea hammondii" mappable:1" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:amphibia" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "oxybelis aeneus" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "specificepithet:catesbeiana" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "genus:Balaena" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "chelydra maryland" ; Times: 2
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Dendrobatidae" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "Anolis nebulosus" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus year >= 1920 year <= 1970" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2365
+Total number of records retrieved from searches: 30992
+Number of download events that retrieved data from the resource: 271
+Total number of records downloaded: 22882
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2902
+Total number of records retrieved from searches: 33870
+Number of download events that retrieved data from the resource: 1362
+Total number of records downloaded: 290905
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
