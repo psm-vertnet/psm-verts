@@ -1,0 +1,287 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 131
+Number of records retrieved in searches: 1365
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Fiji ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 103
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 8
+	Date: 2015-03-02 ; Times: 5
+	Date: 2015-03-03 ; Times: 3
+	Date: 2015-03-04 ; Times: 3
+	Date: 2015-03-05 ; Times: 16
+	Date: 2015-03-06 ; Times: 4
+	Date: 2015-03-07 ; Times: 1
+	Date: 2015-03-08 ; Times: 2
+	Date: 2015-03-09 ; Times: 5
+	Date: 2015-03-10 ; Times: 4
+	Date: 2015-03-11 ; Times: 5
+	Date: 2015-03-12 ; Times: 7
+	Date: 2015-03-13 ; Times: 3
+	Date: 2015-03-15 ; Times: 9
+	Date: 2015-03-16 ; Times: 8
+	Date: 2015-03-17 ; Times: 3
+	Date: 2015-03-18 ; Times: 5
+	Date: 2015-03-19 ; Times: 2
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-21 ; Times: 1
+	Date: 2015-03-22 ; Times: 6
+	Date: 2015-03-23 ; Times: 5
+	Date: 2015-03-24 ; Times: 11
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 4
+	Date: 2015-03-28 ; Times: 3
+	Date: 2015-03-29 ; Times: 2
+	Date: 2015-03-30 ; Times: 3
+	Date: 2015-03-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "oklahoma turner falls" ; Times: 3
+	Query: "bogertophis subocularis" ; Times: 1
+	Query: "aves georgia united states PSM" ; Times: 3
+	Query: "stateprovince:"alaska" specificepithet:acuminata class:aves" ; Times: 1
+	Query: "Callipepla squamata year >= 1990 year <= 2015" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "spermophilus richardsonii" ; Times: 1
+	Query: ""Plethodon" county:"Hays" stateprovince:"Texas" country:"United States"" ; Times: 1
+	Query: "Rana sylvatica" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "PSM 05606" ; Times: 1
+	Query: "type:specimen specificepithet:amabilis genus:cotinga" ; Times: 1
+	Query: "CM 2007" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "panthera onca" ; Times: 2
+	Query: "Mustela nivalis" ; Times: 1
+	Query: "type:specimen stateprovince:"Utah" (Bear River)" ; Times: 1
+	Query: "gavia immer" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "cynops" ; Times: 1
+	Query: "marmorata genus:Clemmys" ; Times: 2
+	Query: "california dawson type:specimen year >= 1888 year <= 1940" ; Times: 1
+	Query: "United States Brachylagus idahoensis" ; Times: 1
+	Query: "amphibia county:"cleveland" stateprovince:"oklahoma"" ; Times: 1
+	Query: "florence arizona" ; Times: 1
+	Query: "vulpes velox" ; Times: 2
+	Query: "stateprovince:"Rhode Island"" ; Times: 1
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "institutioncode:psm" ; Times: 1
+	Query: "PSM 13151" ; Times: 3
+	Query: "chicago" ; Times: 1
+	Query: "pipilo maculatus JK" ; Times: 1
+	Query: "Alligator mississippiensis" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "type:specimen specificepithet:ruficaudus genus:Tamias" ; Times: 1
+	Query: "Cyrtonyx montezumae mexico" ; Times: 1
+	Query: "country:"mexico" specificepithet:flagellum genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Leucosticte tephrocotis wallowa institutioncode:PSM" ; Times: 2
+	Query: "aves birds georgia united states ummz" ; Times: 1
+	Query: "pipilo maculatus MVZ Los Angeles" ; Times: 1
+	Query: "amphibia county:"cleveland"" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 2
+	Query: "thamnophis validus" ; Times: 3
+	Query: "Heterodon nasicus mappable:1" ; Times: 2
+	Query: "necturus maculosus" ; Times: 1
+	Query: "specificepithet:europaeus genus:Lepus" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "amphibia county:"mccurtain" stateprovince:"oklahoma"" ; Times: 1
+	Query: "Synthliboramphus" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 2
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "ambystoma (Canada)" ; Times: 1
+	Query: "PSM 07572" ; Times: 1
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "country:"mexico" specificepithet:bilineatus genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "puma concolor country:"mexico"" ; Times: 1
+	Query: "Vireo atricapillus" ; Times: 1
+	Query: "Leucosticte institutioncode:PSM" ; Times: 3
+	Query: "cyrtonyx montezumae chihuahua" ; Times: 1
+	Query: "FMNH sciurus" ; Times: 1
+	Query: "specificepithet:curtatus genus:Lemmiscus (Skeleton)" ; Times: 2
+	Query: "type:specimen stateprovince:"Washington" specificepithet:ruficaudus genus:Tamias" ; Times: 1
+	Query: "sceloporus occidentalis type:specimen (washington)" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "W. L. Dawson" ; Times: 1
+	Query: "marmota vancouverensis" ; Times: 2
+	Query: "rallus longirostris" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "county:"Santa Clara" stateprovince:"California" specificepithet:multicarinata genus:Elgaria" ; Times: 1
+	Query: "cypseloides niger" ; Times: 2
+	Query: "hemidactylus turcicus mappable:1" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "Spermophilus richardsonii stateprovince:"North Dakota"" ; Times: 1
+	Query: "county:"San Mateo" genus:Contia" ; Times: 1
+	Query: "Wyoming Odocoileus hemionus" ; Times: 1
+	Query: "FMNH thamnophis" ; Times: 1
+	Query: ""Empidonax wrightii" county:"San Bernardino" class:Aves" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "phrynosoma kern mappable:1" ; Times: 1
+	Query: "chiroptera egypt" ; Times: 1
+	Query: "pipa pipa" ; Times: 1
+	Query: "Leucosticte tephrocotis institutioncode:PSM" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "Psittacula eggs" ; Times: 2
+	Query: "necturus" ; Times: 1
+	Query: "Cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "specificepithet:mysticetus genus:Balaena" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "stateprovince:"nayarit" country:"Mexico" genus:Hypsiglena year <= 2014" ; Times: 2
+	Query: "Catharus year >= 1933 year <= 1933" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Illinois"" ; Times: 1
+	Query: "St. Tammany Parish" ; Times: 1
+	Query: "saroglossa aurata" ; Times: 1
+	Query: "Mammalia Natrona" ; Times: 1
+	Query: "aves georgia united states Catharus bicknelli" ; Times: 1
+	Query: "country:"united states" specificepithet:europaeus genus:Lepus" ; Times: 1
+	Query: "otariidae lacm" ; Times: 1
+	Query: "Chordeiles minor year <= 1905" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 298 download events in this period)
+Total number of records downloaded: 42166 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 37154
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 7
+	Country: Canada ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 46
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 2
+	Date: 2015-03-02 ; Times: 6
+	Date: 2015-03-03 ; Times: 4
+	Date: 2015-03-05 ; Times: 3
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-10 ; Times: 2
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-12 ; Times: 3
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 6
+	Date: 2015-03-17 ; Times: 2
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-22 ; Times: 2
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 7
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 8
+	Date: 2015-03-27 ; Times: 4
+	Date: 2015-03-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "passerina amoena" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(43.01814269299076,-76.13525390625))<6530" ; Times: 1
+	Query: ""Batrachoseps" AND (NOT attenuatus) mappable:1" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "Python molurus type:specimen" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "tantilla planiceps" ; Times: 1
+	Query: "birds paraguay" ; Times: 1
+	Query: ""regina septemvittata"" ; Times: 1
+	Query: "puma concolor country:"mexico"" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "genus:varanus" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "type:specimen specificepithet:ruficaudus genus:Tamias" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "spea bombifrons" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Norops" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Peromyscus maniculatus AND (NOT Mexico) year >= 1950 year <= 2000 mappable:1" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "ascaphus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Leopardus pardalis." ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "Rana clamitans mappable:1" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"North Carolina"" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "class:Mammalia ochotona princeps" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "thamnophis elegans" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+	Query: "class:Aves (Cuyamaca)" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2496
+Total number of records retrieved from searches: 32357
+Number of download events that retrieved data from the resource: 341
+Total number of records downloaded: 65048
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3033
+Total number of records retrieved from searches: 35235
+Number of download events that retrieved data from the resource: 1432
+Total number of records downloaded: 333071
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
