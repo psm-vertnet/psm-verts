@@ -1,0 +1,530 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 420
+Number of records retrieved in searches: 3060
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 3
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 15
+	Country: Chile ; Times: 6
+	Country: Colombia ; Times: 6
+	Country: Czech Republic ; Times: 2
+	Country: Finland ; Times: 3
+	Country: Germany ; Times: 10
+	Country: India ; Times: 4
+	Country: Mexico ; Times: 14
+	Country: Turkey ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 322
+	Country: Unknown ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 19
+	Date: 2015-05-06 ; Times: 15
+	Date: 2015-05-07 ; Times: 13
+	Date: 2015-05-08 ; Times: 41
+	Date: 2015-05-09 ; Times: 10
+	Date: 2015-05-10 ; Times: 3
+	Date: 2015-05-11 ; Times: 35
+	Date: 2015-05-12 ; Times: 30
+	Date: 2015-05-13 ; Times: 21
+	Date: 2015-05-14 ; Times: 12
+	Date: 2015-05-15 ; Times: 20
+	Date: 2015-05-16 ; Times: 6
+	Date: 2015-05-17 ; Times: 4
+	Date: 2015-05-18 ; Times: 13
+	Date: 2015-05-19 ; Times: 14
+	Date: 2015-05-20 ; Times: 10
+	Date: 2015-05-21 ; Times: 15
+	Date: 2015-05-22 ; Times: 17
+	Date: 2015-05-23 ; Times: 16
+	Date: 2015-05-24 ; Times: 12
+	Date: 2015-05-25 ; Times: 16
+	Date: 2015-05-26 ; Times: 18
+	Date: 2015-05-27 ; Times: 13
+	Date: 2015-05-28 ; Times: 11
+	Date: 2015-05-29 ; Times: 26
+	Date: 2015-05-30 ; Times: 8
+	Date: 2015-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gavia pacifica" ; Times: 1
+	Query: "Connochaetes" ; Times: 1
+	Query: "Myocastoridae" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "rom" ; Times: 1
+	Query: "specificepithet:horsfieldii genus:Iomys" ; Times: 6
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "bufo boreas Utah type:specimen" ; Times: 2
+	Query: ""charina bottae" stateprovince:"california"" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" genus:Clemmys" ; Times: 1
+	Query: "UTEP" ; Times: 1
+	Query: "phrynosoma modestum" ; Times: 1
+	Query: "microtus pennsylvanicus stateprovince:"Alberta" genus:Microtus" ; Times: 3
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson AND (NOT usnm NOT wfvz) year >= 1915 year <= 1920" ; Times: 1
+	Query: "Uma notata county:"Imperial"" ; Times: 2
+	Query: "Pteropus speciosus" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson AND (NOT usnm NOT wfvz NOT amnh NOT ypm) year >= 1915 year <= 1920" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton AND (NOT wfvz) year >= 1920 year <= 1920" ; Times: 1
+	Query: "trichechus manatus" ; Times: 3
+	Query: "fmnh carnivora class:mammalia" ; Times: 2
+	Query: "fulica gigantea" ; Times: 1
+	Query: "Rhinopoma" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 2
+	Query: ""clemmys guttata" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: ""clemmys" stateprovince:"Pennsylvania"" ; Times: 2
+	Query: "specificepithet:bernicla genus:Branta" ; Times: 1
+	Query: "CM 17387" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 2
+	Query: "3996" ; Times: 2
+	Query: "Brant" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 1
+	Query: "Thamnophis sirtalis idaho" ; Times: 1
+	Query: "aves Georgia United States Vireo philadelphicus" ; Times: 1
+	Query: "stateprovince:"North Carolina" specificepithet:cinereus genus:Plethodon" ; Times: 1
+	Query: "copsychus malabaricus" ; Times: 1
+	Query: "genus:grus specificepithet:americana year >= 1900 year <= 2010" ; Times: 2
+	Query: "fmnh class:mammalia" ; Times: 6
+	Query: ""Archbold Biological Station" type:specimen class:Aves" ; Times: 1
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 2
+	Query: "Spizella+pallida+United States+Washington" ; Times: 1
+	Query: "pelophryne brevipes" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:peyton year >= 1961 year <= 1961" ; Times: 1
+	Query: "scolopax rusticola" ; Times: 2
+	Query: "Masticophis taeniatus idaho" ; Times: 2
+	Query: "Batty" ; Times: 1
+	Query: "clemmys guttata" ; Times: 3
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "thamnophis sirtalis idaho" ; Times: 5
+	Query: ""table rock" stateprovince:"Oregon"" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 3
+	Query: "stateprovince:"Wisconsin" class:Amphibia" ; Times: 2
+	Query: "martes americana" ; Times: 3
+	Query: "microtus agrestis" ; Times: 1
+	Query: "Phoebastria immutabilis type:specimen" ; Times: 1
+	Query: "stateprovince:"Wisconsin" class:Amphibia mappable:1" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Neotoma phenax" ; Times: 1
+	Query: "fmnh (skull) bdeogale crassicauda" ; Times: 1
+	Query: "zonata" ; Times: 2
+	Query: ""Chen caerulescens" stateprovince:"Alaska"" ; Times: 1
+	Query: "aves Georgia United States Corvus ossifragus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton AND (NOT wfvz NOT mvz) year >= 1920 year <= 1920" ; Times: 1
+	Query: "vireo bellii california san bernardino" ; Times: 1
+	Query: "Phoebastria immutabilis type:specimen year >= 1900 year <= 1950" ; Times: 1
+	Query: "mcallii" ; Times: 1
+	Query: "stateprovince:"California" country:"United States" genus:Ondatra" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "sceloporus graciosus idaho" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "136* specificepithet:melodia" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Sitta carolinensis year >= 1937 year <= 1937" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 3
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "aves Georgia United States Troglodytes troglodytes" ; Times: 1
+	Query: "Canis latrans county:"San Diego"" ; Times: 2
+	Query: "microtus pennsylvanicus stateprovince:"alberta" genus:microtus" ; Times: 6
+	Query: "Oceanodroma leucorhoa year >= 1901 year <= 1901" ; Times: 1
+	Query: "aves Georgia United States Lanius ludovicianus" ; Times: 2
+	Query: "ROM" ; Times: 1
+	Query: "charina bottae idaho" ; Times: 4
+	Query: "county:"king" specificepithet:oregoni genus:microtus institutioncode:psm" ; Times: 1
+	Query: "county:"Mason" stateprovince:"Washington" genus:ambystoma class:Amphibia" ; Times: 1
+	Query: "gulo gulo idaho" ; Times: 2
+	Query: "type:specimen specificepithet:iliaca class:Aves institutioncode:FMNH OR UMMZ" ; Times: 1
+	Query: "browni arizona" ; Times: 1
+	Query: "Phrynosoma douglasii idaho" ; Times: 2
+	Query: "thamnophis elegans idaho" ; Times: 1
+	Query: ""Oregon state university"" ; Times: 1
+	Query: "charina bottae" ; Times: 6
+	Query: "fmnh (skull) mustela sibirica" ; Times: 1
+	Query: "Vermivora pinus year >= 1800 year <= 1930" ; Times: 3
+	Query: "genus:charina" ; Times: 4
+	Query: "uncia" ; Times: 1
+	Query: "county:"Jackson" stateprovince:"Oregon" class:Reptilia" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 3
+	Query: "phrynosoma douglasii idaho" ; Times: 2
+	Query: "Coturnicops" ; Times: 1
+	Query: "B431" ; Times: 1
+	Query: "pituophis catenifer idaho" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson AND (NOT usnm NOT wfvz NOT amnh) year >= 1915 year <= 1920" ; Times: 1
+	Query: "Uta stansburiana MSB" ; Times: 1
+	Query: ""Archbold Biological Station"" ; Times: 1
+	Query: "prionailurus bengalensis mappable:1" ; Times: 1
+	Query: "ambystoma tigrinum idaho" ; Times: 2
+	Query: "Psittacula" ; Times: 2
+	Query: "Sceloporus graciosus idaho" ; Times: 2
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton AND (NOT wfvz NOT mvz NOT ypm) year >= 1920 year <= 1920" ; Times: 1
+	Query: "Pudu mephistophiles" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"Oregon"" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+	Query: "county:"Mason" stateprovince:"Washington" class:Amphibia" ; Times: 1
+	Query: "thamnophis sirtalis nebraska" ; Times: 1
+	Query: ""crotalus atrox"" ; Times: 2
+	Query: "11092" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "Aechmophorus" ; Times: 1
+	Query: ""branta bernicla" stateprovince:"Alaska"" ; Times: 2
+	Query: "specificepithet:lutris genus:Enhydra" ; Times: 3
+	Query: "peromyscus melanophrys" ; Times: 1
+	Query: "masticophis idaho" ; Times: 1
+	Query: "Bubo scandiacus type:specimen" ; Times: 1
+	Query: "Caprimulgus carolinensis" ; Times: 1
+	Query: "fmnh (skull) genetta genetta" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson AND (NOT usnm) year >= 1915 year <= 1920" ; Times: 1
+	Query: "certhia americana year >= 1950 year <= 2015 mappable:1" ; Times: 1
+	Query: "subocularis" ; Times: 2
+	Query: "Archbold Biological Station" ; Times: 5
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "typhlops" ; Times: 2
+	Query: "cougar" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "torquatus brazil" ; Times: 1
+	Query: "UTEP herps" ; Times: 3
+	Query: "county:"churchill" class:amphibia" ; Times: 1
+	Query: "phrynosoma douglasii" ; Times: 10
+	Query: "specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "sylvilagus nuttallii" ; Times: 1
+	Query: "Pituophis catenifer idaho" ; Times: 1
+	Query: "Empidonax traillii (San Bernardino) mappable:1" ; Times: 1
+	Query: "Tamias minimus stateprovince:"Colorado" distance(location,geopoint(39.774769485295465,-105.46875))<82878" ; Times: 2
+	Query: "Capromyidae" ; Times: 1
+	Query: "Grays Harbor 1927" ; Times: 1
+	Query: "Ambystoma tigrinum idaho" ; Times: 3
+	Query: "crocuta" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "vireo bellii california" ; Times: 2
+	Query: ""Gastrophryne olivacea" county:"Hays" stateprovince:"Texas"" ; Times: 4
+	Query: "stateprovince:"alaska" class:aves recordedby:hurley" ; Times: 1
+	Query: "Gambelia wislizenii idaho" ; Times: 3
+	Query: "county:"Grays Harbor" year >= 1920 year <= 1930" ; Times: 1
+	Query: "Psittacula 1918" ; Times: 2
+	Query: "fmnh carnivora class:mammalia (skeleton)" ; Times: 1
+	Query: "Microtus townsendii county:"Skagit" stateprovince:"Washington" specificepithet:townsendii genus:Microtus year <= 2000" ; Times: 1
+	Query: "PSM Bird Bird-07965" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:leucurus genus:cynomys" ; Times: 2
+	Query: ""balaenoptera"" ; Times: 1
+	Query: "corvus corax class:aves year >= 1933 year <= 1933" ; Times: 1
+	Query: "CM 7433" ; Times: 2
+	Query: "Limnothlypis swainsonii" ; Times: 2
+	Query: "Caviidae" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "bufo boreas distance(location,geopoint(43.93165932468228,-111.6914051771164))<100000" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "naranjo costa rica" ; Times: 1
+	Query: "rattus nitidus" ; Times: 2
+	Query: "modestum mexico" ; Times: 1
+	Query: "slater wing collection" ; Times: 1
+	Query: "Nucifraga columbiana" ; Times: 3
+	Query: "aves Georgia United States bewickii" ; Times: 1
+	Query: "stateprovince:"ohio" class:aves" ; Times: 1
+	Query: "Thamnophis elegans idaho" ; Times: 10
+	Query: "specificepithet:oregoni genus:microtus institutioncode:psm" ; Times: 2
+	Query: "Cathartes aura" ; Times: 1
+	Query: "porzana porzana" ; Times: 1
+	Query: "Praomys" ; Times: 2
+	Query: "Octodontidae" ; Times: 1
+	Query: "Charina bottae idaho" ; Times: 1
+	Query: "rana pipiens idaho" ; Times: 1
+	Query: "peromyscus simulus" ; Times: 1
+	Query: "Spizella pallida United States Oregon" ; Times: 2
+	Query: "nasua nasua" ; Times: 2
+	Query: "Aves Abbott 1902" ; Times: 1
+	Query: "Fulica gigantea" ; Times: 1
+	Query: "Megascops kennicottii Chihuahua" ; Times: 1
+	Query: ""platyrhynchos x "" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "type:specimen specificepithet:corax genus:Corvus (skin) mappable:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson institutioncode:psm AND (NOT usnm NOT wfvz NOT amnh NOT ypm) year >= 1915 year <= 1920" ; Times: 1
+	Query: "Charina bottae" ; Times: 5
+	Query: "fmnh (skull) genetta tigrina" ; Times: 1
+	Query: "Rana pipiens idaho" ; Times: 2
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "Cistothorus palustris Los Angeles" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Buteo" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:grus" ; Times: 2
+	Query: "Lampropeltis zonata county:"Los Angeles"" ; Times: 1
+	Query: "Chen caerulescens" ; Times: 1
+	Query: "uncia uncia" ; Times: 13
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Electron" ; Times: 1
+	Query: "fmnh (skull) paradoxurus hermaphroditus" ; Times: 2
+	Query: "nyctalus" ; Times: 1
+	Query: "aves Georgia United States Poecile carolinensis" ; Times: 1
+	Query: "Aquila chrysaetos AND (NOT california) mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:iliaca genus:Passerella institutioncode:FMNH OR UMMZ" ; Times: 1
+	Query: "amphisbaena MANNI" ; Times: 1
+	Query: "Ochotona princeps type:specimen county:"Ferry" stateprovince:"Washington" genus:Ochotona year >= 1888 year <= 2000" ; Times: 1
+	Query: "Madison Wisconsin" ; Times: 2
+	Query: "Sitta carolinensis UWBM" ; Times: 1
+	Query: "Leptotyphlops dulcis" ; Times: 1
+	Query: "agkistrodon stateprovince:"maryland"" ; Times: 8
+	Query: "stateprovince:"arizona" class:aves year >= 1905 year <= 1905" ; Times: 1
+	Query: "canis lupus mvz" ; Times: 2
+	Query: "stateprovince:"Alaska" genus:Lynx" ; Times: 1
+	Query: "cavia" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "aves Mclean county Illinois" ; Times: 3
+	Query: "orycteropus" ; Times: 2
+	Query: "panthera onca" ; Times: 4
+	Query: "stateprovince:"wyoming" specificepithet:ludovicianus genus:cynomys" ; Times: 2
+	Query: "gambelia wislizenii idaho" ; Times: 1
+	Query: "funereus SKIN" ; Times: 1
+	Query: "microtus oregoni psm" ; Times: 1
+	Query: "county:"mason" stateprovince:"washington" genus:ambystoma" ; Times: 1
+	Query: "Bird-07965" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Dendragapus obscurus year >= 1800 year <= 1920" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "mammal Mclean county Illinois" ; Times: 6
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "Arremonops rufivirgatus" ; Times: 1
+	Query: "aves Georgia United States Corvus brachyrhynchos" ; Times: 1
+	Query: "selasphorus rufus type:specimen" ; Times: 1
+	Query: "masticophis taeniatus idaho" ; Times: 1
+	Query: "Neofelis" ; Times: 1
+	Query: "stateprovince:"Illinois" genus:Scalopus" ; Times: 1
+	Query: ""fasciata" stateprovince:"Texas"" ; Times: 1
+	Query: "aves Georgia United States Vireo solitarius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 211 (out of 976 download events in this period)
+Total number of records downloaded: 40508 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 30555
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Chile ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Netherlands ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 122
+	Country: Unknown ; Times: 58
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 3
+	Date: 2015-05-06 ; Times: 4
+	Date: 2015-05-07 ; Times: 12
+	Date: 2015-05-08 ; Times: 2
+	Date: 2015-05-09 ; Times: 7
+	Date: 2015-05-10 ; Times: 2
+	Date: 2015-05-11 ; Times: 5
+	Date: 2015-05-12 ; Times: 7
+	Date: 2015-05-13 ; Times: 5
+	Date: 2015-05-14 ; Times: 4
+	Date: 2015-05-15 ; Times: 3
+	Date: 2015-05-18 ; Times: 23
+	Date: 2015-05-19 ; Times: 36
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-21 ; Times: 37
+	Date: 2015-05-22 ; Times: 13
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-24 ; Times: 7
+	Date: 2015-05-25 ; Times: 7
+	Date: 2015-05-26 ; Times: 8
+	Date: 2015-05-27 ; Times: 8
+	Date: 2015-05-28 ; Times: 3
+	Date: 2015-05-29 ; Times: 8
+	Date: 2015-05-30 ; Times: 1
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "microtus californicus (skin)" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Peromyscus keeni" ; Times: 1
+	Query: "bufo boreas Utah type:specimen" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1951 year <= 1960" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1971 year <= 1980" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "peromyscus polionotus" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "phrynosoma platyrhinos" ; Times: 1
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "country:"Venezuela" class:Mammalia" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"Nevada" country:"United States" class:Mammalia" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 1
+	Query: "fmnh class:mammalia" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1981 year <= 1990" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 2001 year <= 2016" ; Times: 1
+	Query: "Pseudacris regilla mappable:1" ; Times: 1
+	Query: "thamnophis sirtalis idaho" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 38
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "Hyla arenicolor mappable:1" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "peromyscus crinitus" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Neotoma phenax" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "stateprovince:"Illinois" genus:Scalopus" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "mcallii" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "genus:rupicola" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1931 year <= 1940" ; Times: 1
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1901 year <= 1910" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1991 year <= 2000" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "agamidae" ; Times: 2
+	Query: "Pudu mephistophiles" ; Times: 1
+	Query: "agamidae mappable:1" ; Times: 1
+	Query: "Charina" ; Times: 1
+	Query: "charina bottae" ; Times: 2
+	Query: "Neotoma albigula" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 4
+	Query: "Vermivora pinus year >= 1800 year <= 1930" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "peromyscus pectoralis" ; Times: 2
+	Query: "arizona elegans" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "Ensatina mappable:1" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "peromyscus simulus" ; Times: 1
+	Query: "Rana berlandieri class:Amphibia AND (NOT group NOT x NOT forreri)" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "type:specimen specificepithet:iliaca class:Aves institutioncode:FMNH OR UMMZ" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"Oregon"" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "Capromyidae" ; Times: 1
+	Query: "bufo terrestris" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:ludovicianus genus:cynomys" ; Times: 1
+	Query: "Pecari tajacu ecuador" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1911 year <= 1920" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "subocularis" ; Times: 1
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Peromyscus melanotis" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "Allyn" ; Times: 1
+	Query: "cnemidophorus tigris" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 4
+	Query: "Tamias minimus stateprovince:"Colorado" distance(location,geopoint(39.774769485295465,-105.46875))<82878" ; Times: 1
+	Query: "country:"Philippines" class:Aves year <= 2015" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1921 year <= 1930" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1890" ; Times: 3
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:leucurus genus:cynomys" ; Times: 1
+	Query: "multivirgatus" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "callisaurus draconoides country:"Mexico"" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Octodontidae" ; Times: 1
+	Query: "crotaphytus bicinctores" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1961 year <= 1970" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "ambystoma gracile stateprovince:"washington"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "Underwood" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1941 year <= 1950" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "amphisbaena MANNI" ; Times: 2
+	Query: "Ochotona princeps type:specimen county:"Ferry" stateprovince:"Washington" genus:Ochotona year >= 1888 year <= 2000" ; Times: 1
+	Query: "arachnothera" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1850 year <= 1900" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "Ochotona princeps mappable:1" ; Times: 1
+	Query: "Peromyscus melanophrys" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1926 year <= 1936" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: ""lynx rufus" country:"Mexico"" ; Times: 2
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2916
+Total number of records retrieved from searches: 35417
+Number of download events that retrieved data from the resource: 552
+Total number of records downloaded: 105556
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3453
+Total number of records retrieved from searches: 38295
+Number of download events that retrieved data from the resource: 1643
+Total number of records downloaded: 373579
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
