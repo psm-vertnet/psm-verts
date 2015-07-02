@@ -1,0 +1,574 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 526
+Number of records retrieved in searches: 3456
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: India ; Times: 2
+	Country: Italy ; Times: 22
+	Country: Mexico ; Times: 14
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 461
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 12
+	Date: 2015-06-02 ; Times: 17
+	Date: 2015-06-03 ; Times: 9
+	Date: 2015-06-04 ; Times: 13
+	Date: 2015-06-05 ; Times: 17
+	Date: 2015-06-06 ; Times: 3
+	Date: 2015-06-07 ; Times: 6
+	Date: 2015-06-08 ; Times: 12
+	Date: 2015-06-09 ; Times: 27
+	Date: 2015-06-10 ; Times: 8
+	Date: 2015-06-11 ; Times: 16
+	Date: 2015-06-12 ; Times: 5
+	Date: 2015-06-13 ; Times: 4
+	Date: 2015-06-14 ; Times: 8
+	Date: 2015-06-15 ; Times: 20
+	Date: 2015-06-16 ; Times: 10
+	Date: 2015-06-17 ; Times: 14
+	Date: 2015-06-18 ; Times: 10
+	Date: 2015-06-19 ; Times: 10
+	Date: 2015-06-21 ; Times: 5
+	Date: 2015-06-22 ; Times: 107
+	Date: 2015-06-23 ; Times: 25
+	Date: 2015-06-24 ; Times: 46
+	Date: 2015-06-25 ; Times: 44
+	Date: 2015-06-26 ; Times: 31
+	Date: 2015-06-27 ; Times: 6
+	Date: 2015-06-28 ; Times: 4
+	Date: 2015-06-29 ; Times: 23
+	Date: 2015-06-30 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "taricha county:"Humboldt"" ; Times: 1
+	Query: "stateprovince:"Arizona" specificepithet:multivirgatus" ; Times: 7
+	Query: "national museum of natural history ursus skin" ; Times: 1
+	Query: "callipepla squamata year >= 1990 year <= 2015" ; Times: 1
+	Query: "aves Georgia United States Passerina ciris" ; Times: 3
+	Query: "Perognathus inornatus" ; Times: 3
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "aves Georgia United States Catharus ustulatus" ; Times: 2
+	Query: "semilineatus distance(location,geopoint(18.79191774423445,-70.213623046875))<100000" ; Times: 2
+	Query: "Rana cascadae California Trinity type:specimen" ; Times: 1
+	Query: "Pituophis Wyoming" ; Times: 4
+	Query: "elanus leucurus stateprovince:"California"" ; Times: 1
+	Query: "county:"Inyo" stateprovince:"California" genus:Coleonyx" ; Times: 1
+	Query: "Didelphis" ; Times: 1
+	Query: "aves Georgia United States Ammodramus savannarum" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"california" genus:Thamnophis" ; Times: 1
+	Query: "Myotis lucifugus country:"canada"" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "aves Georgia United States Parula americana" ; Times: 1
+	Query: "semilineatus distance(location,geopoint(18.947855781294145,-70.2960205078125))<100000" ; Times: 1
+	Query: "aves Georgia United States Junco hyemalis" ; Times: 1
+	Query: "specificepithet:penelope genus:anas year <= 2015" ; Times: 1
+	Query: "aves Georgia United States Dendroica discolor" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "aves Georgia United States Seiurus noveboracensis" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "woodhousii stateprovince:"Nebraska"" ; Times: 1
+	Query: "genus:grus year >= 1977" ; Times: 1
+	Query: "aves Georgia United States Vermivora celata" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:mabeei genus:Ambystoma" ; Times: 1
+	Query: "aves Georgia United States Spizella pusilla" ; Times: 1
+	Query: "Thamnophis sirtalis Washington" ; Times: 1
+	Query: "semilineatus distance(location,geopoint(19.414792438099557,-70.4443359375))<100000" ; Times: 1
+	Query: "county:"Macon" stateprovince:"Illinois" year <= 2015" ; Times: 1
+	Query: "sciurus variegatoides" ; Times: 1
+	Query: "Eptesicus fuscus stateprovince:"Washington"" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "aves Georgia United States Helmitheros" ; Times: 2
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "vireo bellii california" ; Times: 3
+	Query: "mammals peru" ; Times: 1
+	Query: "aves Georgia United States Carduelis tristis" ; Times: 1
+	Query: "aves Georgia United States Pheucticus" ; Times: 1
+	Query: "country:"Panama" genus:Micrurus" ; Times: 2
+	Query: "Panthera onca" ; Times: 3
+	Query: "Hydrocoloeus minutus finland" ; Times: 2
+	Query: "semilineatus distance(location,geopoint(18.916679786648565,-70.048828125))<100000" ; Times: 2
+	Query: "Antilocapra" ; Times: 22
+	Query: "distance(location,geopoint(38.87562133728132,-120.84239959716797))<6279" ; Times: 2
+	Query: "mammal Woodford Illinois" ; Times: 4
+	Query: "aves Georgia United States Aimophila aestivalis" ; Times: 2
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "solola" ; Times: 1
+	Query: "nc lampropeltis" ; Times: 2
+	Query: "mammalia Woodford Illinois" ; Times: 1
+	Query: "aves Georgia United States Ammodramus maritimus" ; Times: 1
+	Query: "genus:tamandua" ; Times: 1
+	Query: "distance(location,geopoint(52.4158226123788,-169.47509765625))<100000" ; Times: 1
+	Query: "anolis baleatus distance(location,geopoint(18.548194258874428,-70.40222257375717))<89418.55406979498" ; Times: 4
+	Query: "semilineatus" ; Times: 11
+	Query: "higgins" ; Times: 1
+	Query: "Clemmys guttata stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "cROTALUS MOLOSSUS" ; Times: 1
+	Query: "contopus virens year >= 1985 year <= 2015" ; Times: 1
+	Query: "("chaetodipus" "Nevada")" ; Times: 1
+	Query: "Sorex preblei" ; Times: 5
+	Query: "aves Georgia United States chrysoptera" ; Times: 1
+	Query: "aves Georgia United States Geothlypis trichas" ; Times: 1
+	Query: "country:"Honduras" year >= 1964 year <= 1965" ; Times: 2
+	Query: "Lake county:"San luis obispo" stateprovince:"California"" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "aves Georgia United States Quiscalus quiscula" ; Times: 1
+	Query: "distance(location,geopoint(72.63337363853837,-76.025390625))<100000" ; Times: 1
+	Query: "type:specimen class:aves catalognumber:14366" ; Times: 1
+	Query: "mammal Woodford county Illinois" ; Times: 1
+	Query: "anolis baleatus distance(location,geopoint(19.024039344588154,-70.26489263400435))<100000" ; Times: 9
+	Query: "Lasionycteris noctivagans stateprovince:"Washington"" ; Times: 2
+	Query: "gull rock" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 3
+	Query: "thomomys mazama PSM" ; Times: 1
+	Query: "CROTALUS MOLOSSUS" ; Times: 1
+	Query: "Myotis volans stateprovince:"Washington"" ; Times: 1
+	Query: "aves Georgia United States palmarum palmarum" ; Times: 2
+	Query: "aimophila aestivalis" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 3
+	Query: "mammal Normal Illinois" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "aves Georgia United States Vermivora pinus" ; Times: 1
+	Query: "aves Georgia United States Dendroica pinus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "etchecopar" ; Times: 2
+	Query: "Antrozous pallidus stateprovince:"Washington"" ; Times: 3
+	Query: "aves Georgia United States Oporornis agilis" ; Times: 1
+	Query: "Tamiasciurus wyoming teton" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "aves Georgia United States Wilsonia canadensis" ; Times: 1
+	Query: "praomys" ; Times: 3
+	Query: "ROM" ; Times: 1
+	Query: "Tamiasciurus wyoming" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "aves Georgia United States Icteria virens" ; Times: 1
+	Query: "UCM 1025" ; Times: 2
+	Query: "specificepithet:nanus genus:sorex" ; Times: 1
+	Query: "Myotis yumanensis country:"Canada"" ; Times: 1
+	Query: "aves Georgia United States motacilla" ; Times: 2
+	Query: "Callipepla californica year >= 1990 year <= 2015" ; Times: 1
+	Query: "Abronia" ; Times: 2
+	Query: "phrynosoma modestum "new mexico"" ; Times: 1
+	Query: "aves Georgia United States Dendroica striata" ; Times: 1
+	Query: "Myotis ciliolabrum stateprovince:"Washington"" ; Times: 1
+	Query: "Archbold Biological Station" ; Times: 2
+	Query: "vashon county:"king" genus:thamnophis institutioncode:psm" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "Melanerpes lewis Island" ; Times: 1
+	Query: "aves Georgia United States Mniotilta varia" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer" ; Times: 1
+	Query: "aves Georgia United States georgiana" ; Times: 1
+	Query: "acrocephalus orientalis" ; Times: 1
+	Query: "Canis lupus stateprovince:"Alaska" country:"United States"" ; Times: 1
+	Query: "genus:Bison class:Mammalia mappable:1" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 1
+	Query: "Canis aureus" ; Times: 6
+	Query: "crotaphytus collaris "new mexico"" ; Times: 1
+	Query: "aves Georgia United States Dendroica caerulescens" ; Times: 1
+	Query: "ascaphus stateprovince:"oregon"" ; Times: 1
+	Query: "stateprovince:"Alaska" genus:Passerella year >= 1955 year <= 1960" ; Times: 1
+	Query: "cyrtonyx mexico" ; Times: 2
+	Query: "anas formosa" ; Times: 1
+	Query: "trogon citreolus" ; Times: 1
+	Query: "Tadarida brasiliensis distance(location,geopoint(19.145168196205297,-73.01513671875))<1037728" ; Times: 1
+	Query: "semilineatus distance(location,geopoint(19.062117883514667,-70.24658203125))<116363" ; Times: 2
+	Query: "distance(location,geopoint(52.46939684276205,-168.64013671875))<100000" ; Times: 1
+	Query: "stateprovince:"oklahoma" specificepithet:grisescens genus:myotis" ; Times: 1
+	Query: "thamnophis eques" ; Times: 4
+	Query: "12243" ; Times: 1
+	Query: "Anolis baleatus distance(location,geopoint(19.048272959540967,-70.5322265625))<113872" ; Times: 2
+	Query: "aves Mclean county Illinois" ; Times: 1
+	Query: "Preblei" ; Times: 1
+	Query: "oman" ; Times: 2
+	Query: ""antiquus" distance(location,geopoint(52.61639023304541,-168.57421875))<220869.09172528036" ; Times: 2
+	Query: "aves Georgia United States Dendroica cerulea" ; Times: 1
+	Query: "11512" ; Times: 1
+	Query: "lampropeltis washington county north carolina" ; Times: 1
+	Query: "Plethodon cinereus type:specimen stateprovince:"New York" year >= 1950 year <= 2000" ; Times: 1
+	Query: "Myotis evotis stateprovince:"Washington"" ; Times: 1
+	Query: ""antiquus"" ; Times: 2
+	Query: "specificepithet:uncia" ; Times: 2
+	Query: "semilineatus distance(location,geopoint(18.812717856407776,-70.224609375))<100000" ; Times: 2
+	Query: "Myotis yumanensis stateprovince:"Washington"" ; Times: 1
+	Query: "aves Georgia United States Cardinalis cardinalis" ; Times: 2
+	Query: "county:"sonoma" stateprovince:"California" specificepithet:occidentalis genus:sceloporus year >= 1888 year <= 2015" ; Times: 2
+	Query: "aves Georgia United States Dendroica castanea" ; Times: 1
+	Query: "2876 (skull)" ; Times: 1
+	Query: "cyrtonyx year >= 2000 year <= 2015" ; Times: 1
+	Query: ""alcidae" distance(location,geopoint(52.4158226123788,-169.47509765625))<100000" ; Times: 1
+	Query: "hsu" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+	Query: "aves Georgia United States Pipilo erythrophthalmus" ; Times: 1
+	Query: "semilineatus distance(location,geopoint(18.812717856407787,-70.1806640625))<100000" ; Times: 2
+	Query: "psm white salmon" ; Times: 1
+	Query: "coccyzus americanus type:specimen" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Reptilia mappable:1" ; Times: 1
+	Query: "Maxon" ; Times: 2
+	Query: "cyrtonyx year >= 1990 year <= 2015" ; Times: 1
+	Query: "specificepithet:rubinus institutioncode:PSM" ; Times: 1
+	Query: "anolis baleatus" ; Times: 36
+	Query: "aves Georgia United States noveboracensis" ; Times: 1
+	Query: "Pyrocephalus rubinus psm" ; Times: 1
+	Query: "Tropidophiidae" ; Times: 2
+	Query: "bufo speciosus" ; Times: 1
+	Query: "mvz rana cascadae type:specimen" ; Times: 1
+	Query: "Pyrocephalus rubinus PSM" ; Times: 2
+	Query: "Anolis baleatus distance(location,geopoint(19.048272959540967,-70.5322265625))<100000" ; Times: 1
+	Query: "aves Georgia United States cyanea" ; Times: 1
+	Query: "12243 (skull)" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "aves Georgia United States Dendroica tigrina" ; Times: 1
+	Query: "ochotona roylei" ; Times: 2
+	Query: "distance(location,geopoint(51.890053935216926,-170.70556640625))<100000" ; Times: 1
+	Query: "Balaena mysticetus type:specimen (skull)" ; Times: 1
+	Query: "puma concolor distance(location,geopoint(44.59046718130883,-122.6953125))<100000" ; Times: 1
+	Query: "Eptesicus fuscus country:"Canada"" ; Times: 1
+	Query: "Myotis evotis country:"Canada"" ; Times: 1
+	Query: "distance(location,geopoint(52.36218321674427,-171.18896484375))<51797.83796376453" ; Times: 1
+	Query: "Thamnophis sauritus stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "ADAB class:aves" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tiaris" ; Times: 1
+	Query: "5675" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 3
+	Query: "aves Georgia United States Protonotaria" ; Times: 1
+	Query: "numida year >= 1980 year <= 1989" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora" ; Times: 1
+	Query: "country:"Honduras" recordedby:Mankins" ; Times: 6
+	Query: "stateprovince:"Texas" specificepithet:Debilis year <= 2015" ; Times: 1
+	Query: ""urile"" ; Times: 1
+	Query: "Sorex nanus" ; Times: 1
+	Query: "Coragyps atratus florida" ; Times: 1
+	Query: "04/11/1886" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington)" ; Times: 2
+	Query: "anas rubripes" ; Times: 1
+	Query: "Herp stateprovince:"PENNSYLVANIA" country:"United States"" ; Times: 1
+	Query: "county:"logan" stateprovince:"Oklahoma" class:reptilia" ; Times: 1
+	Query: "project chariot institutioncode:PSM" ; Times: 2
+	Query: "tadorna tadorna" ; Times: 2
+	Query: "aves Georgia United States Dendroica virens" ; Times: 1
+	Query: "aves Georgia United States Wilsonia citrina" ; Times: 2
+	Query: "Myotis lucifugus stateprovince:"Washington"" ; Times: 1
+	Query: "asio otus" ; Times: 1
+	Query: "county:"pierce" specificepithet:mazama genus:thomomys institutioncode:psm" ; Times: 4
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "stateprovince:"maine" specificepithet:ruticilla genus:setophaga year >= 1990 year <= 2015" ; Times: 1
+	Query: "Macaca fascicularis" ; Times: 1
+	Query: "Vulpes velox" ; Times: 2
+	Query: "aethopyga siparaja" ; Times: 1
+	Query: "recordedby:mankins" ; Times: 1
+	Query: "Myotis lucifugus country:"Canada"" ; Times: 1
+	Query: "24814" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "Myotis thysanodes stateprovince:"Washington"" ; Times: 1
+	Query: "country:"Canada" specificepithet:lotor genus:Procyon mappable:1" ; Times: 2
+	Query: "vireo bellii" ; Times: 1
+	Query: "psm thamnophis vashon" ; Times: 1
+	Query: ""aves" distance(location,geopoint(52.4158226123788,-169.47509765625))<100000" ; Times: 1
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: "Amphisbaena manni" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.11499982620772,-122.36572265625))<100000" ; Times: 1
+	Query: "herp stateprovince:"PENNSYLVANIA" country:"United States" mappable:1" ; Times: 1
+	Query: ""antiquus" distance(location,geopoint(53.4357192066942,-164.70703125))<220869.09172528036" ; Times: 1
+	Query: "Myotis californicus stateprovince:"Washington"" ; Times: 1
+	Query: "Vulpes velox stateprovince:"Utah"" ; Times: 1
+	Query: "Lontra canadensis (Skeleton)" ; Times: 1
+	Query: "tantilla gracilis stateprovince:"Texas"" ; Times: 1
+	Query: "vashon thamnophis" ; Times: 2
+	Query: "Newfoundland and Labrador" ; Times: 1
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "H. A. Brown" ; Times: 1
+	Query: "vandeleuria" ; Times: 1
+	Query: "Rana sylvatica Alaska" ; Times: 1
+	Query: "aves Georgia United States Seiurus aurocapillus" ; Times: 2
+	Query: "selasphorus rufus" ; Times: 2
+	Query: "country:"Honduras" recordedby:Mankins year >= 1964 year <= 1965" ; Times: 4
+	Query: "aves Georgia United States Setophaga ruticilla" ; Times: 1
+	Query: "distance(location,geopoint(52.36218321674427,-171.18896484375))<68974" ; Times: 1
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "county:"sonoma" stateprovince:"California" specificepithet:occidentalis genus:sceloporus" ; Times: 1
+	Query: "aves Georgia United States Passerina caerulea" ; Times: 1
+	Query: "flaviventer" ; Times: 1
+	Query: "24814 mammal" ; Times: 1
+	Query: "county:"king" genus:thamnophis institutioncode:psm" ; Times: 2
+	Query: "mammalia 10757" ; Times: 1
+	Query: "aves Georgia United States Piranga rubra" ; Times: 3
+	Query: "Lasiurus cinereus stateprovince:"Washington"" ; Times: 3
+	Query: "mammal Mclean Illinois" ; Times: 1
+	Query: "aves Georgia United States Dendroica fusca" ; Times: 1
+	Query: "aves Georgia United States Icterus spurius" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "graptemys kohnii" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington) mappable:1" ; Times: 2
+	Query: "numida AND (captive) year >= 1960 year <= 1989" ; Times: 1
+	Query: "country:"Honduras" recordedby:Mankins year >= 1960 year <= 1990" ; Times: 2
+	Query: "Tamiasciurus hudsonicus wyoming" ; Times: 1
+	Query: "aves Georgia United States formosus" ; Times: 1
+	Query: "monroe michigan" ; Times: 1
+	Query: "bird Woodford Illinois" ; Times: 3
+	Query: "12956" ; Times: 1
+	Query: "19720" ; Times: 1
+	Query: "aves Georgia United States Dendroica magnolia" ; Times: 1
+	Query: "Hydrocoloeus minutus russia" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.11499982620772,-122.36572265625))<76013" ; Times: 2
+	Query: ""antiquus" distance(location,geopoint(53.4357192066942,-164.70703125))<220869" ; Times: 1
+	Query: "Arizona elegans stateprovince:"oklahoma"" ; Times: 1
+	Query: "specificepithet:mysticetus genus:Balaena" ; Times: 1
+	Query: "Veracruz mammals" ; Times: 1
+	Query: "cavia" ; Times: 2
+	Query: "specificepithet:vulgaris genus:Sciurus" ; Times: 2
+	Query: "specificepithet:waterhousii genus:Macrotus" ; Times: 2
+	Query: "semilineatus distance(location,geopoint(18.781516724349704,-70.20263671875))<100000" ; Times: 3
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "aves Georgia United States Melospiza melodia" ; Times: 2
+	Query: "Thamnophis sirtalis washington" ; Times: 1
+	Query: "recordedby:Mankins" ; Times: 1
+	Query: "specificepithet:panamintinus genus:Dipodomys mappable:1" ; Times: 1
+	Query: "Hodomys alleni" ; Times: 1
+	Query: "gage county nebraska" ; Times: 2
+	Query: "puma concolor country:"MEXICO" year <= 2015" ; Times: 1
+	Query: "semilineatus distance(location,geopoint(18.687878686034196,-70.13671875))<100000" ; Times: 2
+	Query: "Natural History Museum London" ; Times: 1
+	Query: "sorex preblei" ; Times: 1
+	Query: "colinus virginianus year >= 1990 year <= 2015" ; Times: 1
+	Query: "aves Georgia United States Geothlypis" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Myotis keenii stateprovince:"Washington"" ; Times: 1
+	Query: "Corynorhinus townsendii stateprovince:"Washington"" ; Times: 3
+	Query: "type:specimen county:"Orleans" class:Aves year >= 0 year <= 2015" ; Times: 1
+	Query: "UTEP" ; Times: 2
+	Query: "county:"logan" stateprovince:"Oklahoma"" ; Times: 7
+	Query: "Archbold Biological Station class:Aves" ; Times: 1
+	Query: "specificepithet:rubinus genus:Pyrocephalus institutioncode:PSM" ; Times: 2
+	Query: "mammal Mclean county Illinois" ; Times: 2
+	Query: "class:mammalia catalognumber:12911 year <= 1979" ; Times: 1
+	Query: "aves Georgia United States Vermivora chrysoptera" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "stateprovince:"oklahoma" specificepithet:subflavus" ; Times: 1
+	Query: "aves Georgia United States Limnothlypis" ; Times: 1
+	Query: "Eleutherodactylus hobartsmithi" ; Times: 2
+	Query: "specificepithet:buccinator genus:cygnus class:aves" ; Times: 1
+	Query: "Enhydra lutris lutris" ; Times: 1
+	Query: "semilineatus distance(location,geopoint(19.062117883514667,-70.24658203125))<100000" ; Times: 1
+	Query: "Corynorhinus townsendii stateprovince:"oregon"" ; Times: 1
+	Query: "aves Georgia United States Mimus polyglottos" ; Times: 1
+	Query: ""ursus arctos"" ; Times: 4
+	Query: "semilineatus distance(location,geopoint(18.71909713096967,-70.20263671875))<100000" ; Times: 4
+	Query: "aves Georgia United States Dendroica pensylvanica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 144 (out of 1524 download events in this period)
+Total number of records downloaded: 6552 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4665
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 13
+	Country: Germany ; Times: 5
+	Country: Guatemala ; Times: 2
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 101
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 3
+	Date: 2015-06-02 ; Times: 6
+	Date: 2015-06-03 ; Times: 4
+	Date: 2015-06-04 ; Times: 12
+	Date: 2015-06-05 ; Times: 9
+	Date: 2015-06-07 ; Times: 4
+	Date: 2015-06-08 ; Times: 5
+	Date: 2015-06-09 ; Times: 28
+	Date: 2015-06-10 ; Times: 4
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-12 ; Times: 3
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 6
+	Date: 2015-06-17 ; Times: 6
+	Date: 2015-06-18 ; Times: 3
+	Date: 2015-06-19 ; Times: 2
+	Date: 2015-06-20 ; Times: 3
+	Date: 2015-06-22 ; Times: 8
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 10
+	Date: 2015-06-26 ; Times: 6
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-29 ; Times: 12
+	Date: 2015-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "solola" ; Times: 1
+	Query: "Dicamptodon stateprovince:"California"" ; Times: 1
+	Query: "Myotis volans country:"United States"" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "Myotis lucifugus country:"canada"" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:mabeei genus:Ambystoma" ; Times: 2
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "Cynanthus latirostris" ; Times: 1
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: "Eptesicus fuscus stateprovince:"Washington"" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "Spizella pallida Mexico" ; Times: 2
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: "aves Chihuahua" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "Phaethornis yaruqui" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "aves durango" ; Times: 1
+	Query: ""rhyacotriton cascadae" mappable:1" ; Times: 1
+	Query: "Heliomaster constantii" ; Times: 1
+	Query: "elanus leucurus stateprovince:"California"" ; Times: 1
+	Query: "dicamptodon stateprovince:"california"" ; Times: 1
+	Query: "Myotis keenii country:"United States"" ; Times: 1
+	Query: "Clemmys guttata stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: ""taricha rivularis" mappable:1" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 1
+	Query: "Lasionycteris noctivagans stateprovince:"Washington"" ; Times: 2
+	Query: "Myotis volans stateprovince:"Washington"" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen country:"United States" specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:"Michigan" mappable:1" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "Antrozous pallidus stateprovince:"Washington"" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "specificepithet:rubinus genus:Pyrocephalus institutioncode:PSM" ; Times: 1
+	Query: "Myotis yumanensis country:"Canada"" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "Calypte costae" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "Corynorhinus townsendii country:"United States" mappable:1" ; Times: 2
+	Query: "Myotis ciliolabrum stateprovince:"Washington"" ; Times: 1
+	Query: "country:"paraguay" class:aves" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "Damophila julie" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 2
+	Query: "Canis aureus" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 2
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+	Query: ""taricha torosa" mappable:1" ; Times: 1
+	Query: "aves Coahuila" ; Times: 1
+	Query: "herp stateprovince:"PENNSYLVANIA" country:"United States" mappable:1" ; Times: 1
+	Query: "Myotis evotis stateprovince:"Washington"" ; Times: 1
+	Query: "Myotis lucifugus stateprovince:"Washington"" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Oregon) mappable:1" ; Times: 1
+	Query: "Myotis yumanensis stateprovince:"Washington"" ; Times: 1
+	Query: "county:"sonoma" stateprovince:"California" specificepithet:occidentalis genus:sceloporus year >= 1888 year <= 2015" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Reptilia mappable:1" ; Times: 1
+	Query: "family:trochilidae AND skeleton type:specimen" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "bufo speciosus" ; Times: 1
+	Query: ""rhyacotriton olympicus" mappable:1" ; Times: 1
+	Query: "ochotona roylei" ; Times: 2
+	Query: "amazilia beryllina" ; Times: 1
+	Query: "Eptesicus fuscus country:"Canada"" ; Times: 1
+	Query: "erophylla bombifrons" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "bufo alvarius" ; Times: 1
+	Query: "country:"Honduras" recordedby:Mankins" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington)" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "bufo exsul" ; Times: 1
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Oregon)" ; Times: 1
+	Query: "aves chihuahua" ; Times: 1
+	Query: "tangara chilensis" ; Times: 1
+	Query: "Myotis thysanodes stateprovince:"Washington"" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "acris crepitans" ; Times: 1
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: ""rhyacotriton variegatus" mappable:1" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "crucifer" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "country:"Canada" specificepithet:lotor genus:Procyon mappable:1" ; Times: 1
+	Query: "aves alamos sonora" ; Times: 1
+	Query: "Corynorhinus townsendii country:"United States"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "country:"Honduras" recordedby:Mankins year >= 1964 year <= 1965" ; Times: 3
+	Query: ""phrynosoma mcallii" stateprovince:"california"" ; Times: 1
+	Query: "Lasiurus cinereus stateprovince:"Washington"" ; Times: 1
+	Query: "amphispiza bilineata country:"mexico" year >= 1950 year <= 1970" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington) mappable:1" ; Times: 1
+	Query: "country:"Honduras" recordedby:Mankins year >= 1960 year <= 1990" ; Times: 2
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: ""rhyacotriton kezeri" mappable:1" ; Times: 1
+	Query: "Myotis californicus stateprovince:"Washington"" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Veracruz mammals" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "Bufonidae (valliceps)" ; Times: 1
+	Query: "Hodomys alleni" ; Times: 1
+	Query: "Myotis evotis country:"Canada"" ; Times: 1
+	Query: "Myotis keenii stateprovince:"Washington"" ; Times: 1
+	Query: "Corynorhinus townsendii stateprovince:"Washington"" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Hylocharis grayi" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "Eleutherodactylus hobartsmithi" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+	Query: "stateprovince:"california" genus:dicamptodon" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3442
+Total number of records retrieved from searches: 38873
+Number of download events that retrieved data from the resource: 696
+Total number of records downloaded: 112108
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3979
+Total number of records retrieved from searches: 41751
+Number of download events that retrieved data from the resource: 1787
+Total number of records downloaded: 380131
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
