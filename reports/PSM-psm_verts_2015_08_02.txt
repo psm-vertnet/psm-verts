@@ -1,0 +1,569 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 440
+Number of records retrieved in searches: 3041
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Brazil ; Times: 19
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Czech Republic ; Times: 1
+	Country: France ; Times: 5
+	Country: Guatemala ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: United Kingdom ; Times: 17
+	Country: United States ; Times: 326
+	Country: Unknown ; Times: 37
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 15
+	Date: 2015-07-02 ; Times: 9
+	Date: 2015-07-03 ; Times: 5
+	Date: 2015-07-04 ; Times: 4
+	Date: 2015-07-05 ; Times: 2
+	Date: 2015-07-06 ; Times: 7
+	Date: 2015-07-07 ; Times: 14
+	Date: 2015-07-08 ; Times: 15
+	Date: 2015-07-09 ; Times: 35
+	Date: 2015-07-10 ; Times: 17
+	Date: 2015-07-11 ; Times: 6
+	Date: 2015-07-12 ; Times: 4
+	Date: 2015-07-13 ; Times: 11
+	Date: 2015-07-14 ; Times: 11
+	Date: 2015-07-15 ; Times: 18
+	Date: 2015-07-16 ; Times: 18
+	Date: 2015-07-17 ; Times: 16
+	Date: 2015-07-18 ; Times: 11
+	Date: 2015-07-19 ; Times: 9
+	Date: 2015-07-20 ; Times: 7
+	Date: 2015-07-21 ; Times: 14
+	Date: 2015-07-22 ; Times: 41
+	Date: 2015-07-23 ; Times: 8
+	Date: 2015-07-24 ; Times: 11
+	Date: 2015-07-25 ; Times: 1
+	Date: 2015-07-26 ; Times: 21
+	Date: 2015-07-27 ; Times: 39
+	Date: 2015-07-28 ; Times: 13
+	Date: 2015-07-29 ; Times: 21
+	Date: 2015-07-30 ; Times: 27
+	Date: 2015-07-31 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Cass Nebraska" ; Times: 4
+	Query: "22774" ; Times: 2
+	Query: "rom" ; Times: 2
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "stateprovince:"utah" genus:crotalus" ; Times: 3
+	Query: "Slater Philippines" ; Times: 4
+	Query: "nasua" ; Times: 1
+	Query: "ambystoma south dakota" ; Times: 1
+	Query: "stateprovince:"Iowa" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<96662.06742785237" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "Cophosaurus texanus" ; Times: 2
+	Query: "Hypsiglena" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS)" ; Times: 1
+	Query: "UTEP" ; Times: 1
+	Query: "distance(location,geopoint(44.608720009137095,-99.107666015625))<70400" ; Times: 1
+	Query: "peromyscus crinitus utah" ; Times: 1
+	Query: "mmnh" ; Times: 1
+	Query: "PSM catalognumber:Bird-25525 AND (Texas)" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "neotoma utah" ; Times: 2
+	Query: "Tlacuatzin canescens" ; Times: 2
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(47.465236224383645,-121.4593505859375))<71078" ; Times: 1
+	Query: "LACM type:specimen (Mammal skeleton)" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "Prunella montanella" ; Times: 1
+	Query: ""south dakota" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "agelaius (oroville)" ; Times: 2
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<129296" ; Times: 1
+	Query: "calidris canutus" ; Times: 4
+	Query: "distance(location,geopoint(34.116352469972746,-120.223388671875))<7787.571209819605" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 2
+	Query: "trichechus" ; Times: 1
+	Query: "TCWC" ; Times: 2
+	Query: "crotalus utah" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "2464" ; Times: 1
+	Query: "aves Georgia United States Vireo philadelphicus" ; Times: 1
+	Query: "specificepithet:dasyurus genus:Gerbillus" ; Times: 1
+	Query: "sus scrofa" ; Times: 4
+	Query: "elephantulus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:californicus genus:Microtus" ; Times: 1
+	Query: "Necturus maculosus type:specimen country:"United States" year >= 1900 year <= 2015" ; Times: 2
+	Query: "Canis rufus type:specimen" ; Times: 2
+	Query: "Gavia immer" ; Times: 1
+	Query: "Viverridae" ; Times: 1
+	Query: "14299" ; Times: 4
+	Query: "Routt Colorado Mammalia" ; Times: 1
+	Query: "taricha rivularis month >= 04 month <= 06" ; Times: 2
+	Query: "sterna dougallii" ; Times: 6
+	Query: "Egretta thula type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 3
+	Query: "genus:tamandua" ; Times: 1
+	Query: "buteo albonotatus" ; Times: 1
+	Query: ""aethia"" ; Times: 1
+	Query: "distance(location,geopoint(34.05891711006568,-120.33187866210938))<398" ; Times: 2
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<100000" ; Times: 1
+	Query: "aves Georgia United States Thryomanes bewickii" ; Times: 1
+	Query: "county:"Greenville" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "martes americana" ; Times: 2
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "specificepithet:ruticilla genus:setophaga year >= 1990 year <= 2015 distance(location,geopoint(48.19538740833338,-64.775390625))<541778" ; Times: 2
+	Query: "magister county:"dona ana" stateprovince:"New Mexico" year <= 2015" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<104719" ; Times: 1
+	Query: "stateprovince:"alaska" class:reptilia" ; Times: 10
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDNHM NOT CUMV)" ; Times: 2
+	Query: "Sobrinho" ; Times: 1
+	Query: "county:"Duchesne" stateprovince:"Utah"" ; Times: 1
+	Query: "genus:Capromys year >= 1975 year <= 2015" ; Times: 1
+	Query: "specificepithet:oleracea genus:Vandeleuria" ; Times: 3
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB)" ; Times: 1
+	Query: ""iowa" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "Reptilia moffat Colorado" ; Times: 3
+	Query: "Thamnophis proximus" ; Times: 3
+	Query: "Clemmys marmorata" ; Times: 3
+	Query: "cygnus buccinator" ; Times: 1
+	Query: "PSM Falconiformes AND (Texas)" ; Times: 1
+	Query: "mustela nivalis" ; Times: 2
+	Query: "Rana catesbeiana year >= 1999 year <= 2007" ; Times: 1
+	Query: "genus:orycteropus" ; Times: 1
+	Query: "gavia immer" ; Times: 2
+	Query: "lepus americanus distance(location,geopoint(48.31973404047173,-117.9876708984375))<100000" ; Times: 1
+	Query: "aves Georgia United States PSM 08655" ; Times: 1
+	Query: "Vombatidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "eumops perotis" ; Times: 2
+	Query: "stateprovince:"Utah" specificepithet:stelleri genus:cyanocitta" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "Ascaphus truei stateprovince:"California" year <= 2015" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 9
+	Query: "eques county:"otero" stateprovince:"New Mexico" year <= 2015" ; Times: 1
+	Query: "skeleton Phoebastria immutabilis" ; Times: 1
+	Query: "Cypseloides" ; Times: 2
+	Query: "Uromastyx" ; Times: 1
+	Query: "USNM salamandridae" ; Times: 1
+	Query: "distance(location,geopoint(40.27256855319715,-113.258056640625))<30247" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga year >= 1990 year <= 2015" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(47.279229002570816,-121.88232421875))<100000" ; Times: 1
+	Query: "muntiacus" ; Times: 2
+	Query: "rhynchocyon" ; Times: 1
+	Query: "dermoptera type:specimen (skeleton)" ; Times: 1
+	Query: "stateprovince:"oregon" specificepithet:californicus genus:microtus" ; Times: 1
+	Query: "Tympanuchus pallidicinctus type:specimen" ; Times: 2
+	Query: "phoca vitulina" ; Times: 1
+	Query: "eleutherodactylus (Dominican Republic Or Haiti OR Jamaica)" ; Times: 1
+	Query: "distance(location,geopoint(47.724544549099676,-82.24365234375))<100000" ; Times: 1
+	Query: "oxybelis" ; Times: 1
+	Query: "aves distance(location,geopoint(21.207458730482653,-157.5))<100000" ; Times: 1
+	Query: "county:"Mono" stateprovince:"California" genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:alleni genus:hodomys" ; Times: 2
+	Query: "cricetomys" ; Times: 1
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 1
+	Query: "stateprovince:"sanchez ramirez" country:"dominican republic"" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<141013" ; Times: 1
+	Query: "genus:Geocapromys year >= 1975 year <= 2015" ; Times: 1
+	Query: "Dicamptodon aterrimus" ; Times: 1
+	Query: "skeleton asio flammeus" ; Times: 1
+	Query: "mammalia orthogeomys" ; Times: 2
+	Query: "caprimulgus veracruz" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ)" ; Times: 1
+	Query: "1436" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<104718.90122498687" ; Times: 1
+	Query: "stateprovince:alaska class:reptilia NOT basisofrecord:fossilspecimen" ; Times: 1
+	Query: "Empidonax virescens" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(40.33381556989261,-113.3294677734375))<32712.805901669977" ; Times: 1
+	Query: "Laurel Lake stateprovince:"California"" ; Times: 1
+	Query: ""sylvilagus brasiliensis"" ; Times: 1
+	Query: "picoides albolarvatus" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "distance(location,geopoint(40.33381556989261,-113.3294677734375))<32712.805901669977" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:mitchellii genus:Crotalus" ; Times: 1
+	Query: "simus" ; Times: 1
+	Query: "sceloporus king county washington" ; Times: 1
+	Query: "neotoma cinerea utah" ; Times: 3
+	Query: "eleutherodactylus Haiti (Dominican Republic OR Haiti OR Jamaica)" ; Times: 1
+	Query: "stateprovince:"mexico" AND (not bufo)" ; Times: 3
+	Query: "distance(location,geopoint(40.31706403275674,-113.291015625))<32712.805901669977" ; Times: 1
+	Query: "microtus californicus mexico" ; Times: 4
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "Pharomachrus mocinno type:specimen" ; Times: 1
+	Query: "genus:Plagiodontia year >= 1975 year <= 2015" ; Times: 1
+	Query: "Seward Nebraska" ; Times: 1
+	Query: "Seward NE" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(48.10743118848038,-122.51953125))<100000" ; Times: 1
+	Query: "aves Georgia United States Cardinalis cardinalis" ; Times: 1
+	Query: ""Anser albifrons" stateprovince:"Alaska"" ; Times: 1
+	Query: "pusa hispida" ; Times: 1
+	Query: "amphibia institutioncode:PSM" ; Times: 1
+	Query: ""north dakota" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:smith" ; Times: 1
+	Query: "sceloporus pierce county washington" ; Times: 1
+	Query: "UMNH" ; Times: 1
+	Query: "lasiurus seminolus institutioncode:psm" ; Times: 2
+	Query: "lepus americanus distance(location,geopoint(47.465236224383645,-121.4593505859375))<100000" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(47.398349200359235,-121.88232421875))<37892.36907499816" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.38237278700955,-127.90283203125))<936098" ; Times: 1
+	Query: "eleutherodactylus hobartsmithi" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<100000" ; Times: 1
+	Query: "Sherman Pass" ; Times: 1
+	Query: "anomalus" ; Times: 1
+	Query: "county:"Carbon" stateprovince:"Utah"" ; Times: 1
+	Query: "magister county:"otero" stateprovince:"New Mexico" year <= 2015" ; Times: 1
+	Query: "Sus scrofa" ; Times: 2
+	Query: "bufo speciosus" ; Times: 1
+	Query: "stateprovince:"wisconsin" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "geomys bursarius" ; Times: 2
+	Query: "Leiocephalus" ; Times: 1
+	Query: "amphibia South Dakota institutioncode:PSM" ; Times: 1
+	Query: "county:"Dane" stateprovince:"Wisconsin" year <= 2015" ; Times: 1
+	Query: "elegans county:"otero" stateprovince:"New Mexico" year <= 2015" ; Times: 1
+	Query: "lancaster nebraska" ; Times: 2
+	Query: "stateprovince:"Utah" specificepithet:longimembris genus:Perognathus" ; Times: 1
+	Query: "16002" ; Times: 1
+	Query: "panthera onca onca" ; Times: 1
+	Query: "specificepithet:phenax genus:Neotoma" ; Times: 9
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:mephitis institutioncode:psm" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ)" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "sceloporus occidentalis county:"Sonoma" stateprovince:"California" specificepithet:occidentalis genus:sceloporus" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Hemidactylium" ; Times: 1
+	Query: "seiurus motacilla" ; Times: 1
+	Query: "genus:Trichechus year >= 1975 year <= 2015" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<119084" ; Times: 1
+	Query: "Canis rufus" ; Times: 3
+	Query: "callosciurus" ; Times: 1
+	Query: "Rana catesbeiana year >= 1999 year <= 2013" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<111719" ; Times: 1
+	Query: "Microtus californicus stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "armstrong mammal" ; Times: 1
+	Query: "loon" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: ""san marcos" genus:peromyscus" ; Times: 2
+	Query: "fort bend county texas" ; Times: 1
+	Query: "microtus californicus country:"mexico"" ; Times: 1
+	Query: "sceloporus occidentalis county:"Sonoma" stateprovince:"California" country:"United States" specificepithet:occidentalis genus:sceloporus" ; Times: 1
+	Query: "specificepithet:motacilla genus:seiurus" ; Times: 2
+	Query: "33940" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 3
+	Query: "cypseloides niger" ; Times: 7
+	Query: "tehuacan" ; Times: 2
+	Query: "Oryzomys couesi" ; Times: 2
+	Query: "aneides hardii" ; Times: 2
+	Query: "aves Georgia United States bicknelli" ; Times: 1
+	Query: "county:"Oconee" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "LASIURUS SEMINOLUS" ; Times: 8
+	Query: "elgaria coerulea siskiyou county" ; Times: 1
+	Query: "genus:Bdeogale" ; Times: 2
+	Query: "marmot" ; Times: 1
+	Query: "Ploceus cucullatus" ; Times: 3
+	Query: "Reptilia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 2
+	Query: "Myrmecophagidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "Arizona stateprovince:"oklahoma"" ; Times: 2
+	Query: "columba livia" ; Times: 1
+	Query: "enhydra lutris lutris" ; Times: 1
+	Query: "Branta hutchinsii type:specimen" ; Times: 2
+	Query: "stateprovince:"alaska" class:reptilia AND (NOT fossilspecimen)" ; Times: 1
+	Query: "minnesota wabasha" ; Times: 1
+	Query: "south america specificepithet:virginianus genus:odocoileus" ; Times: 1
+	Query: "Graptemys kohnii" ; Times: 1
+	Query: "trichechus type:specimen (skeleton)" ; Times: 1
+	Query: "south dakota (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "genus:Phalacrocorax year >= 1978" ; Times: 1
+	Query: "neotoma lepida utah" ; Times: 2
+	Query: "parabuteo unicinctus" ; Times: 1
+	Query: "Falco femoralis" ; Times: 2
+	Query: "Xenosauridae" ; Times: 1
+	Query: "distance(location,geopoint(46.75993680791378,10.8984375))<96649" ; Times: 1
+	Query: "coral gables" ; Times: 2
+	Query: "crotalus molossus stateprovince:"new mexico"" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga year >= 1990 year <= 2015 distance(location,geopoint(45.583289756006316,-71.3671875))<743606" ; Times: 1
+	Query: "county:"Inyo" genus:Bufo" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:odocoileus (island)" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(47.279229002570816,-121.88232421875))<56859" ; Times: 1
+	Query: "distance(location,geopoint(40.31446719283562,-113.411865234375))<30246.971978908655" ; Times: 1
+	Query: ""Canis rufus"" ; Times: 1
+	Query: "Tacarcuna country:"panama"" ; Times: 3
+	Query: "Sorex rohweri" ; Times: 2
+	Query: "distance(location,geopoint(46.75993680791378,10.8984375))<100000" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "Amphibia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "stateprovince:"alaska" class:reptilia NOT basisofrecord:fossilspecimen" ; Times: 1
+	Query: "county:"kern" stateprovince:"California" genus:phrynosoma" ; Times: 1
+	Query: "5280" ; Times: 1
+	Query: "necturus wisconsin" ; Times: 6
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "lepus americanus distance(location,geopoint(47.279229002570816,-121.88232421875))<37892" ; Times: 1
+	Query: "stateprovince:"Alaska" class:reptilia fossil:0" ; Times: 2
+	Query: "Egretta thula type:specimen" ; Times: 1
+	Query: "county:"York" stateprovince:"South Carolina" class:Aves" ; Times: 2
+	Query: "genus:Thryonomys" ; Times: 1
+	Query: "Microtus californicus Mexico" ; Times: 2
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "neotoma lepida new mexico" ; Times: 1
+	Query: "phrynosoma stateprovince:"california" year >= 1948 year <= 1948" ; Times: 1
+	Query: "phrynosoma "palm springs"" ; Times: 1
+	Query: "aves Georgia United States Buteo platypterus" ; Times: 1
+	Query: "genus:Aplodontia year >= 1975 year <= 2015" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM)" ; Times: 1
+	Query: "buteo lagopus" ; Times: 1
+	Query: "sceloporus king county" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 3
+	Query: "stateprovince:"MAINE" specificepithet:ruticilla genus:setophaga year >= 1990 year <= 2015" ; Times: 1
+	Query: "phrynosoma year >= 1948 year <= 1948" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(40.31446719283562,-113.411865234375))<39805" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<96662" ; Times: 1
+	Query: "gorilla" ; Times: 4
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT FILM) year >= 1990 year <= 2015 distance(location,geopoint(48.19538740833338,-64.775390625))<541778" ; Times: 1
+	Query: "stateprovince:"iowa" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "nelson d. hoy" ; Times: 4
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 2
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "pseudotriton montanus" ; Times: 2
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 162 (out of 1084 download events in this period)
+Total number of records downloaded: 10159 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7820
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 23
+	Country: Netherlands ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 115
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 17
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-06 ; Times: 7
+	Date: 2015-07-07 ; Times: 5
+	Date: 2015-07-08 ; Times: 7
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-10 ; Times: 5
+	Date: 2015-07-13 ; Times: 12
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 8
+	Date: 2015-07-16 ; Times: 4
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-18 ; Times: 4
+	Date: 2015-07-19 ; Times: 6
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-21 ; Times: 5
+	Date: 2015-07-22 ; Times: 26
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-24 ; Times: 11
+	Date: 2015-07-26 ; Times: 5
+	Date: 2015-07-27 ; Times: 3
+	Date: 2015-07-28 ; Times: 6
+	Date: 2015-07-29 ; Times: 4
+	Date: 2015-07-30 ; Times: 5
+	Date: 2015-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "ambystoma south dakota" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "mvz pituophis" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "Microtus californicus stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Xantusiidae" ; Times: 2
+	Query: "namibia" ; Times: 1
+	Query: "county:"otero" stateprovince:"New Mexico" class:reptilia year <= 2015" ; Times: 1
+	Query: "agelaius tricolor" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "elephantulus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "USNM salamandridae" ; Times: 1
+	Query: "Sternotherus odoratus mappable:1" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "Necturus maculosus type:specimen year >= 1900 year <= 2015" ; Times: 1
+	Query: "stateprovince:"alaska" class:reptilia" ; Times: 1
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "("myodes gapperi" OR "clethrionomys gapperi") mappable:1" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "Dicamptodon aterrimus" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "county:"Duchesne" stateprovince:"Utah"" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "myotis lucifugus country:"United States"" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 2
+	Query: "Eublepharidae" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "Kinosternon subrubrum" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "country:"South Africa" class:Amphibia year >= 1000 year <= 2016 mappable:1 distance(location,geopoint(-14.264383087562635,20.54443359375))<1178525.4307352847" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "tamias minimus" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "Dicamptodon copei" ; Times: 1
+	Query: ""sylvilagus brasiliensis"" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "Streptoprocne" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "thamnophis atratus" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "stateprovince:"mexico" AND (not bufo)" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "genus:Kinosternon subrubrum mappable:1" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Apalone (mutica OR calvata)" ; Times: 1
+	Query: "cebus albifrons" ; Times: 2
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "eleutherodactylus hobartsmithi" ; Times: 1
+	Query: "Rana catesbeiana year >= 1999 year <= 2007" ; Times: 1
+	Query: "country:"Mexico" class:Amphibia" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "county:"Carbon" stateprovince:"Utah"" ; Times: 1
+	Query: "Malaclemys (terrapin OR centrata OR tequesta OR rhizophorarum OR macrospilota OR pileata OR litoralis )" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<119084" ; Times: 1
+	Query: "lemmiscus curtatus" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "genus:mephitis institutioncode:psm" ; Times: 1
+	Query: "sceloporus occidentalis county:"Sonoma" stateprovince:"California" specificepithet:occidentalis genus:sceloporus" ; Times: 2
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Kinosternon baurii" ; Times: 1
+	Query: "specificepithet:abbas genus:Thraupis" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "crotalus viridis viridis" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: ""san marcos" genus:peromyscus" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "sceloporus occidentalis county:"Sonoma" stateprovince:"California" country:"United States" specificepithet:occidentalis genus:sceloporus" ; Times: 1
+	Query: "PSM Falconiformes AND (Texas)" ; Times: 1
+	Query: "hemidactylium" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "tehuacan" ; Times: 1
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "aneides hardii" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "Reptilia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 1
+	Query: "Graptemys kohnii" ; Times: 1
+	Query: "blarina missouri" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "bufo valliceps" ; Times: 1
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "Xenosauridae" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "genus:Kinosternon mappable:1" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "Amphibia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "cas pituophis" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "genus:Trimorphodon" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<129296" ; Times: 1
+	Query: "phrynosoma "palm springs"" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "Rana areolata year >= 1900 year <= 2013" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 3
+	Query: "Cordylidae" ; Times: 1
+	Query: "Apalone mutica" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3882
+Total number of records retrieved from searches: 41914
+Number of download events that retrieved data from the resource: 858
+Total number of records downloaded: 122267
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4419
+Total number of records retrieved from searches: 44792
+Number of download events that retrieved data from the resource: 1949
+Total number of records downloaded: 390290
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
