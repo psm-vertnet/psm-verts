@@ -1,0 +1,400 @@
+Report for Institution Code PSM, Resource Mammal
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 244
+Number of records retrieved in searches: 2641
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 8
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 210
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 5
+	Date: 2016-01-02 ; Times: 3
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-04 ; Times: 18
+	Date: 2016-01-05 ; Times: 14
+	Date: 2016-01-06 ; Times: 7
+	Date: 2016-01-07 ; Times: 10
+	Date: 2016-01-08 ; Times: 7
+	Date: 2016-01-09 ; Times: 12
+	Date: 2016-01-10 ; Times: 2
+	Date: 2016-01-11 ; Times: 17
+	Date: 2016-01-12 ; Times: 10
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-14 ; Times: 16
+	Date: 2016-01-15 ; Times: 4
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-18 ; Times: 10
+	Date: 2016-01-19 ; Times: 18
+	Date: 2016-01-20 ; Times: 6
+	Date: 2016-01-21 ; Times: 9
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-23 ; Times: 5
+	Date: 2016-01-25 ; Times: 6
+	Date: 2016-01-26 ; Times: 7
+	Date: 2016-01-27 ; Times: 8
+	Date: 2016-01-28 ; Times: 8
+	Date: 2016-01-29 ; Times: 12
+	Date: 2016-01-30 ; Times: 11
+	Date: 2016-01-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 1
+	Query: "institutioncode:PSM" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:adair" ; Times: 1
+	Query: "Molossus" ; Times: 2
+	Query: "class:amphibia stateprovince:"oklahoma" distance(location,geopoint(35.496456056584165,-97.5091552734375))<48186" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1916 year <= 1916" ; Times: 1
+	Query: "Bubo scandiacus wing" ; Times: 1
+	Query: "Phocoenoides type:specimen AND (skeleton)" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "genus:Junco stateprovince:"Minnesota"" ; Times: 1
+	Query: "Phocoenoides dalli type:specimen" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "eggs minnesota bird" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920 month >= 1 month <= 5" ; Times: 2
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "Thraupidae AND (Piranga) institutioncode:PSM" ; Times: 2
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920" ; Times: 3
+	Query: "dasypus novemcinctus type:specimen preparations:skull" ; Times: 1
+	Query: ""Procavia capensis" mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1917 year <= 1917" ; Times: 1
+	Query: "Tantilla planiceps MVZ" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 4
+	Query: "mvz 1004" ; Times: 2
+	Query: "Anthracothorax institutioncode:PSM" ; Times: 1
+	Query: "Spea intermontana stateprovince:"Oregon"" ; Times: 2
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "fmnh rupestris" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:"washington"" ; Times: 1
+	Query: "Pteropodidae distance(location,geopoint(20.797201434307,126.474609375))<2517134" ; Times: 1
+	Query: "eggs Falcipennis" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 6
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:"Washington" institutioncode:PSM" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-105.197516))<15000" ; Times: 1
+	Query: "type:specimen specificepithet:conspicillata genus:Elaphe" ; Times: 1
+	Query: "martes americana" ; Times: 5
+	Query: "stateprovince:"alaska" recordedby:hurley" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett institutioncode:PSM" ; Times: 1
+	Query: "genus:Equus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "Philomachus pugnax institutioncode:PSM" ; Times: 1
+	Query: "spea intermontana douglas county" ; Times: 1
+	Query: "Cuculidae institutioncode:PSM" ; Times: 1
+	Query: "Alberta CA bird" ; Times: 1
+	Query: "specificepithet:guttata stateprovince:"pennsylvania"" ; Times: 2
+	Query: "genus:Sorex county:"Lincoln" stateprovince:"Oregon"" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus county:"Grant" stateprovince:"Washington" institutioncode:PSM" ; Times: 1
+	Query: "herpetofauna" ; Times: 2
+	Query: "genus:Ictinia stateprovince:"Oklahoma"" ; Times: 1
+	Query: "Diomedeidae institutioncode:PSM" ; Times: 4
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Psaltriparus minimus year >= 1950 year <= 1960" ; Times: 1
+	Query: "Philippines family:Muridae" ; Times: 1
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "UTEP" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "Etowah County type:specimen year >= 1900 year <= 1950" ; Times: 1
+	Query: "Alcedo institutioncode:PSM" ; Times: 1
+	Query: "class:aves locality:forrester stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920 month >= 1 month <= 5" ; Times: 1
+	Query: "aix sponsa" ; Times: 1
+	Query: "Dicamptodon copei county:"Grays harbor"" ; Times: 1
+	Query: ""Dasypus novemcinctus " mappable:1" ; Times: 1
+	Query: "Momotidae institutioncode:PSM" ; Times: 1
+	Query: "Cuniculus" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1915 year <= 1915" ; Times: 1
+	Query: "blue wing" ; Times: 1
+	Query: "Batrachoseps wrighti stateprovince:"Oregon"" ; Times: 2
+	Query: "type:specimen class:insecta" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "Tympanuchus institutioncode:PSM" ; Times: 2
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:opisthomelas genus:puffinus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus institutioncode:PSM" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "Phocoenoides type:specimen" ; Times: 3
+	Query: "Dicamptodon copei" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:"washington" preparations:round" ; Times: 1
+	Query: "dipodomys heermanni (kern county)" ; Times: 1
+	Query: "type:specimen order:psittaciformes (ambigua)" ; Times: 1
+	Query: "junco Minnesota" ; Times: 1
+	Query: "Oceanodroma homochroa 1886" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "tcwc" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "Hominidae institutioncode:PSM" ; Times: 1
+	Query: "Coraciiformes AND (alcyon) institutioncode:PSM" ; Times: 1
+	Query: "gazella" ; Times: 1
+	Query: "Oceanodroma homochroa Cruz" ; Times: 2
+	Query: "onca type:specimen (Panthera OR Felis)" ; Times: 2
+	Query: "genus:Rana mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 2
+	Query: "class:aves stateprovince:"Oklahoma" year >= 1926 year <= 1926" ; Times: 1
+	Query: "Cuculus canorus institutioncode:PSM" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:gray year >= 1900 year <= 1940" ; Times: 1
+	Query: "whale" ; Times: 2
+	Query: "Trogonidae institutioncode:PSM" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" year >= 1940 year <= 1940 month >= 6 month <= 6" ; Times: 1
+	Query: "dipodomys heermanni (Kern County)" ; Times: 3
+	Query: "enhydra" ; Times: 2
+	Query: "anas aucklandica" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:gray" ; Times: 1
+	Query: "genus:Sorex stateprovince:"Oregon"" ; Times: 1
+	Query: "specificepithet:auritus genus:Podiceps" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1914 year <= 1914" ; Times: 1
+	Query: "eurycea lucifuga illinois" ; Times: 1
+	Query: "canis (North Carolina)" ; Times: 1
+	Query: "Pipra institutioncode:PSM" ; Times: 1
+	Query: ""Erethizon dorsatum" mappable:1" ; Times: 1
+	Query: "(Thamnophis radix)" ; Times: 1
+	Query: "genus:Sorex county:"Coos" stateprovince:"Oregon"" ; Times: 1
+	Query: "mvz 10728" ; Times: 1
+	Query: "mvz 10729" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 3
+	Query: "21381" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Alcedinidae institutioncode:PSM" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Phocoenoides dalli PreservedSpecimen type:specimen" ; Times: 1
+	Query: "specificepithet:spurius genus:icterus year >= 1990 year <= 2016" ; Times: 1
+	Query: "bufo exsul" ; Times: 1
+	Query: "specificepithet:vibakari genus:Amphiesma" ; Times: 1
+	Query: "bald eagle" ; Times: 2
+	Query: "asio otus" ; Times: 1
+	Query: "Zempoala" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:gray year >= 1900 year <= 1940" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Tamiasciurus douglasii PSM King" ; Times: 1
+	Query: "Boissonneaua institutioncode:PSM" ; Times: 1
+	Query: "genus:Sorex county:"Douglas" stateprovince:"Oregon"" ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "genus:Sorex county:"Linn" stateprovince:"Oregon"" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett AND (NOT lacm NOT dmns) year >= 1920 year <= 1920" ; Times: 1
+	Query: "newfoundland" ; Times: 1
+	Query: "heterodon simus" ; Times: 3
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Tachycineta bicolor nest" ; Times: 1
+	Query: "Alcedinidae AND (alcyon) institutioncode:PSM" ; Times: 1
+	Query: "sdnhm" ; Times: 2
+	Query: "gymnogyps californianus" ; Times: 1
+	Query: "class:Aves stateprovince:"Oklahoma" year >= 1913 year <= 1913" ; Times: 1
+	Query: "Condylura cristata mappable:1" ; Times: 1
+	Query: "psm 08005" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: ""dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "mvz 13857" ; Times: 2
+	Query: "Islas San Benitos" ; Times: 1
+	Query: "connochaetes" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "Eurystomus institutioncode:PSM" ; Times: 1
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "class:Aves stateprovince:"oklahoma" year >= 1913 year <= 1913" ; Times: 1
+	Query: "willet" ; Times: 1
+	Query: "archbold" ; Times: 1
+	Query: "Ectopistes migratorius minnesota eggs" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "genus:haliaeetus" ; Times: 1
+	Query: "Haliaeetus leucocephalus washington" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "Amazilia institutioncode:PSM" ; Times: 1
+	Query: "genus:Sorex county:"Lane" stateprovince:"Oregon"" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 2
+	Query: "Etowah County" ; Times: 1
+	Query: "Ixoreus naevius month >= 6 month <= 6" ; Times: 1
+	Query: "type:specimen specificepithet:floridanus genus:podomys (skull OR skeleton) mappable:1 distance(location,geopoint(28.806173508854776,-82.59521484375))<79246.67084907244" ; Times: 1
+	Query: "edwards stateprovince:"baja california" country:"mexico" year >= 1916" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "Coraciiformes institutioncode:PSM" ; Times: 1
+	Query: "Dicamptodon tenebrosus stateprovince:"Oregon"" ; Times: 1
+	Query: "2185 stateprovince:"Texas"" ; Times: 1
+	Query: "genus:Canis order:Carnivora (North Carolina)" ; Times: 1
+	Query: "Tympanuchus phasianellus institutioncode:PSM" ; Times: 1
+	Query: "tigrinum maryland" ; Times: 1
+	Query: "class:aves stateprovince:"oklahoma" year >= 1927 year <= 1927" ; Times: 1
+	Query: "dasypus" ; Times: 2
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "canis aureus" ; Times: 3
+	Query: "type:specimen specificepithet:torosa genus:Taricha year >= 1940 year <= 1950" ; Times: 1
+	Query: "Plethodon vandykei county:"Grays harbor"" ; Times: 1
+	Query: "mvz 2779" ; Times: 1
+	Query: "enhydra lutris california" ; Times: 2
+	Query: "Ramphomicron institutioncode:PSM" ; Times: 1
+	Query: "pagophila" ; Times: 1
+	Query: "Halcyon smyrnensis institutioncode:PSM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 108 (out of 507 download events in this period)
+Total number of records downloaded: 20086 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 10490
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 15
+	Country: Mexico ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 79
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 5
+	Date: 2016-01-02 ; Times: 4
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-05 ; Times: 10
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-13 ; Times: 6
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-19 ; Times: 7
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 3
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-26 ; Times: 5
+	Date: 2016-01-27 ; Times: 4
+	Date: 2016-01-28 ; Times: 8
+	Date: 2016-01-29 ; Times: 6
+	Date: 2016-01-30 ; Times: 12
+	Date: 2016-01-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "boylii" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "genus:Sorex county:"Benton" stateprovince:"Oregon"" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "genus:Junco stateprovince:"Minnesota"" ; Times: 1
+	Query: "Phocoenoides dalli type:specimen" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "genus:Plethodon class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "genus:Rana class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "genus:Rhyacotriton class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "skin genus: Tersina sex:male" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 3
+	Query: "martes americana" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: ""Coeligena torquata"" ; Times: 1
+	Query: "wilsonia pusilla month >= 6 month <= 7" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: ""aves" and "Michoacan"" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Rana class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "genus:Batrachoseps class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: ""Myioborus miniatus"" ; Times: 1
+	Query: "genus:Ascaphus class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "Phocoenoides type:specimen" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Masticophis taeniatus Nevada" ; Times: 1
+	Query: "junco Minnesota" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "genus:Ensatina class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: ""Zonotrichia capensis"" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "genus:Sorex county:"Linn" stateprovince:"Oregon"" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 7
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: ""False Bay"" ; Times: 1
+	Query: "genus:Sorex county:"Lincoln" stateprovince:"Oregon"" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: ""Santa Cruz Island" class:Aves stateprovince:"California"" ; Times: 1
+	Query: "genus:Sorex county:"Clatsop" stateprovince:"Oregon"" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: ""Tangara vassorii"" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: "order:CAudata country:"United States"" ; Times: 4
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "Taricha stateprovince:"California"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 108
+Total number of records downloaded: 20086
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 244
+Total number of records retrieved from searches: 2641
+Number of download events that retrieved data from the resource: 108
+Total number of records downloaded: 20086
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
