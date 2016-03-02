@@ -1,0 +1,386 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 265
+Number of records retrieved in searches: 2101
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 196
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 34
+	Country: Unknown ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Iceland ; Times: 1
+	Country: Switzerland ; Times: 4
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 13
+	Date: 2016-02-22 ; Times: 9
+	Date: 2016-02-18 ; Times: 11
+	Date: 2016-02-19 ; Times: 25
+	Date: 2016-02-12 ; Times: 15
+	Date: 2016-02-13 ; Times: 4
+	Date: 2016-02-10 ; Times: 7
+	Date: 2016-02-11 ; Times: 12
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-17 ; Times: 11
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 2
+	Date: 2016-02-03 ; Times: 21
+	Date: 2016-02-02 ; Times: 9
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-21 ; Times: 11
+	Date: 2016-02-20 ; Times: 10
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-25 ; Times: 7
+	Date: 2016-02-24 ; Times: 10
+	Date: 2016-02-01 ; Times: 4
+	Date: 2016-02-29 ; Times: 8
+	Date: 2016-02-28 ; Times: 2
+	Date: 2016-02-05 ; Times: 17
+	Date: 2016-02-04 ; Times: 27
+	Date: 2016-02-07 ; Times: 8
+	Date: 2016-02-06 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;Manitoba&#34;" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34; month &gt;= 1 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "buteo jamaicensis type:specimen catalognumber:25563 institutioncode:PSM" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "nasua" ; Times: 3
+	Query: "clemmys guttata" ; Times: 2
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 2
+	Query: "county:&#34;Osceola&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "cingulata mappable:1" ; Times: 2
+	Query: "class:aves country:&#34;russia&#34; recordedby:tatibana institutioncode:PSM" ; Times: 3
+	Query: "Heterodon simus" ; Times: 4
+	Query: "class:Aves recordedby:Kleinschmidt year &gt;= 1910 year &lt;= 1910" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "tympanuchus cupido cupido" ; Times: 2
+	Query: "laterallus jamaicensis" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 12
+	Query: "genus:Anolis island:Hispaniola" ; Times: 1
+	Query: "Sus scrofa scrofa" ; Times: 1
+	Query: "Myotis septentrionalis (Illinois)" ; Times: 1
+	Query: "3991" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "plecotus austriacus" ; Times: 2
+	Query: "phenacomys intermedius" ; Times: 1
+	Query: "class:Amphibia locality:Puyo stateprovince:&#34;Pastaza&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 2
+	Query: "Panthera onca" ; Times: 12
+	Query: "1931/105" ; Times: 1
+	Query: "aethia psittacula" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 9
+	Query: "Haliaeetus leucocephalus type:specimen year &gt;= 1944 year &lt;= 1944 institutioncode:PSM" ; Times: 1
+	Query: "Canis lupus preparations:Skull institutioncode:PSM" ; Times: 2
+	Query: "Buteo jamaicensis type:specimen institutioncode:PSM" ; Times: 1
+	Query: "aves (costa rica) year &gt;= 1850 year &lt;= 2016 institutioncode:PSM" ; Times: 2
+	Query: "class:reptilia county:&#34;grand&#34; stateprovince:&#34;utah&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT sceloporus NOT undulatus NOT cophosaurus)" ; Times: 1
+	Query: "tnhc" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "genus:Anolis country:(Haiti OR Dominican Republic)" ; Times: 2
+	Query: "dermoptera order:dermoptera" ; Times: 1
+	Query: "zonata" ; Times: 1
+	Query: "yale" ; Times: 2
+	Query: "class:amphibia county:&#34;grand&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Urocyon littoralis" ; Times: 3
+	Query: "Bergen Swamp" ; Times: 4
+	Query: "Vireo vicinior" ; Times: 2
+	Query: "Falco mexicanus eggs" ; Times: 1
+	Query: "crotalus molossus" ; Times: 2
+	Query: "vulpes velox" ; Times: 3
+	Query: "specificepithet:(multiplicata OR tynerensis) genus:Eurycea" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "recordedby:KOFAHL" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "distance(location,geopoint(25.935817142040126,-80.22663116455078))&lt;12098.115330222452" ; Times: 1
+	Query: "catharus bicknelli" ; Times: 1
+	Query: "Tlacuatzin" ; Times: 1
+	Query: "Vireo vicinior year &gt;= 1940 year &lt;= 2016 month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Mankins" ; Times: 5
+	Query: "5501 order:rodentia year &gt;= 1970 year &lt;= 1984" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;british columbia&#34;" ; Times: 3
+	Query: "class:Aves recordedby:Jacot" ; Times: 2
+	Query: "dasypus mappable:1" ; Times: 2
+	Query: "Cuculus institutioncode:PSM" ; Times: 2
+	Query: "order:Chiroptera stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "genus:neotoma stateprovince:Nevada" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:aves locality:magdalena country:&#34;Mexico&#34; year &gt;= 1925 year &lt;= 1925 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "buteo jamaicensis type:specimen catalognumber:08449 institutioncode:PSM" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "&#34;Lynx canadensis&#34; mappable:1" ; Times: 1
+	Query: "psm Falco peregrinus wing" ; Times: 1
+	Query: "Heleophryne purcelli" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "buteo jamaicensis type:specimen catalognumber:24827 institutioncode:PSM" ; Times: 1
+	Query: "type:specimen order:Diprotodontia institutioncode:PSM" ; Times: 1
+	Query: "class:aves country:&#34;russia&#34; recordedby:tachibana institutioncode:PSM" ; Times: 1
+	Query: "specificepithet:concolor genus:puma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Scapanus townsendii" ; Times: 1
+	Query: "anolis carolinensis stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 2
+	Query: "buteo jamaicensis type:specimen institutioncode:PSM" ; Times: 2
+	Query: "crocodylus acutus" ; Times: 2
+	Query: "class:aves country:&#34;russia&#34; recordedby:tatibana" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "osos" ; Times: 1
+	Query: "Aves North Reef" ; Times: 2
+	Query: "Caprimulgus carolinensis" ; Times: 1
+	Query: "class:aves locality:magdalena country:&#34;Mexico&#34; year &gt;= 1925 year &lt;= 1925" ; Times: 1
+	Query: "Dasypus mappable:1" ; Times: 2
+	Query: "Gavia adamsii" ; Times: 1
+	Query: "county:&#34;Carbon&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:coendou institutioncode:PSM" ; Times: 6
+	Query: "enhydra" ; Times: 1
+	Query: "Martes institutioncode:PSM" ; Times: 1
+	Query: "Anas rubripes" ; Times: 1
+	Query: "plecotus auritus" ; Times: 2
+	Query: "Ambystoma tigrinum New Mexico" ; Times: 1
+	Query: "Mephitis" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "genus:Leiocephalus island:Hispaniola" ; Times: 1
+	Query: "barbastella" ; Times: 1
+	Query: "genus:spermophilus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "rufipunctatus" ; Times: 1
+	Query: "Urocyon" ; Times: 1
+	Query: "Heterodon simus (North Carolina)" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "buteo jamaicensis type:specimen catalognumber:09011 institutioncode:PSM" ; Times: 1
+	Query: "bufo exsul" ; Times: 1
+	Query: "type:specimen genus:sus" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; recordedby:Adcock" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1933 year &lt;= 1933" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "presque isle pennsylvania" ; Times: 1
+	Query: "canis lupus institutioncode:PSM" ; Times: 1
+	Query: "Uria lomvia" ; Times: 1
+	Query: "sorex nanus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "specificepithet:americana genus:martes continent:north america" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "dermoptera" ; Times: 7
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "specificepithet:californiense genus:ambystoma county:&#34;santa cruz&#34;" ; Times: 1
+	Query: "class:aves recordedby:wheeler" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Diomedeidae institutioncode:PSM" ; Times: 1
+	Query: "pecari tajacu stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;ontario&#34; country:&#34;canada&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "county:&#34;Daniels&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "type:specimen order:Didelphimorphia institutioncode:PSM" ; Times: 2
+	Query: "Lynx rufus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "class:aves country:&#34;russia&#34; recordedby:tachibana" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "Martes americana" ; Times: 2
+	Query: "Vireo vicinior year &gt;= 1940 year &lt;= 2016" ; Times: 1
+	Query: "class:aves country:&#34;united states&#34; recordedby:wheeler" ; Times: 1
+	Query: "genus:zapus stateprovince:&#34;british columbia&#34;" ; Times: 1
+	Query: "specificepithet:Rivularis genus:Taricha county:&#34;Mendocino&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "uwbm 30055" ; Times: 2
+	Query: "33903" ; Times: 1
+	Query: "specificepithet:pictus genus:calcarius class:aves" ; Times: 1
+	Query: "Tympanuchus pallidicinctus 1" ; Times: 1
+	Query: "Dermochelys Coriacea" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "tigrinum maryland" ; Times: 3
+	Query: "ambystoma opacum stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "type:specimen order:Dasyuromorphia institutioncode:PSM" ; Times: 1
+	Query: "UMMZ peromyscus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 165 (out of 512 download events in this period)
+Total number of records downloaded: 15597
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 104
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 30
+	Country: Unknown ; Times: 19
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 5
+	Date: 2016-02-22 ; Times: 4
+	Date: 2016-02-18 ; Times: 9
+	Date: 2016-02-19 ; Times: 15
+	Date: 2016-02-12 ; Times: 3
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-17 ; Times: 6
+	Date: 2016-02-14 ; Times: 8
+	Date: 2016-02-15 ; Times: 4
+	Date: 2016-02-29 ; Times: 9
+	Date: 2016-02-02 ; Times: 6
+	Date: 2016-02-23 ; Times: 7
+	Date: 2016-02-08 ; Times: 4
+	Date: 2016-02-21 ; Times: 4
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 21
+	Date: 2016-02-25 ; Times: 6
+	Date: 2016-02-24 ; Times: 6
+	Date: 2016-02-01 ; Times: 2
+	Date: 2016-02-03 ; Times: 7
+	Date: 2016-02-28 ; Times: 2
+	Date: 2016-02-05 ; Times: 3
+	Date: 2016-02-04 ; Times: 19
+	Date: 2016-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;Manitoba&#34;" ; Times: 1
+	Query: "county:&#34;Valley&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Dicamptodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "perognathus inornatus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:California" ; Times: 5
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1940 year &lt;= 1946 mappable:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "class:amphibia country:Dominican Republic" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "Cedar Canyon county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen institutioncode:PSM" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "Delphinidae" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Wyoming" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1924 year &lt;= 1925" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "notophthalmus viridescens mappable:1" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1926 year &lt;= 1928" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;british columbia&#34;" ; Times: 2
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1920 year &lt;= 1926 mappable:1" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 1
+	Query: "callicebus" ; Times: 2
+	Query: "heleophryne" ; Times: 1
+	Query: "Chinemys reevesii" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "buteo jamaicensis type:specimen institutioncode:PSM" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "okinawa class:Aves" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1936 year &lt;= 1937" ; Times: 1
+	Query: "rufipunctatus" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1975 year &lt;= 1979" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "anolis mappable:1" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "class:reptilia country:Dominican Republic" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1946 year &lt;= 1949" ; Times: 1
+	Query: "presque isle pennsylvania" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "varanus niloticus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Saltator" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;alaska&#34; mappable:1" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Yukon&#34; country:&#34;Canada&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:California" ; Times: 3
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Ambystoma macrodactylum mappable:1" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1906 year &lt;= 1910" ; Times: 1
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+
+
+End of report.
