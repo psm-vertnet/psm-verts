@@ -1,0 +1,206 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 1361
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 9
+	Country: Czech Republic ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: United States ; Times: 100
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 16
+	Date: 2016-03-10 ; Times: 13
+	Date: 2016-03-01 ; Times: 18
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-06 ; Times: 13
+	Date: 2016-03-14 ; Times: 4
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 30
+	Date: 2016-03-11 ; Times: 8
+	Date: 2016-03-03 ; Times: 7
+	Date: 2016-03-13 ; Times: 5
+	Date: 2016-03-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Marmota broweri" ; Times: 2
+	Query: "Thomomys idahoensis usa" ; Times: 1
+	Query: "class:aves recordedby:bodley" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "wislizenii washoe county" ; Times: 1
+	Query: "&#34;Lepus othus&#34; type:specimen institutioncode:PSM" ; Times: 1
+	Query: "spermophilus mollis" ; Times: 3
+	Query: "genus:puma specificepithet:concolor" ; Times: 2
+	Query: "29992" ; Times: 2
+	Query: "Haliaeetus leucocephalus type:specimen year &gt;= 1944 year &lt;= 1944 institutioncode:PSM" ; Times: 1
+	Query: "lemniscomys griselda" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "country:&#34;Honduras&#34; recordedby:mankins" ; Times: 2
+	Query: "recordedby:bodley" ; Times: 2
+	Query: "Geomys" ; Times: 1
+	Query: "country:&#34;Honduras&#34; year &gt;= 1964 year &lt;= 1965" ; Times: 1
+	Query: "vulpes velox" ; Times: 4
+	Query: "mankins country:&#34;Honduras&#34;" ; Times: 1
+	Query: "institutioncode:psm" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:bodley" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1940" ; Times: 1
+	Query: "rom anas" ; Times: 1
+	Query: "Bufo exsul" ; Times: 1
+	Query: "recordedby:Bodley" ; Times: 5
+	Query: "stateprovince:&#34;oregon&#34; recordedby:Bodley" ; Times: 2
+	Query: "specificepithet:paradisaea genus:sterna year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Psittacula" ; Times: 1
+	Query: "class:aves recordedby:Bodley year &gt;= 1959 year &lt;= 1960" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "Rainier class:Amphibia county:&#34;Lewis&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "buteo jamaicensis type:specimen institutioncode:PSM" ; Times: 2
+	Query: "class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "bonasa year &gt;= 1970 year &lt;= 2016 institutioncode:PSM" ; Times: 1
+	Query: "aves distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;195452" ; Times: 1
+	Query: "genus:Carollia family:Phyllostomidae order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "genus:coendou institutioncode:PSM" ; Times: 2
+	Query: "order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "cynops pyrrhogaster" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Thomomys idahoensis" ; Times: 2
+	Query: "striata stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; (setophaga OR dendroica) month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "xema sabini (British Columbia)" ; Times: 1
+	Query: "bonasa umbellus year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "ochotona princeps" ; Times: 2
+	Query: "Cynops pyrrhogaster mappable:1" ; Times: 3
+	Query: "Alces alces" ; Times: 1
+	Query: "recordedby:Bodley year &gt;= 1961 year &lt;= 1961" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 5
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "Puyo Amphibia Ecuador" ; Times: 1
+	Query: "(A.B. Howell)" ; Times: 1
+	Query: "lama glama" ; Times: 2
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "neotoma lepida utah" ; Times: 2
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "epicrates" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (clutch OR egg OR eggs)" ; Times: 3
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "specificepithet:tenuis genus:Contia stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "recordedby:Bodley institutioncode:PSM" ; Times: 2
+	Query: "class:mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "haematopus bachmani (British Columbia)" ; Times: 2
+	Query: "2229" ; Times: 1
+	Query: "archbold" ; Times: 1
+	Query: "Rainier class:amphibia county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "stateprovince:&#34;New Mexico&#34; (urosaurus)" ; Times: 1
+	Query: "family:Phyllostomidae order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "spermophilus washingtoni" ; Times: 1
+	Query: "cuculus canorus india" ; Times: 1
+	Query: "mankins" ; Times: 1
+	Query: "(sterna paradisaea) year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "W.E.D. Scott" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Cortes&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 1
+	Query: "spermophilus saturatus" ; Times: 1
+	Query: "type:specimen (A.B. Howell) year &gt;= 1905 year &lt;= 1917" ; Times: 1
+	Query: "persons" ; Times: 1
+	Query: "osborne" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "class:Aves recordedby:Bodley" ; Times: 1
+	Query: "Bodley type:specimen" ; Times: 5
+	Query: "Thomomys townsendii usa" ; Times: 1
+	Query: "magister washoe county" ; Times: 1
+	Query: "mankins country:&#34;Honduras&#34; recordedby:mankins" ; Times: 1
+	Query: "bonasa type:specimen year &gt;= 1970 year &lt;= 2016 institutioncode:PSM" ; Times: 1
+	Query: "Haliaeetus leucocephalus type:specimen institutioncode:PSM" ; Times: 1
+	Query: "genus:sterna (sterna paradisaea) year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "H2229" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 230 download events in this period)
+Total number of records downloaded: 2836
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 10
+	Country: United States ; Times: 30
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-02 ; Times: 5
+	Date: 2016-03-09 ; Times: 4
+	Date: 2016-03-10 ; Times: 8
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-06 ; Times: 7
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 4
+	Date: 2016-03-11 ; Times: 2
+	Date: 2016-03-03 ; Times: 4
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-01 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo jamaicensis type:specimen institutioncode:PSM" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Setophaga nigrescens" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1949" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "Ambystoma jeffersonianum mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Rainier class:amphibia county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "parula americana" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "soriculus" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "Cynops pyrrhogaster mappable:1" ; Times: 1
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;washington&#34; year &gt;= 1950" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "specificepithet:paradisaea genus:sterna year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Bodley type:specimen" ; Times: 1
+	Query: "Rainier class:Amphibia county:&#34;Lewis&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
