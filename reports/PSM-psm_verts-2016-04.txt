@@ -1,0 +1,669 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 653
+Number of records retrieved in searches: 5349
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 52
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 152
+	Country: Poland ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 3
+	Country: Norway ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 388
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 34
+	Date: 2016-04-28 ; Times: 14
+	Date: 2016-04-07 ; Times: 16
+	Date: 2016-04-06 ; Times: 34
+	Date: 2016-04-05 ; Times: 31
+	Date: 2016-04-04 ; Times: 21
+	Date: 2016-04-21 ; Times: 45
+	Date: 2016-04-20 ; Times: 41
+	Date: 2016-04-23 ; Times: 10
+	Date: 2016-04-08 ; Times: 28
+	Date: 2016-04-25 ; Times: 15
+	Date: 2016-04-24 ; Times: 15
+	Date: 2016-04-09 ; Times: 17
+	Date: 2016-04-26 ; Times: 19
+	Date: 2016-04-22 ; Times: 17
+	Date: 2016-04-27 ; Times: 103
+	Date: 2016-04-18 ; Times: 15
+	Date: 2016-04-19 ; Times: 10
+	Date: 2016-04-14 ; Times: 12
+	Date: 2016-04-15 ; Times: 16
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 10
+	Date: 2016-04-10 ; Times: 9
+	Date: 2016-04-11 ; Times: 27
+	Date: 2016-04-12 ; Times: 21
+	Date: 2016-04-13 ; Times: 67
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "phalacrocorax carbo" ; Times: 6
+	Query: "Buteo jamaicensis type:specimen catalognumber:24010 institutioncode:PSM" ; Times: 1
+	Query: "Athene AND Island" ; Times: 1
+	Query: "clemmys guttata" ; Times: 4
+	Query: "phoebastria albatrus" ; Times: 3
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "Riparia riparia" ; Times: 2
+	Query: "MMNH" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.487516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.937516))&lt;15000" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.767516))&lt;15000" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1951 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1920 year &lt;= 1930 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.657516))&lt;15000" ; Times: 1
+	Query: "class:Mammalia genus:dasypus" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.147516))&lt;15000" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Pipa" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-107.237516))&lt;15000" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1955 year &lt;= 1960 mappable:1" ; Times: 2
+	Query: "PSM AND 10568" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen institutioncode:PSM" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "martes americana" ; Times: 4
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 2
+	Query: "panthera onca" ; Times: 5
+	Query: "thamnophis sirtalis (Nebraska)" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "recordedby:Mock" ; Times: 1
+	Query: "CINGULATA" ; Times: 2
+	Query: "genus:dasypus class:mammalia" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-107.407516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:davis" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "type:specimen genus:Mirounga order:Carnivora" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-110.127516))&lt;15000" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "institutioncode:psm" ; Times: 4
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "Lasiurus AND Island" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "riparia riparia" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 1995 mappable:1" ; Times: 1
+	Query: "UWBM AND Anacapa" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "county:&#34;Chelan&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-105.367516))&lt;15000" ; Times: 5
+	Query: "specificepithet:tigrina genus:Dendroica month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1890 year &lt;= 1900 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "Anacapa AND Eggs AND 1920" ; Times: 2
+	Query: "Martes Alaska" ; Times: 1
+	Query: "Egretta caerulea" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.787516))&lt;15000" ; Times: 1
+	Query: "B 28445" ; Times: 1
+	Query: "Thamnophis sirtalis stateprovince:&#34;South Carolina&#34;" ; Times: 6
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "11221" ; Times: 1
+	Query: "spheniscidae institutioncode:PSM" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.487516))&lt;15000" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 1
+	Query: "MVZ 4127" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 7 mappable:1" ; Times: 1
+	Query: "institutioncode:psm sterna paradisaea" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-107.067516))&lt;15000" ; Times: 1
+	Query: "striata stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; (setophaga OR dendroica) month &gt;= 6 month &lt;= 8" ; Times: 3
+	Query: "Appleton AND San Miguel Island" ; Times: 2
+	Query: "Micromys minutus" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-110.297516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Bison mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.977516))&lt;15000" ; Times: 3
+	Query: "Sterna paradisaea institutioncode:PSM" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-110.977516))&lt;15000" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-105.197516))&lt;15000" ; Times: 6
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1935 mappable:1" ; Times: 1
+	Query: "Masticophis bilineatus Sinaloa" ; Times: 1
+	Query: "Thamnophis rufipunctatus oak creek canyon" ; Times: 1
+	Query: "falco columbarius (british columbia)" ; Times: 1
+	Query: "capromys" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.367516))&lt;15000" ; Times: 2
+	Query: "Elaphe climacophora" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "Anacapa AND Bird AND 1931" ; Times: 2
+	Query: "ptarmigan" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;genesee&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "institutioncode:psm Peramelidae" ; Times: 2
+	Query: "distance(location,geopoint(21.439036,-105.027516))&lt;15000" ; Times: 8
+	Query: "spea bombifrons" ; Times: 1
+	Query: "eurycea spelaeus" ; Times: 8
+	Query: "Anacapa AND Eggs AND 1931" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 2
+	Query: "amphibians in America" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.657516))&lt;15000" ; Times: 2
+	Query: "11650" ; Times: 3
+	Query: "cnemidophorus sexlineatus" ; Times: 1
+	Query: "specificepithet:triangulum stateprovince:&#34;Maryland&#34;" ; Times: 5
+	Query: "specificepithet:discolor genus:dendroica month &gt;= 3 mappable:1" ; Times: 1
+	Query: "institutioncode:PSM" ; Times: 1
+	Query: "Balaenoptera" ; Times: 1
+	Query: "Sceloporus clarkii Sinaloa" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 6 mappable:1" ; Times: 1
+	Query: "Dipodomys venustus" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-110.297516))&lt;15000" ; Times: 1
+	Query: "UTEP" ; Times: 1
+	Query: "Arborimus" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Anacapa Haliaeetus leucocephalus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.467516))&lt;15000" ; Times: 1
+	Query: "corvus corax" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen catalognumber:05986 institutioncode:PSM" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.807516))&lt;15000" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "Salmonberry mappable:1 distance(location,geopoint(45.706179285330876,-122.4755859375))&lt;139389" ; Times: 1
+	Query: "violacea" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 4
+	Query: "Agelaius phoeniceus Florida Dade County" ; Times: 1
+	Query: "11650 mammal" ; Times: 2
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.827516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.487516))&lt;15000" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 1920 year &lt;= 1930 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.527516))&lt;15000" ; Times: 1
+	Query: "Herpestes" ; Times: 7
+	Query: "crotalus molossus" ; Times: 2
+	Query: "distance(location,geopoint(23.139036,-106.387516))&lt;15000" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 5
+	Query: "thamnophis eques" ; Times: 2
+	Query: "Tamiasciurus douglasii" ; Times: 2
+	Query: "Buteo jamaicensis type:specimen catalognumber:05291 institutioncode:PSM" ; Times: 1
+	Query: "14199" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "ontario" ; Times: 3
+	Query: "Meleagris gallopavo institutioncode:PSM" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen catalognumber:08449 institutioncode:PSM" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-109.957516))&lt;15000" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "buteo jamaicensis type:specimen institutioncode:PSM" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 2
+	Query: "specificepithet:mitchellii genus:Crotalus" ; Times: 2
+	Query: "Hylocichla mustelina Ontario" ; Times: 10
+	Query: "whale" ; Times: 1
+	Query: "class:aves catalognumber:22127" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 8 mappable:1" ; Times: 2
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "Galictis vittata" ; Times: 3
+	Query: "Howell AND San Clemente Island" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-107.407516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Howell AND 1913" ; Times: 1
+	Query: "Howell AND 1910" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Martes Alaska skeleton" ; Times: 1
+	Query: "Anacapa Island California" ; Times: 2
+	Query: "locality:Lincoln stateprovince:&#34;Maine&#34; year &gt;= 1895 year &lt;= 1897" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1955 mappable:1" ; Times: 2
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 3
+	Query: "distance(location,geopoint(31.809036,-109.787516))&lt;15000" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7 mappable:1" ; Times: 2
+	Query: "PSM Anacapa" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen catalognumber:23514 institutioncode:PSM" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 6
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1985 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "Leptotyphlops dulcis" ; Times: 1
+	Query: "egretta caerulea" ; Times: 1
+	Query: "pipa pipa" ; Times: 1
+	Query: "microsciurus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Agelaius phoeniceus brownsville" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1965 year &lt;= 1970 mappable:1" ; Times: 2
+	Query: "psm 26007" ; Times: 1
+	Query: "ONTARIO" ; Times: 1
+	Query: "2 ONTARIO 1" ; Times: 1
+	Query: "Asio AND Island" ; Times: 1
+	Query: "PSM 10568" ; Times: 3
+	Query: "distance(location,geopoint(31.979036,-108.767516))&lt;15000" ; Times: 1
+	Query: "PSM Anacapa Bird" ; Times: 1
+	Query: "Abbott AND ROM" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.807516))&lt;15000" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.957516))&lt;15000" ; Times: 1
+	Query: "gallinula chloropus skeleton" ; Times: 1
+	Query: "extinct year &gt;= 1912 year &lt;= 1929" ; Times: 3
+	Query: "class:Reptilia county:&#34;Chelan&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-109.787516))&lt;15000" ; Times: 2
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 3
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-110.297516))&lt;15000" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "specificepithet:discolor genus:Dendroica mappable:1" ; Times: 1
+	Query: "bogertophis subocularis" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "Corvus AND Island" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "Podiceps grisegena Ontario" ; Times: 10
+	Query: "specificepithet:bachmanii genus:Vermivora" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Urosaurus ornatus Sinaloa" ; Times: 7
+	Query: "Viverridae" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.617516))&lt;15000" ; Times: 1
+	Query: "coragyps" ; Times: 1
+	Query: "lacm mammal" ; Times: 1
+	Query: "Contia tenuis" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 3
+	Query: "Dendroica tigrina" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.597516))&lt;15000" ; Times: 1
+	Query: "(orca)" ; Times: 1
+	Query: "Synthliboramphus AND Anacapa" ; Times: 2
+	Query: "orca" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 8 mappable:1" ; Times: 1
+	Query: "Larus AND Anacapa" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-106.387516))&lt;15000" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen catalognumber:25563 institutioncode:PSM" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.977516))&lt;15000" ; Times: 1
+	Query: "San Miguel Island AND 1906" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 3
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "&#34;A. B.Howell&#34; AND ISland" ; Times: 1
+	Query: "Rana catesbeiana stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.597516))&lt;15000" ; Times: 1
+	Query: "Coccothraustes minnesota" ; Times: 2
+	Query: "(sturnus) institutioncode:PSM" ; Times: 1
+	Query: "Parabuteo" ; Times: 1
+	Query: "Chiroptera institutioncode:PSM" ; Times: 3
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.147516))&lt;15000" ; Times: 1
+	Query: "O. Howard AND Island" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-107.237516))&lt;15000" ; Times: 1
+	Query: "genus:sus" ; Times: 2
+	Query: "distance(location,geopoint(24.329036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Holbrookia maculata Sinaloa" ; Times: 1
+	Query: "extinct" ; Times: 2
+	Query: "institutioncode:psm grus americana" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Icterus galbula institutioncode:PSM" ; Times: 1
+	Query: "Anacapa AND Bird AND 1918" ; Times: 2
+	Query: "Anacapa AND Bird AND 1919" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "Anacapa AND Bird AND 1912" ; Times: 1
+	Query: "Anacapa AND Bird AND 1915" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-111.317516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.487516))&lt;15000" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1975 mappable:1" ; Times: 2
+	Query: "Pipa carvalhoi" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-113.697516))&lt;15000" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "Pipa pipa" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes Alaska" ; Times: 1
+	Query: "specificepithet:simus genus:heterodon" ; Times: 4
+	Query: "distance(location,geopoint(31.809036,-110.977516))&lt;15000" ; Times: 1
+	Query: "griselda" ; Times: 1
+	Query: "Ammodramus savannarum Ontario" ; Times: 10
+	Query: "distance(location,geopoint(21.609036,-105.197516))&lt;15000" ; Times: 7
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.937516))&lt;15000" ; Times: 1
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "spea douglas county" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "erinaceidae" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Polioptila)" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-105.367516))&lt;15000" ; Times: 5
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "Pteropus institutioncode:PSM" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-107.407516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.977516))&lt;15000" ; Times: 1
+	Query: "Spilogale AND Island NOT Oak" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-111.147516))&lt;15000" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5 mappable:1" ; Times: 2
+	Query: "Smyrna" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-106.897516))&lt;15000" ; Times: 1
+	Query: "monroe country year &gt;= 1912 year &lt;= 1928" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "&#34;vermivora bachmanii&#34;" ; Times: 1
+	Query: "gorilla gorilla" ; Times: 1
+	Query: "PILOSA" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Ammodramus savannarum dakota" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.897516))&lt;15000" ; Times: 1
+	Query: "24268" ; Times: 2
+	Query: "Anacapa AND Eggs AND 1919" ; Times: 1
+	Query: "Anacapa AND Eggs AND 1918" ; Times: 2
+	Query: "Anacapa AND Eggs AND 1915" ; Times: 1
+	Query: "Charina trivirgata type:specimen" ; Times: 1
+	Query: "myiarchus tuberculifer" ; Times: 3
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "lynx canadensis year &gt;= 1950 year &lt;= 2000 mappable:1" ; Times: 2
+	Query: "dipodomys deserti (nevada)" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen catalognumber:24902 institutioncode:PSM" ; Times: 1
+	Query: "Urocyon littoralis" ; Times: 1
+	Query: "Rhyacotriton kezeri" ; Times: 1
+	Query: "class:Reptilia county:&#34;deschutes&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "plethodon cinereus distance(location,geopoint(41.530515413009205,-78.22265625))&lt;100000" ; Times: 1
+	Query: "4890" ; Times: 2
+	Query: "Anacapa AND Eggs AND 1912" ; Times: 2
+	Query: "&#34;A. B.Howell&#34; AND Island" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "UWBM Anacapa" ; Times: 1
+	Query: "Spilogale AND Island" ; Times: 1
+	Query: "mosquito specimen" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "Buteo jamaicensis PSM" ; Times: 2
+	Query: "lynx canadensis" ; Times: 1
+	Query: "oxybelis" ; Times: 1
+	Query: "PSM 13148" ; Times: 1
+	Query: "PSM 13149" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-106.557516))&lt;15000" ; Times: 1
+	Query: "class:aves catalognumber:23552" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "gallinula chloropus" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 3
+	Query: "distance(location,geopoint(21.609036,-105.027516))&lt;15000" ; Times: 6
+	Query: "noctilio" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "Anacapa 1919 type:specimen" ; Times: 1
+	Query: "pteroglossus aracari type:specimen" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:nigrescens genus:Setophaga" ; Times: 1
+	Query: "UWBM AND Anacapa AND Bird" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-108.767516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(22.459036,-105.367516))&lt;15000" ; Times: 1
+	Query: "phoebastria" ; Times: 4
+	Query: "Tropidophiidae" ; Times: 1
+	Query: "Appleton AND Island" ; Times: 1
+	Query: "Peyton AND Haliaeetus" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Swan Island United States" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-105.197516))&lt;15000" ; Times: 7
+	Query: "Sturnella magna Ontario" ; Times: 10
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus stateprovince:&#34;Idaho&#34; mappable:1" ; Times: 1
+	Query: "Falco peregrinus AND Island" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-105.027516))&lt;15000" ; Times: 6
+	Query: "pelecanus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Accipiter striatus 1" ; Times: 2
+	Query: "ectopistes migratorius" ; Times: 4
+	Query: "distance(location,geopoint(21.949036,-105.197516))&lt;15000" ; Times: 5
+	Query: "heterodon simus" ; Times: 1
+	Query: "Anacapa AND Bird AND 1920" ; Times: 1
+	Query: "Pilosa" ; Times: 2
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "distance(location,geopoint(27.049036,-109.107516))&lt;15000" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo preparations:skin institutioncode:PSM" ; Times: 2
+	Query: "Tyto AND Island" ; Times: 1
+	Query: "dinodon" ; Times: 1
+	Query: "Sorex bendirii" ; Times: 1
+	Query: "Anacapa AND Eggs" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.067516))&lt;15000" ; Times: 1
+	Query: "Lakeside county:&#34;san diego&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Masticophis flagellum Sinaloa" ; Times: 2
+	Query: "Buteo jamaicensis type:specimen catalognumber:05983 institutioncode:PSM" ; Times: 1
+	Query: "gbifdatasetid:8eddc200-f535-4c65-9b4d-f723eafe607e" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.957516))&lt;15000" ; Times: 1
+	Query: "10371" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.387516))&lt;15000" ; Times: 1
+	Query: "gorilla" ; Times: 3
+	Query: "distance(location,geopoint(31.639036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.119036,-105.197516))&lt;15000" ; Times: 1
+	Query: "Haliaeetus AND Anacapa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 258 (out of 1312 download events in this period)
+Total number of records downloaded: 15163
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 22
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 214
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 3
+	Date: 2016-04-02 ; Times: 2
+	Date: 2016-04-07 ; Times: 6
+	Date: 2016-04-06 ; Times: 19
+	Date: 2016-04-05 ; Times: 8
+	Date: 2016-04-04 ; Times: 5
+	Date: 2016-04-21 ; Times: 37
+	Date: 2016-04-20 ; Times: 35
+	Date: 2016-04-23 ; Times: 7
+	Date: 2016-04-08 ; Times: 12
+	Date: 2016-04-25 ; Times: 5
+	Date: 2016-04-24 ; Times: 7
+	Date: 2016-04-09 ; Times: 7
+	Date: 2016-04-26 ; Times: 8
+	Date: 2016-04-22 ; Times: 10
+	Date: 2016-04-27 ; Times: 10
+	Date: 2016-04-18 ; Times: 5
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 11
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 6
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 7
+	Date: 2016-04-12 ; Times: 11
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-29 ; Times: 3
+	Date: 2016-04-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 6 mappable:1" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34; country:&#34;United States&#34; mappable:1" ; Times: 2
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1920 year &lt;= 1930 mappable:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1955 year &lt;= 1960 mappable:1" ; Times: 2
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "Passeridae Arizona" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen institutioncode:PSM" ; Times: 2
+	Query: "ambystoma" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 1995 mappable:1" ; Times: 1
+	Query: "dipodomys deserti (nevada)" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Rhyacotriton kezeri" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 8 mappable:1" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "anniella pulchra mappable:1" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "lutra lutra" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "lacm mammalia" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 8 mappable:1" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1890 year &lt;= 1900 mappable:1" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "terpsiphone mutata" ; Times: 1
+	Query: "dipsosaurus dorsalis mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1951 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5 mappable:1" ; Times: 2
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 6 mappable:1" ; Times: 2
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(33.063924198120645,-108.15765380859375))&lt;41580.77121872904" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "Sciurus niger" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 7 mappable:1" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus stateprovince:&#34;Idaho&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1975 mappable:1" ; Times: 2
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "Leopardus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "varanus niloticus" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1985 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "&#34;Sciurus griseus&#34; AND preparations:skeleton type:specimen" ; Times: 2
+	Query: "Rana cascadae" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1965 year &lt;= 1970 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;genesee&#34; stateprovince:&#34;New York&#34;" ; Times: 3
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "Anolis cristatellus mappable:1" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7 mappable:1" ; Times: 2
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
