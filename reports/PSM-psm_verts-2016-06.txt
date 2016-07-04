@@ -1,0 +1,573 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 561
+Number of records retrieved in searches: 5364
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 16
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 43
+	Country: Mexico ; Times: 128
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 3
+	Country: United States ; Times: 342
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 31
+	Date: 2016-06-24 ; Times: 11
+	Date: 2016-06-23 ; Times: 17
+	Date: 2016-06-22 ; Times: 21
+	Date: 2016-06-21 ; Times: 46
+	Date: 2016-06-20 ; Times: 60
+	Date: 2016-06-05 ; Times: 7
+	Date: 2016-06-04 ; Times: 20
+	Date: 2016-06-07 ; Times: 22
+	Date: 2016-06-06 ; Times: 26
+	Date: 2016-06-01 ; Times: 34
+	Date: 2016-06-03 ; Times: 20
+	Date: 2016-06-02 ; Times: 34
+	Date: 2016-06-09 ; Times: 7
+	Date: 2016-06-08 ; Times: 13
+	Date: 2016-06-18 ; Times: 10
+	Date: 2016-06-19 ; Times: 16
+	Date: 2016-06-16 ; Times: 22
+	Date: 2016-06-17 ; Times: 18
+	Date: 2016-06-14 ; Times: 42
+	Date: 2016-06-15 ; Times: 28
+	Date: 2016-06-13 ; Times: 22
+	Date: 2016-06-10 ; Times: 14
+	Date: 2016-06-11 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 3
+	Query: "14852" ; Times: 1
+	Query: "Connochaetes" ; Times: 1
+	Query: "genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma distance(location,geopoint(45.533288879467456,-122.68157958984375))&lt;100000" ; Times: 3
+	Query: "Ovis aries" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "hawk institutioncode:PSM" ; Times: 1
+	Query: "Melanitta AND ISland" ; Times: 1
+	Query: "microtus montebelli" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "Dawson AND Santa Cruz ISland" ; Times: 1
+	Query: "bison bison   " ; Times: 9
+	Query: "london" ; Times: 1
+	Query: "Gambel AND Island" ; Times: 1
+	Query: "UMNH" ; Times: 2
+	Query: "couch" ; Times: 2
+	Query: "specificepithet:macrodactylum genus:Ambystoma distance(location,geopoint(45.42929873257378,-121.728515625))&lt;100000" ; Times: 2
+	Query: "Ashworth AND Santa Cruz Island" ; Times: 1
+	Query: "DeGroot AND Santa Cruz Island" ; Times: 1
+	Query: "family:felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "university of puget sound" ; Times: 1
+	Query: "chiroptera institutioncode:PSM" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "cerorhinca psm" ; Times: 1
+	Query: "specificepithet:pretiosa genus:rana stateprovince:&#34;washington&#34;" ; Times: 2
+	Query: "symphalangus syndactylus" ; Times: 5
+	Query: "batrachoseps wrighti" ; Times: 2
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 5
+	Query: "Fratercula cirrhata British Columbia" ; Times: 2
+	Query: "182 UAM" ; Times: 1
+	Query: "Peyton AND Anacapa" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "Phrynosoma platyrhinos Idaho" ; Times: 6
+	Query: "Crotalus atrox stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 3
+	Query: "van fleet" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "class:Aves county:&#34;Doniphan&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "sorex bendirii" ; Times: 2
+	Query: "Oceanodroma homochroa Santa Cruz 1941" ; Times: 2
+	Query: "desmodus rotundus institutioncode:PSM" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "Canis latrans" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "specificepithet:bendirii genus:sorex stateprovince:&#34;washington&#34;" ; Times: 2
+	Query: "Rallus limicola AND Island" ; Times: 1
+	Query: "Eurycea tynerensis" ; Times: 1
+	Query: "Haliaeetus AND ISland" ; Times: 1
+	Query: "sorex jacksoni" ; Times: 1
+	Query: "Pelecanus AND Santa Cruz Island NOT Ecuador" ; Times: 1
+	Query: "tufts nova scotia" ; Times: 1
+	Query: "Contia tenuis" ; Times: 1
+	Query: "class:Amphibia month &gt;= 8 month &lt;= 8 distance(location,geopoint(45.6178796835697,-122.66510009765625))&lt;65035" ; Times: 1
+	Query: "Aneides hardii" ; Times: 2
+	Query: "genus:bison" ; Times: 4
+	Query: "Toxostoma redivivum" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "dendroica magnolia country:&#34;canada&#34; AND (NOT Illinois NOT MVZ) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 4
+	Query: "genus:tamandua country:mexico" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1941" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "monodon monoceros" ; Times: 1
+	Query: "haliaeetus" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma distance(location,geopoint(45.533288879467456,-122.68157958984375))&lt;137688" ; Times: 3
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1951 year &lt;= 1975" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Santa Rosa Island AND Eggs AND 1929" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1930" ; Times: 1
+	Query: "Tropiduridae 1" ; Times: 4
+	Query: "Pelecanus AND Anacapa Island" ; Times: 1
+	Query: "rhyacotriton cascadae" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Peyton AND Anacapa AND Haliaeetus" ; Times: 1
+	Query: "ORCA" ; Times: 1
+	Query: "Santa Rosa Island AND Eggs AND 1924" ; Times: 1
+	Query: "dicamptodon copei" ; Times: 1
+	Query: "Fields class:Reptilia country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:palustris genus:sorex stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Oceanodroma homochroa psm" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "myocastor" ; Times: 1
+	Query: "crotalus molossus" ; Times: 3
+	Query: "plethodon vandykei" ; Times: 6
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1936 year &lt;= 1945" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 5
+	Query: "grus americana" ; Times: 1
+	Query: "sturgeon" ; Times: 1
+	Query: "Cerorhinca psm" ; Times: 3
+	Query: "Thamnophis vashon" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "genus:Elaphe stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "dendroica magnolia type:specimen year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "Gavia immer AND Island" ; Times: 1
+	Query: "dicamptodon tenebrosus distance(location,geopoint(47.29910163887995,-123.310546875))&lt;100000" ; Times: 1
+	Query: "Bubo virginianus AND Island" ; Times: 1
+	Query: "dendroica magnolia country:&#34;canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "Rattus rattus" ; Times: 3
+	Query: "Toxostoma rufum" ; Times: 1
+	Query: "Toxostoma curvirostre" ; Times: 1
+	Query: "institutioncode:psm" ; Times: 2
+	Query: "Charadrius melodus" ; Times: 5
+	Query: "class:reptilia county:&#34;murray&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "order:Caudata class:Amphibia county:&#34;Taney&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "BC Canada" ; Times: 2
+	Query: "Haliaeetus AND Anacapa Island" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews c.l. AND (NOT cas NOT mvz)" ; Times: 1
+	Query: "Lasiurus AND Island" ; Times: 2
+	Query: "Breninger AND PSM" ; Times: 1
+	Query: "Bonasa AND Island" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "specificepithet:macrodactylum distance(location,geopoint(45.483243508682214,-121.739501953125))&lt;27554.144526533193" ; Times: 1
+	Query: "amphibia county:&#34;Mono&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 2
+	Query: "Spea bombifrons stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 2
+	Query: "14299" ; Times: 1
+	Query: "macrodactylum idaho" ; Times: 2
+	Query: "Eptesicus AND Island" ; Times: 1
+	Query: "bogertophis subocularis" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria stateprovince:&#34;Washington&#34; distance(location,geopoint(45.533288879467456,-122.68157958984375))&lt;137688" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "Heterodon simus North Carolina" ; Times: 1
+	Query: "(Sorex minutus) mappable:1" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Mus musculus" ; Times: 3
+	Query: "institutioncode:psm Procyon lotor" ; Times: 1
+	Query: "brachyphylla nana type:specimen institutioncode:PSM" ; Times: 2
+	Query: "PSM 13148" ; Times: 1
+	Query: "reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 2000" ; Times: 1
+	Query: "Chiroptera institutioncode:PSM" ; Times: 2
+	Query: "3262" ; Times: 1
+	Query: "11899" ; Times: 3
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 4
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Stevens AND 1939" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "reptilia county:&#34;Mono&#34;" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1946 year &lt;= 1955" ; Times: 1
+	Query: "ortalis vetula type:specimen" ; Times: 1
+	Query: "dendroica magnolia type:specimen country:&#34;canada&#34;" ; Times: 1
+	Query: "12522" ; Times: 1
+	Query: "Snyder AND Santa Barbara Island NOT Cruz" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "27097" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz" ; Times: 3
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Scrub Jay&#34; OR &#34;Aphelocoma californica&#34;) mappable:1" ; Times: 1
+	Query: "Dumetella carolinensis" ; Times: 1
+	Query: "dendroica magnolia AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "Anolis baleatus" ; Times: 2
+	Query: "r. a. erickson" ; Times: 1
+	Query: "canid" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews c.l. AND (NOT mvz)" ; Times: 1
+	Query: "Genetta genetta 1" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "tachyoryctes" ; Times: 1
+	Query: "CANIS AUREUS" ; Times: 2
+	Query: "county:&#34;Doniphan&#34; stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "Isla Natividad Mexico" ; Times: 1
+	Query: "selasphorus sasin" ; Times: 1
+	Query: "laterallus jamaicensis United States" ; Times: 1
+	Query: "locality:laurel county:&#34;mono&#34;" ; Times: 1
+	Query: "Thamnophis sirtalis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pseudacris feriarum maryland" ; Times: 1
+	Query: "7017" ; Times: 1
+	Query: "Oreoscoptes montanus" ; Times: 1
+	Query: "Ambystoma macrodactylum distance(location,geopoint(47.03893465304867,-121.82263243849997))&lt;100000" ; Times: 1
+	Query: "Gymnogyps californianus mappable:1" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 4
+	Query: "tamandua" ; Times: 1
+	Query: "specificepithet:pugnax year &gt;= 1933 year &lt;= 1933" ; Times: 1
+	Query: "class:Amphibia month &gt;= 3 month &lt;= 3 distance(location,geopoint(45.6178796835697,-122.66510009765625))&lt;65035" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 5
+	Query: "Appleton AND Island" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "ammodramus bairdii" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "Pelecanus AND Santa Cruz Island" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1929" ; Times: 1
+	Query: "recordedby:Labedz" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1925" ; Times: 1
+	Query: "cypseloides class:aves" ; Times: 2
+	Query: "Ranidae draytoni" ; Times: 1
+	Query: "ambystoma stateprovince:&#34;mexico&#34;" ; Times: 1
+	Query: "order:testudines county:&#34;murray&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Accipiter cooperii AND Island" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "dicamptodon distance(location,geopoint(46.75993497044862,-123.3544921875))&lt;100000" ; Times: 1
+	Query: "genus:Geomys specificepithet:personatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (personatus) mappable:1" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 2
+	Query: "nasua nasua" ; Times: 1
+	Query: "Snyder AND Santa Barbara Island NOT Cruz NOT Miguel" ; Times: 1
+	Query: "Pelecanus AND Anacapa Island NOT Anderson" ; Times: 1
+	Query: "ovibos" ; Times: 3
+	Query: "Leopardus colocolo" ; Times: 8
+	Query: "specificepithet:coerulea genus:Elgaria stateprovince:&#34;Oregon&#34; distance(location,geopoint(45.533288879467456,-122.68157958984375))&lt;137688" ; Times: 1
+	Query: "abronia graminea" ; Times: 1
+	Query: "Molothrus ater stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Contia tenuis CAS" ; Times: 1
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Solenodon paradoxus" ; Times: 2
+	Query: "Canis rufus" ; Times: 1
+	Query: "Breninger AND 1896" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "Python molurus " ; Times: 2
+	Query: "distance(location,geopoint(44.809121700077355,-121.783447265625))&lt;27554" ; Times: 1
+	Query: "182 uam" ; Times: 1
+	Query: "Snyder AND Island" ; Times: 1
+	Query: "Canis aureus" ; Times: 2
+	Query: "anhinga" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 3
+	Query: "aves mcz" ; Times: 1
+	Query: "Egretta AND Island" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Panthera" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 2
+	Query: "canis rufus" ; Times: 9
+	Query: "chiroptera type:specimen (dominican ) institutioncode:PSM" ; Times: 1
+	Query: "genus:dasypus mappable:1" ; Times: 2
+	Query: "county:&#34;logan&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 3
+	Query: "abronia" ; Times: 1
+	Query: "urosaurus ornatus Arizona year &gt;= 1985 year &lt;= 2016" ; Times: 2
+	Query: "2083" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "heterodon simus" ; Times: 2
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;California newt &#34; OR &#34; Taricha torosa&#34;) mappable:1" ; Times: 1
+	Query: "Erinaceus" ; Times: 3
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Piranga ludoviciana AND Island" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1925 year &lt;= 1950" ; Times: 2
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Leopardus colocolo colocolo" ; Times: 2
+	Query: "29961" ; Times: 2
+	Query: "specificepithet:penelope" ; Times: 1
+	Query: "sdnhm" ; Times: 2
+	Query: "genus:Sigmodon specificepithet:ochrognathus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "MCZ 1950-//" ; Times: 1
+	Query: "Breninger" ; Times: 1
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "7173" ; Times: 1
+	Query: "Pelecanus AND Anacapa Island NOT Anderson NOT Kiff" ; Times: 2
+	Query: "Snyder AND Santa Barbara Island NOT Cruz NOT Miguel NOT Prince" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 6
+	Query: "genus:Bison" ; Times: 1
+	Query: "alces alces   " ; Times: 6
+	Query: "aegolius" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews c.l." ; Times: 2
+	Query: "00278" ; Times: 1
+	Query: "parabuteo unicinctus" ; Times: 2
+	Query: "couch PSM" ; Times: 1
+	Query: "specificepithet:tundrensis genus:Sorex" ; Times: 1
+	Query: "genus:hemidactylium stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 3
+	Query: "a.w. anthony" ; Times: 1
+	Query: "7777" ; Times: 1
+	Query: "thamnophis vashon" ; Times: 2
+	Query: "Snyder AND Santa Barbara Island" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "Crotaphytus collaris stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 1
+	Query: "ortalis vetula" ; Times: 1
+	Query: "Snyder AND Santa Cruz Island" ; Times: 1
+	Query: "aegolius funereus" ; Times: 3
+	Query: "Santa Cruz Island AND eggs AND 1912" ; Times: 1
+	Query: "Leiothrix lutea 1" ; Times: 4
+	Query: "ROM 2398" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1915" ; Times: 1
+	Query: "institutioncode:psm procyon lotor" ; Times: 2
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "crotalus county:&#34;inyo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Springs AND Island NOT Mexico" ; Times: 1
+	Query: "Oceanodroma homochroa Stevens" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Dendroica magnolia month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma distance(location,geopoint(45.42929873257378,-121.728515625))&lt;165215" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "amphibia county:&#34;Mono&#34;" ; Times: 3
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "Circus cyaneus AND Island" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 2
+	Query: "Erinaceus type:specimen mappable:1" ; Times: 1
+	Query: "ambystoma tigrinum maryland" ; Times: 1
+	Query: "Erinaceus type:specimen (Native) mappable:1" ; Times: 1
+	Query: "Phenacomys ungava" ; Times: 4
+	Query: "genus:canis" ; Times: 5
+	Query: "Fulica americana AND Island" ; Times: 1
+	Query: "coluber constrictor stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Ambystoma macrodactylum distance(location,geopoint(46.31626853115446,-121.66015517820296))&lt;100000" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1897" ; Times: 1
+	Query: "Dendroica dominica" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;California quail &#34; OR &#34;Callipepla californica&#34;) mappable:1" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;oregon&#34; distance(location,geopoint(45.533288879467456,-122.68157958984375))&lt;100000" ; Times: 1
+	Query: "uma yuma" ; Times: 1
+	Query: "nasua narica" ; Times: 2
+	Query: "anas cyanoptera" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 1
+	Query: "canis aureus" ; Times: 7
+	Query: "molossus molossus type:specimen institutioncode:PSM" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;Washington&#34;" ; Times: 3
+	Query: "canis lupus   " ; Times: 12
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "dendroica magnolia country:&#34;Canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 3
+	Query: "Wilsonia citrina" ; Times: 4
+	Query: "11714" ; Times: 2
+	Query: "leopardus colocolo" ; Times: 3
+	Query: "Santa Cruz Island AND eggs AND 1927" ; Times: 2
+	Query: "Haliaeetus AND Anacapa" ; Times: 1
+	Query: "Rattus rattus 1" ; Times: 9
+	Query: "dendroica dominica" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews" ; Times: 1
+	Query: "Bogertophis subocularis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 238 (out of 1052 download events in this period)
+Total number of records downloaded: 12608
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 93
+	Country: Unknown ; Times: 11
+	Country: United States ; Times: 129
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-22 ; Times: 4
+	Date: 2016-06-21 ; Times: 4
+	Date: 2016-06-20 ; Times: 19
+	Date: 2016-06-05 ; Times: 7
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-07 ; Times: 6
+	Date: 2016-06-06 ; Times: 14
+	Date: 2016-06-01 ; Times: 11
+	Date: 2016-06-03 ; Times: 10
+	Date: 2016-06-02 ; Times: 11
+	Date: 2016-06-23 ; Times: 8
+	Date: 2016-06-08 ; Times: 21
+	Date: 2016-06-18 ; Times: 10
+	Date: 2016-06-19 ; Times: 4
+	Date: 2016-06-16 ; Times: 12
+	Date: 2016-06-17 ; Times: 17
+	Date: 2016-06-14 ; Times: 24
+	Date: 2016-06-15 ; Times: 14
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 27
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "microtus montebelli" ; Times: 2
+	Query: "dipodomys microps" ; Times: 2
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "cerorhinca psm" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "puma concolor" ; Times: 6
+	Query: "Meleagris" ; Times: 1
+	Query: "Phrynosoma platyrhinos Idaho" ; Times: 8
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "genus:lepidochelys" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1951 year &lt;= 1975" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Rhadinaea" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1936 year &lt;= 1945" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "Cerorhinca psm" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Scrub Jay&#34; OR &#34;Aphelocoma californica&#34;) mappable:1" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Spea bombifrons stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "brachyphylla nana type:specimen institutioncode:PSM" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1946 year &lt;= 1955" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 6
+	Query: "Masticophis taeniatus Nevada" ; Times: 3
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;California quail &#34; OR &#34;Callipepla californica&#34;) mappable:1" ; Times: 1
+	Query: "elgaria coerulea" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "genus:Tadarida specificepithet:brasiliensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "microtus miurus" ; Times: 1
+	Query: "Heterodon simus North Carolina" ; Times: 1
+	Query: "Gopherus" ; Times: 1
+	Query: "crotalus (county:riverside)" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "genus:Geomys specificepithet:personatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (personatus) mappable:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "genus:Nerodia mappable:1" ; Times: 1
+	Query: "abronia graminea" ; Times: 2
+	Query: "Lepus americanus" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Apodemus agrarius" ; Times: 1
+	Query: "Oceanodroma homochroa psm" ; Times: 1
+	Query: "bipes" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "sceloporus horridus" ; Times: 2
+	Query: "specificepithet:marmorata family:Emydidae" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Chinemys" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1925 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:ochrognathus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "specificepithet:wislizenii genus:gambelia mappable:1" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "Erinaceus type:specimen (Native) mappable:1" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Phenacomys ungava" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;California newt &#34; OR &#34; Taricha torosa&#34;) mappable:1" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Phascolarctos" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Martes pennanti" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "molossus molossus type:specimen institutioncode:PSM" ; Times: 1
+
+
+End of report.
