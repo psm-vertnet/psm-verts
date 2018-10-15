@@ -1,0 +1,413 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 306
+Number of records retrieved in searches: 2227
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 9
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 11
+	Country: Poland ; Times: 7
+	Country: India ; Times: 1
+	Country: United States ; Times: 255
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 10
+	Date: 2017-12-31 ; Times: 4
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-17 ; Times: 31
+	Date: 2017-12-14 ; Times: 12
+	Date: 2017-12-15 ; Times: 16
+	Date: 2017-12-12 ; Times: 9
+	Date: 2017-12-13 ; Times: 5
+	Date: 2017-12-10 ; Times: 5
+	Date: 2017-12-11 ; Times: 8
+	Date: 2017-12-18 ; Times: 10
+	Date: 2017-12-19 ; Times: 8
+	Date: 2017-12-29 ; Times: 5
+	Date: 2017-12-28 ; Times: 7
+	Date: 2017-12-27 ; Times: 5
+	Date: 2017-12-26 ; Times: 21
+	Date: 2017-12-25 ; Times: 4
+	Date: 2017-12-24 ; Times: 8
+	Date: 2017-12-23 ; Times: 6
+	Date: 2017-12-22 ; Times: 4
+	Date: 2017-12-21 ; Times: 5
+	Date: 2017-12-20 ; Times: 6
+	Date: 2017-12-05 ; Times: 14
+	Date: 2017-12-04 ; Times: 15
+	Date: 2017-12-07 ; Times: 9
+	Date: 2017-12-06 ; Times: 13
+	Date: 2017-12-01 ; Times: 52
+	Date: 2017-12-03 ; Times: 3
+	Date: 2017-12-02 ; Times: 2
+	Date: 2017-12-09 ; Times: 6
+	Date: 2017-12-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(43.1386926445001,-71.1485120105))&lt;29323" ; Times: 1
+	Query: "PSM 17964" ; Times: 1
+	Query: "PSM 17965" ; Times: 1
+	Query: "PSM 17962" ; Times: 1
+	Query: "PSM 17963" ; Times: 1
+	Query: "PSM 17960" ; Times: 1
+	Query: "PSM 17961" ; Times: 1
+	Query: "catalognumber:08492" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(48.95858088455357,-119.59277383983135))&lt;100000" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 1
+	Query: "11682" ; Times: 1
+	Query: "specificepithet:vittata genus:Galictis country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Bald Eagle" ; Times: 2
+	Query: "PSM 25220" ; Times: 1
+	Query: "stateprovince:&#34;sonora&#34; recordedby:sheffler year &gt;= 1941" ; Times: 1
+	Query: "specificepithet:inornatus genus:Perognathus institutioncode:PSM" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "17521 class:mammalia year &gt;= 1970 year &lt;= 1990" ; Times: 1
+	Query: "genus:neotoma county:&#34;grant&#34;" ; Times: 2
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(49.97948819229304,-119.68945473432541))&lt;100000" ; Times: 1
+	Query: "Motacilla flava" ; Times: 3
+	Query: "Enhydra lutris vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "class:Aves recordedby:Peabody" ; Times: 1
+	Query: "genus:Crotalus catalognumber:10114" ; Times: 2
+	Query: "Gray Wolf" ; Times: 1
+	Query: "genus:Crotalus catalognumber:10113" ; Times: 2
+	Query: "PSM 19239" ; Times: 1
+	Query: "Bodfish vntype:specimen class:aves continent:North America year &gt;= 1880 year &lt;= 1905" ; Times: 2
+	Query: "vntype:specimen specificepithet:albigularis genus:oryzomys basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "4953 Aves" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(49.97948819229304,-119.68945473432541))&lt;51103" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida (USA United States America)" ; Times: 1
+	Query: "h 8289" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "Dicamptodon aterrimus" ; Times: 1
+	Query: "distance(location,geopoint(44.9725155310001,-72.6967921945))&lt;41043" ; Times: 3
+	Query: "distance(location,geopoint(45.004155559357,-72.6720390447798))&lt;38772" ; Times: 2
+	Query: "specificepithet:minor genus:chordeiles stateprovince:&#34;alberta&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "picoides borealis" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "stateprovince:&#34;sonora&#34; recordedby:sheffler" ; Times: 1
+	Query: "grus americana" ; Times: 1
+	Query: "sturgeon" ; Times: 1
+	Query: "Zapus 2296" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 1
+	Query: "Zapus 2294" ; Times: 1
+	Query: "Zapus 2295" ; Times: 1
+	Query: "Zapus 2293" ; Times: 1
+	Query: "Spalax leucodon" ; Times: 1
+	Query: "Zapus 2748" ; Times: 1
+	Query: "Zapus 2298" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex mappable:1" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 2
+	Query: "Florida vntype:specimen specificepithet:maritimus genus:Ammodramus year &gt;= 1950 year &lt;= 1990" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Lutra sumatrana" ; Times: 1
+	Query: "specificepithet:craveri genus:Synthliboramphus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 4
+	Query: "gloydius" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Pacific&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "oporornis agilis" ; Times: 1
+	Query: "PSM 17959" ; Times: 1
+	Query: "Lampropeltis getula stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Zapus 2683" ; Times: 1
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "Butorides virescens vntype:specimen country:&#34;Mexico&#34; year &gt;= 1900 year &lt;= 1913" ; Times: 1
+	Query: "distance(location,geopoint(44.4200546825001,-71.526293728))&lt;11964" ; Times: 1
+	Query: "Canada Lynx" ; Times: 1
+	Query: "Grus americana iowa" ; Times: 1
+	Query: "specificepithet:woodhousii stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "whitewater genus:Rana" ; Times: 1
+	Query: "mount olympus" ; Times: 1
+	Query: "Dicamptodon copei" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:Clemmys" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "lake trout" ; Times: 1
+	Query: "lake sturgeon" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "17301" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "Coluber Polk Florida" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus country:&#34;United States&#34;" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+	Query: "dot 208" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "specificepithet:craveri genus:Synthliboramphus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; continent:north america" ; Times: 2
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Dendroica petechia stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.9926500945,-72.6738853945))&lt;38731" ; Times: 2
+	Query: "13875" ; Times: 1
+	Query: "18756 Aves" ; Times: 2
+	Query: "PSM 25239" ; Times: 2
+	Query: "PSM 25238" ; Times: 1
+	Query: "Leucosticte 07698" ; Times: 1
+	Query: "vntype:specimen genus:oreamnos institutioncode:PSM" ; Times: 1
+	Query: "PSM 25233" ; Times: 1
+	Query: "PSM 25232" ; Times: 1
+	Query: "PSM 25231" ; Times: 2
+	Query: "PSM 25237" ; Times: 2
+	Query: "PSM 24958" ; Times: 1
+	Query: "reinecke" ; Times: 1
+	Query: "PSM 25234" ; Times: 1
+	Query: "thamnophis sauritus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "corvus corax" ; Times: 1
+	Query: "J. Peterson" ; Times: 1
+	Query: "branta hutchinsii" ; Times: 1
+	Query: "Vandykei" ; Times: 3
+	Query: "Galictis vittata" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "genus:aquila county:&#34;san diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Sistrurus Polk Florida" ; Times: 1
+	Query: "heterodon simus north carolina" ; Times: 1
+	Query: "genus:ambystoma stateprovince:&#34;washington&#34; (olympic)" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "specificepithet:alpina genus:Calidris class:Aves stateprovince:&#34;California&#34; country:&#34;United States&#34; month &gt;= 5 month &lt;= 9" ; Times: 1
+	Query: "class:Reptilia county:&#34;yellowstone&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "lasiurus seminolus vntype:specimen stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;orleans&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "PSM 25225" ; Times: 1
+	Query: "Vulpes velox stateprovince:&#34;Nebraska&#34;" ; Times: 3
+	Query: "PSM 25227" ; Times: 1
+	Query: "Heleophryne" ; Times: 1
+	Query: "PSM 25221" ; Times: 1
+	Query: "PSM 25222" ; Times: 2
+	Query: "PSM 25223" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Adair&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;nebraska&#34; institutioncode:PSM" ; Times: 4
+	Query: "vntype:specimen genus:Canis continent:Asia" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "specificepithet:floridanus genus:Podomys OR Peromyscus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "vulpes velox stateprovince:&#34;Nebraska&#34;" ; Times: 3
+	Query: "Pitta sordida" ; Times: 1
+	Query: "PSM 10691" ; Times: 1
+	Query: "specificepithet:penicillatus class:Mammalia county:&#34;San Bernardino&#34;" ; Times: 6
+	Query: "LASIURUS SEMINOLUS" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "platalea ajaja" ; Times: 1
+	Query: "vj" ; Times: 1
+	Query: "necturus wisconsin" ; Times: 27
+	Query: "ectopistes" ; Times: 2
+	Query: "genus:blarina stateprovince:&#34;missouri&#34;" ; Times: 2
+	Query: "class:Amphibia county:&#34;orleans&#34;" ; Times: 2
+	Query: "Nyc" ; Times: 10
+	Query: "16622" ; Times: 1
+	Query: "Caudata Charleston South Carolina" ; Times: 1
+	Query: "DOT 208" ; Times: 1
+	Query: "dinodon" ; Times: 2
+	Query: "bald eagle" ; Times: 2
+	Query: "Empidonax traillii year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;sonora&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(36.6915912240001,-75.9568339719999))&lt;10755" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(48.95858088455357,-119.59277383983135))&lt;50011" ; Times: 3
+	Query: "Brachyramphus marmoratus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(48.922499263758255,-119.5883797109127))&lt;100000" ; Times: 1
+	Query: "Rhododendron mappable:1" ; Times: 1
+	Query: "Lepus Townsendii" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:aneides county:&#34;humboldt&#34;" ; Times: 1
+	Query: "22704" ; Times: 1
+	Query: "distance(location,geopoint(40.8938696825001,-73.544534259))&lt;6019" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "19886 Aves" ; Times: 3
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 7
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(48.86471432068721,-119.55761879682541))&lt;100000" ; Times: 1
+	Query: "microdipodops locality:Nevada mappable:1" ; Times: 1
+	Query: "gbifdatasetid:8eddc200-f535-4c65-9b4d-f723eafe607e" ; Times: 6
+	Query: "thamnophis brachystoma stateprovince:&#34;New york&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.9984028269285,-72.6710200295))&lt;38736" ; Times: 2
+	Query: "sorex merriami" ; Times: 2
+	Query: "Corvus corax minnesota" ; Times: 1
+	Query: "Phaethon rubricauda" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "PSM 25243" ; Times: 1
+	Query: "PSM 25240" ; Times: 1
+	Query: "PSM 25244" ; Times: 1
+	Query: "PSM 25245" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "genus:neotoma county:&#34;grant&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "PSM 25228" ; Times: 1
+	Query: "sorex preblei" ; Times: 3
+	Query: "thamnophis brachystoma stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 112 (out of 674 download events in this period)
+Total number of records downloaded: 7521
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 97
+	Country: China ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-16 ; Times: 2
+	Date: 2017-12-17 ; Times: 2
+	Date: 2017-12-14 ; Times: 11
+	Date: 2017-12-15 ; Times: 4
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-13 ; Times: 12
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 8
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-27 ; Times: 11
+	Date: 2017-12-26 ; Times: 24
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-20 ; Times: 4
+	Date: 2017-12-05 ; Times: 5
+	Date: 2017-12-04 ; Times: 7
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-01 ; Times: 4
+	Date: 2017-12-03 ; Times: 2
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "anolis nebulosus" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+	Query: "Lepus americanus mappable:1" ; Times: 1
+	Query: "1990 Idaho" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "peromyscus leucopus mappable:1" ; Times: 1
+	Query: "Perognathus flavescens mappable:1" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 2
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Microtus oeconomus" ; Times: 2
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "arremonops" ; Times: 1
+	Query: "phrynosoma mcallii" ; Times: 1
+	Query: "aves AND sobrinho OR chagas OR guimaraes" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:Clemmys" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Spermophilus columbianus mappable:1" ; Times: 1
+	Query: "aves AND chagas OR caetano OR sobrinho OR guimaraes" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "sorex tundrensis" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sorex monticolus" ; Times: 2
+	Query: "genus:aquila county:&#34;san diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Peromyscus keeni mappable:1" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "genus:Naja" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "Vulpes velox stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "sorex nanus" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "nicaragua vntype:specimen" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "eumeces inexpectatus" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Aphelocoma ultramarina" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "sorex preblei" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "Enhydra lutris vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+
+
+End of report.
