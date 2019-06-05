@@ -1,0 +1,511 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 555
+Number of records retrieved in searches: 4813
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 27
+	Country: Denmark ; Times: 20
+	Country: Philippines ; Times: 1
+	Country: Malaysia ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: India ; Times: 4
+	Country: France ; Times: 8
+	Country: United Kingdom ; Times: 4
+	Country: Ethiopia ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 16
+	Country: Unknown ; Times: 9
+	Country: Belgium ; Times: 14
+	Country: Dominican Republic ; Times: 2
+	Country: United States ; Times: 417
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 36
+	Date: 2019-05-31 ; Times: 18
+	Date: 2019-05-09 ; Times: 13
+	Date: 2019-05-08 ; Times: 15
+	Date: 2019-05-07 ; Times: 46
+	Date: 2019-05-06 ; Times: 19
+	Date: 2019-05-05 ; Times: 10
+	Date: 2019-05-04 ; Times: 4
+	Date: 2019-05-03 ; Times: 11
+	Date: 2019-05-02 ; Times: 23
+	Date: 2019-05-01 ; Times: 5
+	Date: 2019-05-25 ; Times: 22
+	Date: 2019-05-24 ; Times: 18
+	Date: 2019-05-27 ; Times: 17
+	Date: 2019-05-26 ; Times: 13
+	Date: 2019-05-21 ; Times: 23
+	Date: 2019-05-20 ; Times: 26
+	Date: 2019-05-23 ; Times: 40
+	Date: 2019-05-22 ; Times: 35
+	Date: 2019-05-29 ; Times: 16
+	Date: 2019-05-28 ; Times: 21
+	Date: 2019-05-18 ; Times: 10
+	Date: 2019-05-19 ; Times: 12
+	Date: 2019-05-10 ; Times: 19
+	Date: 2019-05-11 ; Times: 6
+	Date: 2019-05-12 ; Times: 4
+	Date: 2019-05-13 ; Times: 14
+	Date: 2019-05-14 ; Times: 7
+	Date: 2019-05-15 ; Times: 9
+	Date: 2019-05-16 ; Times: 32
+	Date: 2019-05-17 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Melospiza melodia county:&#34;Clark&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "Coturnix japonica year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;maryland&#34;" ; Times: 1
+	Query: "Ahaetulla vntype:specimen country:&#34;India&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Cyclopes didactylus " ; Times: 1
+	Query: "anthus rubescens hastissue:1" ; Times: 2
+	Query: "glaucomys volans" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 6
+	Query: "Regulus satrapa year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "order:carnivora locality:wrangell stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 3
+	Query: "institutioncode:PSM" ; Times: 4
+	Query: "genus:Accipiter cooperii county:&#34;King&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "&#34;panthera onca&#34;" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "arborimus pomo" ; Times: 2
+	Query: "genus:Junco hyemalis county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "recordedby:R. L. Rausch" ; Times: 2
+	Query: "washoe sceloporus magister" ; Times: 1
+	Query: "Rissa tridactyla year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "macronectes giganteus" ; Times: 1
+	Query: "Nasua narica" ; Times: 2
+	Query: "Scapanus latimanus" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 12
+	Query: "genus:Pipilo maculatus county:&#34;King&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "Herp vntype:specimen county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "Eumops perotis mappable:1" ; Times: 1
+	Query: "SECHRIST AND Isla" ; Times: 1
+	Query: "PSM 14253" ; Times: 2
+	Query: "order:Passeriformes institutioncode:PSM" ; Times: 1
+	Query: "trichechus" ; Times: 1
+	Query: "messenger" ; Times: 1
+	Query: "specificepithet:rattus genus:Rattus stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "Gallinula chloropus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "genus:Junco hyemalis county:&#34;Clark&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985" ; Times: 1
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Charadrius melodus mappable:1" ; Times: 1
+	Query: "specificepithet:colchicus genus:phasianus country:&#34;United States&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Eurycea tynerensis" ; Times: 3
+	Query: "&#34;T. C. Meitzen&#34;" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1985" ; Times: 1
+	Query: "Panthera onca" ; Times: 9
+	Query: "sciurus stramineus" ; Times: 4
+	Query: "Lepus europaeus mappable:1" ; Times: 1
+	Query: "washoe Gambelia" ; Times: 1
+	Query: "14580" ; Times: 1
+	Query: "specificepithet:celata genus:Oreothlypis stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex county:&#34;monterey&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:10761 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "vntype:specimen genus:Rhodostethia class:Aves AND (NOT Alaska)" ; Times: 2
+	Query: "Quiscalus Mexicanus tamaulipas" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 4
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Charadrius semipalmatus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Abronia" ; Times: 2
+	Query: "nasuella" ; Times: 1
+	Query: "Artibeus cinereus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 4
+	Query: "genus:Melospiza melodia county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 2
+	Query: "xenosaurus" ; Times: 1
+	Query: "Storeria dekayi stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Chaetura pelagica fmnh year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 1
+	Query: "genus:Turdus migratorius county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 4
+	Query: "mephitis mephitis institutioncode:PSM" ; Times: 1
+	Query: "sorex hoyi" ; Times: 2
+	Query: "amazona viridigenalis" ; Times: 2
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 8
+	Query: "plethodon vandykei" ; Times: 4
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 6
+	Query: "Thamnophis validus Nayarit" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta punctata " ; Times: 4
+	Query: "abronia" ; Times: 1
+	Query: "genus:Buteo jamaicensis county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 2
+	Query: "milwaukee" ; Times: 3
+	Query: "Laterallus jamaicensis mappable:1" ; Times: 1
+	Query: "thamnophis eques" ; Times: 1
+	Query: "specificepithet:lincolnii genus:Melospiza stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Nez Perce&#34; stateprovince:&#34;Idaho&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; catalognumber:23514 institutioncode:PSM" ; Times: 1
+	Query: "Aphriza virgata mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; catalognumber:23572 institutioncode:PSM" ; Times: 1
+	Query: "Bombycilla garrulus year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "genus:Junco hyemalis stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "Tropidophis haetianus" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco stateprovince:&#34;Alberta&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 4
+	Query: "class:aves locality:lawrence stateprovince:&#34;alaska&#34; year &gt;= 1955 year &lt;= 1955" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 10
+	Query: "oryctolagus" ; Times: 1
+	Query: "nasuella olivacea" ; Times: 1
+	Query: "genus:heliosciurus" ; Times: 1
+	Query: "UAM 23421" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Portland stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Phalaropus fulicarius mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Bufo exsul" ; Times: 2
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 2
+	Query: "specificepithet:Wrightii genus:Empidonax hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 1
+	Query: "genus:Accipiter cooperii county:&#34;Clark&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; recordedby:Hungate" ; Times: 1
+	Query: "specificepithet:melanocephala class:aves stateprovince:&#34;alaska&#34; institutioncode:PSM" ; Times: 1
+	Query: "bufo shoshone" ; Times: 2
+	Query: "Anoura caudifer mappable:1" ; Times: 1
+	Query: "uromastyx" ; Times: 2
+	Query: "Aphelocoma coerulescens" ; Times: 10
+	Query: "class:Aves catalognumber:10755 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "MVZ 8536" ; Times: 1
+	Query: "solenodon" ; Times: 1
+	Query: "specificepithet:melanocephala genus:arenaria stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "phyllonycteris poeyi" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 10
+	Query: "specificepithet:gambeli genus:poecile stateprovince:&#34;British Columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Oceanodroma melania AND Coronados" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 1
+	Query: "clemmys marmorata" ; Times: 1
+	Query: "Bufo exsul PSM" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "Cain Cowley" ; Times: 1
+	Query: "specificepithet:acuminata class:aves stateprovince:&#34;alaska&#34; year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 13
+	Query: "specificepithet:virgata genus:Aphriza" ; Times: 1
+	Query: "Redfish" ; Times: 1
+	Query: "country:Ecuador scientificname:Procyon cancrivorus " ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 2
+	Query: "Psm arenaria" ; Times: 9
+	Query: "18900" ; Times: 1
+	Query: "sceloporus magister washoe" ; Times: 2
+	Query: "sonora semiannulata arizona" ; Times: 1
+	Query: "Thalasseus sandvicensis mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "recordedby:Wiseman" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Pluvialis squatarola mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Sorex sonomae" ; Times: 9
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1960" ; Times: 2
+	Query: "phyllodactylus nayarit" ; Times: 1
+	Query: "Graphiurus murinus" ; Times: 2
+	Query: "Calidris canutus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1955 year &lt;= 1955 month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:pusilla genus:Cardellina stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "recordedby:ingraham year &gt;= 1888 year &lt;= 1889" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:coypus continent:america" ; Times: 1
+	Query: "Loxia leucoptera year &gt; 1990 NOT fmnh" ; Times: 1
+	Query: "class:Aves catalognumber:21870 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "class:Aves catalognumber:10760 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lapponica class:aves stateprovince:&#34;alaska&#34; year &gt;= 1929 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:gambianus genus:heliosciurus" ; Times: 2
+	Query: "Geococcyx californianus year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "genus:branta class:aves stateprovince:&#34;alaska&#34; year &gt;= 1932 year &lt;= 1932" ; Times: 1
+	Query: "Strix occidentalis year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 1
+	Query: "country:Ecuador scientificname:Philander opossum " ; Times: 2
+	Query: "class:Aves catalognumber:18269 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Laterallus jamaicensis jamaicensis mappable:1" ; Times: 1
+	Query: "genus:Junco hyemalis county:&#34;King&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 3
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "Octodon degus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 2
+	Query: "tlacuatzin" ; Times: 3
+	Query: "genus:myocastor" ; Times: 2
+	Query: "Puffinus griseus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "specificepithet:tener genus:Micrurus county:&#34;Brazos&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "family:Tropidophiidae" ; Times: 1
+	Query: "Thryothorus ludovicianus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 3
+	Query: "Patagioenas fasciata year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Puffinus creatopus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Accipiter cooperii county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "Metachirus nudicaudatus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 17
+	Query: "Canis rufus" ; Times: 2
+	Query: "specificepithet:auritus genus:Phalacrocorax year &gt;= 1941 year &lt;= 1945 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "class:Aves locality:Clarion Island" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1911 year &lt;= 1920" ; Times: 1
+	Query: "peromyscus melanophrys melanophrys" ; Times: 1
+	Query: "&#34;J. T. Peterson&#34;" ; Times: 2
+	Query: "genus:Melospiza melodia county:&#34;King&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "genus:Junco hyemalis county:&#34;Skamania&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 5
+	Query: "crotalus molossus" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 5
+	Query: "Columba livia year &lt;=1940" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Colaptes auratus county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 5
+	Query: "ROM 14999" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Grus americana year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "&#34;charina bottae&#34; AND &#34;idaho&#34;" ; Times: 2
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Petrochelidon pyrrhonota mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Leiothrix lutea year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "genus:Colaptes auratus county:&#34;King&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "vntype:specimen specificepithet:arcticus genus:Picoides country:&#34;United States&#34; year &gt;= 1985 year &lt;= 2019" ; Times: 1
+	Query: "genus:Buteo jamaicensis county:&#34;King&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 2
+	Query: "Sula dactylatra year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Galictis vittata " ; Times: 2
+	Query: "genus:ascaphus county:&#34;siskiyou&#34;" ; Times: 1
+	Query: "genus:Junco hyemalis county:&#34;Clark&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 4
+	Query: "genus:Junco hyemalis county:&#34;Lewis&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "vntype:specimen genus:Pooecetes hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 3
+	Query: "country:Ecuador scientificname:Nasuella olivacea " ; Times: 8
+	Query: "locality:Malaysia" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 7
+	Query: "vntype:specimen specificepithet:minor genus:coccyzus" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; catalognumber:25869 institutioncode:PSM" ; Times: 2
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "canis rufus" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus colocolo " ; Times: 9
+	Query: "class:Aves catalognumber:23450 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tenuirostris class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "Boa constrictor" ; Times: 3
+	Query: "country:Ecuador scientificname:Coendou prehensilis " ; Times: 8
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 2
+	Query: "Charadrius vociferus year &gt; 1990" ; Times: 1
+	Query: "specificepithet:parryii genus:Spermophilus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1981 year &lt;= 1990" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Kenyon AND ISland" ; Times: 1
+	Query: "Oxyura jamaicensis mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "specificepithet:interpres class:aves stateprovince:&#34;alaska&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 2
+	Query: "specificepithet:melanocephala class:aves stateprovince:&#34;alaska&#34;" ; Times: 4
+	Query: "class:Aves catalognumber:25312 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+	Query: "genus:charina county:&#34;riverside&#34;" ; Times: 3
+	Query: "specificepithet:iliaca genus:Passerella stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:25305 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "recordedby:ingraham year &gt;= 1889 year &lt;= 1889" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 2
+	Query: "PSM 14713" ; Times: 3
+	Query: "Himantopus himantopus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "Eurycea tynerensis Oklahoma" ; Times: 1
+	Query: "Loxia leucoptera year &gt; 1990 NOT clo" ; Times: 1
+	Query: "family:Procellariidae hastissue:1" ; Times: 1
+	Query: "genus:corvus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Callisaurus washoe" ; Times: 1
+	Query: "Cinclus mexicanus year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "specificepithet:melanocephala class:aves stateprovince:&#34;alaska&#34; year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 6
+	Query: "genus:Andrias specificepithet:japonicus" ; Times: 1
+	Query: "UTEP 385" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Brazos&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:15329 basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "country:Ecuador scientificname:Pudu mephistophiles " ; Times: 2
+	Query: "specificepithet:gambeli genus:poecile stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:tridactylus genus:Picoides country:&#34;United States&#34; year &gt;= 1985 year &lt;= 2019" ; Times: 1
+	Query: "genus:Uma county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Callipepla squamata year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Huey AND 1912" ; Times: 1
+	Query: "specificepithet:gambianus genus:heliosciurus institutioncode:PSM" ; Times: 2
+	Query: "genus:Turdus migratorius county:&#34;King&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "genus:Pipilo maculatus county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1974 year &lt;= 1974" ; Times: 1
+	Query: "genus:Junco hyemalis county:&#34;Pacific&#34; stateprovince:&#34;Washington&#34; year &gt;= 1890 year &lt;= 1985 institutioncode:PSM" ; Times: 1
+	Query: "bucephala islandica laxardal" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; catalognumber:10438 institutioncode:PSM" ; Times: 1
+	Query: "Phasianus colchicus year &lt;= 1940" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 103 (out of 940 download events in this period)
+Total number of records downloaded: 11959
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Mexico ; Times: 20
+	Country: France ; Times: 1
+	Country: United States ; Times: 63
+	Country: Ethiopia ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 6
+	Date: 2019-05-31 ; Times: 13
+	Date: 2019-05-09 ; Times: 3
+	Date: 2019-05-08 ; Times: 4
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-06 ; Times: 6
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-02 ; Times: 5
+	Date: 2019-05-01 ; Times: 4
+	Date: 2019-05-25 ; Times: 6
+	Date: 2019-05-24 ; Times: 4
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 4
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-20 ; Times: 2
+	Date: 2019-05-23 ; Times: 3
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-28 ; Times: 8
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-10 ; Times: 8
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 9
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandra" ; Times: 1
+	Query: "vntype:specimen specificepithet:gambelii genus:Callipepla" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "arborimus pomo" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "class:Mammalia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "phrynosoma platyrhinos distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:celata genus:Oreothlypis stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "nasuella" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "amazona viridigenalis" ; Times: 2
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 1
+	Query: "nasuella olivacea" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "vntype:specimen genus:pitta" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "family:Gekkonidae" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:gambeli genus:poecile stateprovince:&#34;British Columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "barisia" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Spheniscus mendiculus" ; Times: 1
+	Query: "order:Anura" ; Times: 1
+	Query: "Sorex sonomae" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1960" ; Times: 1
+	Query: "Graphiurus murinus" ; Times: 2
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:coccyzus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "tlacuatzin" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla" ; Times: 1
+	Query: "specificepithet:gambeli genus:poecile stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1911 year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "(reptilia) distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:yncas" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "vntype:specimen genus:Pooecetes hastissue:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1981 year &lt;= 1990" ; Times: 1
+	Query: "vntype:specimen specificepithet:pertinax genus:contopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "ramphastos sulfuratus" ; Times: 2
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "specificepithet:tricolor genus:agelaius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 2
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "vntype:specimen specificepithet:porphyrio genus:porphyrio" ; Times: 1
+	Query: "bufo distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+
+
+End of report.
