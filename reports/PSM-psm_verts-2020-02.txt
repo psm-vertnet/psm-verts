@@ -1,0 +1,578 @@
+Report for Institution Code PSM, Resource psm_verts
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 756
+Number of records retrieved in searches: 7410
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 666
+	Country: Netherlands ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 42
+	Country: Egypt ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 13
+	Country: French Guiana ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 62
+	Date: 2020-02-23 ; Times: 6
+	Date: 2020-02-02 ; Times: 39
+	Date: 2020-02-03 ; Times: 74
+	Date: 2020-02-26 ; Times: 16
+	Date: 2020-02-01 ; Times: 51
+	Date: 2020-02-20 ; Times: 24
+	Date: 2020-02-21 ; Times: 20
+	Date: 2020-02-22 ; Times: 4
+	Date: 2020-02-05 ; Times: 67
+	Date: 2020-02-08 ; Times: 4
+	Date: 2020-02-09 ; Times: 29
+	Date: 2020-02-28 ; Times: 22
+	Date: 2020-02-29 ; Times: 11
+	Date: 2020-02-11 ; Times: 35
+	Date: 2020-02-10 ; Times: 16
+	Date: 2020-02-13 ; Times: 34
+	Date: 2020-02-12 ; Times: 42
+	Date: 2020-02-15 ; Times: 13
+	Date: 2020-02-14 ; Times: 19
+	Date: 2020-02-17 ; Times: 24
+	Date: 2020-02-16 ; Times: 3
+	Date: 2020-02-19 ; Times: 20
+	Date: 2020-02-18 ; Times: 29
+	Date: 2020-02-24 ; Times: 22
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-27 ; Times: 10
+	Date: 2020-02-06 ; Times: 42
+	Date: 2020-02-07 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "2-6775" ; Times: 1
+	Query: "institutioncode:PSM" ; Times: 6
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:a. walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "muhlenbergii" ; Times: 2
+	Query: "panthera" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "family:Thraupidae institutioncode:PSM" ; Times: 1
+	Query: "Fringilla coelebs institutioncode:PSM" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;British columbia&#34;" ; Times: 2
+	Query: "genus:Lemmiscus county:&#34;Grant&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus colocolo " ; Times: 5
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "14267" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "specificepithet:rufopectus genus:poliocephalus year &gt;= 1950" ; Times: 1
+	Query: "(dermoptera Cynocephalidae)" ; Times: 1
+	Query: "&#34;panthera onca&#34;" ; Times: 1
+	Query: "spea intermontana institutioncode:PSM" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 1
+	Query: "sorex jacksoni" ; Times: 1
+	Query: "vntype:specimen order:Primates family:galagidae" ; Times: 1
+	Query: "15683" ; Times: 1
+	Query: "specificepithet:pentadactyla" ; Times: 3
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 3
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 6
+	Query: "Dasypus novemcinctus" ; Times: 2
+	Query: "genus:balaena" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 1
+	Query: "Larus delawarensis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "lynx canadensis" ; Times: 2
+	Query: "vntype:specimen family:Spheniscidae institutioncode:PSM" ; Times: 2
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "genus:sporophila institutioncode:PSM" ; Times: 1
+	Query: "family:Diomedeidae institutioncode:PSM" ; Times: 2
+	Query: "vntype:specimen (Apteryx) institutioncode:PSM" ; Times: 12
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Calcarius lapponicus" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Pteronotus quadridens" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "Panthera onca" ; Times: 17
+	Query: "14846" ; Times: 2
+	Query: "vntype:specimen (Spheniscus mendiculus) institutioncode:PSM" ; Times: 1
+	Query: "genus:Pipa specificepithet:carvalhoi" ; Times: 1
+	Query: "family:Colubridae institutioncode:PSM" ; Times: 1
+	Query: "(dermoptera)" ; Times: 20
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1940 year &lt;= 1949 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alcyon genus:Megaceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "microtus fmnh" ; Times: 1
+	Query: "genus:Junco catalognumber:25303" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "genus:Megaderma order:Chiroptera" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Dicamptodon county:&#34;Marin&#34;" ; Times: 2
+	Query: "specificepithet:rufopectus genus:poliocephalus" ; Times: 1
+	Query: "family:Scincidae institutioncode:PSM" ; Times: 2
+	Query: "Urocyon institutioncode:PSM" ; Times: 1
+	Query: "catalognumber:01785" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "crotalus molossus" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 18
+	Query: "ovibos moschatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:PSM" ; Times: 1
+	Query: "graphiurus" ; Times: 1
+	Query: "vntype:specimen (Odocoileus virginianus) institutioncode:PSM" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 5
+	Query: "recordedby:hammond" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 5
+	Query: "genus:Junco stateprovince:&#34;Oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "locality:st paul stateprovince:&#34;alaska&#34; recordedby:hanna" ; Times: 1
+	Query: "UWBM 75797" ; Times: 2
+	Query: "UWBM 7239" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 4
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:alex. walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 9
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 1
+	Query: "James Bond" ; Times: 1
+	Query: "mirounga" ; Times: 2
+	Query: "genus:Lemmiscus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta punctata " ; Times: 2
+	Query: "specificepithet:hemionus genus:Odocoileus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "family:Trochilidae institutioncode:PSM" ; Times: 1
+	Query: "27725" ; Times: 2
+	Query: "specificepithet:brimleyi genus:Pseudacris stateprovince:&#34;South Carolina&#34;" ; Times: 4
+	Query: "&#34;oryctolagus cuniculus&#34;" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera class:mammalia" ; Times: 3
+	Query: "fulmarus glacialis year &gt;= 1980 year &lt;= 2020" ; Times: 2
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:PSM" ; Times: 1
+	Query: "institutioncode:psm" ; Times: 1
+	Query: "specificepithet:mexicanus genus:carpodacus family:Fringillidae sex:female institutioncode:PSM" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "24101" ; Times: 2
+	Query: "recordedby:Adcock" ; Times: 1
+	Query: "family:Spheniscidae institutioncode:PSM" ; Times: 1
+	Query: "Calcarius pictus" ; Times: 1
+	Query: "Acridotheres institutioncode:PSM" ; Times: 1
+	Query: "UMMZ 1013" ; Times: 2
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:walker" ; Times: 2
+	Query: "fulmarus glacialis russia" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias country:&#34;Canada&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 2
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1950 year &lt;= 1959 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "Tympanuchus institutioncode:PSM" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 3
+	Query: "Symphalangus" ; Times: 1
+	Query: "class:aves recordedby:sandman" ; Times: 2
+	Query: "Xenosaurus newmanorum" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "genus:Canis institutioncode:PSM" ; Times: 1
+	Query: "order:dermoptera" ; Times: 4
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "vntype:specimen ( Urocyon littoralis) institutioncode:PSM" ; Times: 1
+	Query: "16240" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:Alex walker" ; Times: 1
+	Query: "specificepithet:Fuscus genus:Eptesicus family:Vespertilionidae country:&#34;Dominican Republic&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 1
+	Query: "UWBM 8096" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 4
+	Query: "specificepithet:purpureus family:Fringillidae sex:female institutioncode:PSM" ; Times: 1
+	Query: "specificepithet:amazona genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;Lama glama&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 2
+	Query: "&#34;Erinaceus europaeus&#34;" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 3
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 17
+	Query: "genus:Apteryx institutioncode:PSM" ; Times: 1
+	Query: "colocolo" ; Times: 1
+	Query: "00456" ; Times: 1
+	Query: "vntype:specimen (Scincidae) institutioncode:PSM" ; Times: 2
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "genus:junco catalognumber:25303 month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "country:Ecuador scientificname:Procyon cancrivorus " ; Times: 4
+	Query: "19835" ; Times: 1
+	Query: "galagidae" ; Times: 1
+	Query: "order:Passeriformes continent:south america institutioncode:PSM" ; Times: 1
+	Query: "locality:San Vicente " ; Times: 1
+	Query: "nerodia institutioncode:PSM" ; Times: 1
+	Query: "vntype:specimen class:mammalia recordedby:A. Walker" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Ambystoma Californiense" ; Times: 1
+	Query: "Arborimus pomo" ; Times: 1
+	Query: "genus:Agelaius institutioncode:PSM" ; Times: 1
+	Query: "specificepithet:boylii genus:rana county:&#34;Tuolumne&#34;" ; Times: 1
+	Query: "Abronia gramineA" ; Times: 1
+	Query: "FMNH striatus" ; Times: 1
+	Query: "family:Petroicidae institutioncode:PSM" ; Times: 2
+	Query: "pachyptila turtur" ; Times: 1
+	Query: "NA NA" ; Times: 3
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 8
+	Query: "stateprovince:&#34;Arizona&#34; distance(location,geopoint(31.73889804234428,-110.88582515716553))&lt;672" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus institutioncode:PSM" ; Times: 1
+	Query: "vntype:specimen genus:Graphiurus" ; Times: 1
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "17132" ; Times: 2
+	Query: "family:Testudinidae institutioncode:PSM" ; Times: 1
+	Query: "vntype:specimen family:Cynocephalidae order:dermoptera" ; Times: 1
+	Query: "specificepithet:insularis genus:Aphelocoma institutioncode:PSM" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:PSM" ; Times: 1
+	Query: "ORDER DERMOPTERA" ; Times: 1
+	Query: "genus:heliosciurus institutioncode:PSM" ; Times: 1
+	Query: "vntype:specimen (Bradypus) institutioncode:PSM" ; Times: 1
+	Query: "vntype:specimen (Lemur catta) institutioncode:PSM" ; Times: 1
+	Query: "genus:Eurycea recordedby:Brown" ; Times: 1
+	Query: "Washington Pierce County junco" ; Times: 1
+	Query: "Petroica institutioncode:PSM" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 3
+	Query: "Grammomys dolichurus" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander opossum " ; Times: 1
+	Query: "ursus maritimus" ; Times: 5
+	Query: "&#34;Marmota monax&#34;" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:Alex Walker" ; Times: 2
+	Query: "family:Soricidae continent:Africa" ; Times: 1
+	Query: "genus:Abronia stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "&#34;Panthera onca&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:12020" ; Times: 1
+	Query: "catalognumber:00456" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "dasypus &#34;novemcinctus&#34;" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ambystoma californiense stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Coendou prehensilis " ; Times: 12
+	Query: "&#34;Dermoptera&#34;" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 2
+	Query: "12020" ; Times: 1
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Agelaius sex:female institutioncode:PSM" ; Times: 1
+	Query: "guttata stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 2
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "daption new zealand" ; Times: 3
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 3
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "01785" ; Times: 6
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker year &gt;= 1911 year &lt;= 1913" ; Times: 2
+	Query: "Brachylagus institutioncode:PSM" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1974" ; Times: 1
+	Query: "order:Chiroptera institutioncode:PSM" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "pteropus giganteus" ; Times: 5
+	Query: "alex walker" ; Times: 1
+	Query: "family:Fringillidae institutioncode:PSM" ; Times: 2
+	Query: "genus:Hyperolius specificepithet:horstockii" ; Times: 1
+	Query: "&#34;Puma concolor&#34;" ; Times: 1
+	Query: "11796" ; Times: 1
+	Query: "dermoptera" ; Times: 100
+	Query: "vntype:specimen class:aves county:&#34;clackamas&#34; stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:a. walker" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:PSM" ; Times: 1
+	Query: "gray wolf" ; Times: 3
+	Query: "Mirounga institutioncode:PSM" ; Times: 3
+	Query: "phoca" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "15700" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Alaska&#34;" ; Times: 4
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:a. walker" ; Times: 1
+	Query: "Callipepla douglasii" ; Times: 1
+	Query: "Urocyon littoralis institutioncode:PSM" ; Times: 1
+	Query: "opossum washington" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "vntype:specimen class:aves county:&#34;clackamas&#34; stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:alex walker" ; Times: 1
+	Query: "country:Ecuador scientificname:Galictis vittata " ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1980" ; Times: 2
+	Query: "genus:Brachyramphus class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Abronia graminea" ; Times: 2
+	Query: "country:Ecuador scientificname:Pudu mephistophiles " ; Times: 5
+	Query: "Cnemidophorus inornatus" ; Times: 1
+	Query: "Mejía" ; Times: 1
+	Query: "family:Soricidae country:&#34;Egypt&#34;" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasuella olivacea " ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:PSM" ; Times: 1
+	Query: "family:Tinamidae institutioncode:PSM" ; Times: 1
+	Query: "genus:Charina institutioncode:PSM" ; Times: 5
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "class:aves locality:kolyma recordedby:buturlin" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "vntype:specimen institutioncode:PSM" ; Times: 1
+	Query: "genus:junco catalognumber:25551 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 1
+	Query: "&#34;Tachyglossus aculeatus&#34;" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Larus delawarensis county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1910 year &lt;= 1920 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "anas discors" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "genus:junco county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "mvz bovidae" ; Times: 1
+	Query: "5E 1220" ; Times: 1
+	Query: "hsu" ; Times: 2
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 6
+	Query: "specificepithet:glacialis genus:Fulmarus family:Procellariidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "genus:Canis lupus institutioncode:PSM" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 4
+	Query: "stateprovince:&#34;Arizona&#34; distance(location,geopoint(31.739755705020436,-110.8860299296071))&lt;502" ; Times: 1
+	Query: "Capra institutioncode:PSM" ; Times: 1
+	Query: "genus:Notiosorex stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Uma Yuma" ; Times: 1
+	Query: "dendroica kirtlandii vntype:specimen" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:Alex Walker" ; Times: 4
+	Query: "class:Mammalia institutioncode:PSM" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 2
+	Query: "gbifdatasetid:8eddc200-f535-4c65-9b4d-f723eafe607e" ; Times: 2
+	Query: "genus:crotalus order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Dermoptera" ; Times: 63
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:A. Walker" ; Times: 6
+	Query: "vntype:specimen specificepithet:alba genus:Ardea class:aves country:&#34;United States&#34;" ; Times: 4
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 6
+	Query: "canis fmnh" ; Times: 1
+	Query: "7239" ; Times: 1
+	Query: "specificepithet:megala genus:gallinago country:&#34;philippines&#34;" ; Times: 1
+	Query: "Struthio institutioncode:PSM" ; Times: 2
+	Query: "FMNH strix" ; Times: 1
+	Query: "specificepithet:albicaudatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Amazilia yucatanensis" ; Times: 2
+	Query: "genus:Numenius institutioncode:PSM" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;california&#34; recordedby:alex walker" ; Times: 3
+	Query: "eurycea tynerensis" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;Oregon&#34; recordedby:A. Walker" ; Times: 1
+	Query: "genus:Chelonia country:&#34;United states&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker" ; Times: 3
+	Query: "genus:Aphelocoma institutioncode:PSM" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 3
+	Query: "00628" ; Times: 1
+	Query: "genus:didelphis stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "genus:Graphiurus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 226 (out of 1023 download events in this period)
+Total number of records downloaded: 37500
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 3
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 34
+	Country: Egypt ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 167
+	Country: El Salvador ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Guyana ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 28
+	Date: 2020-02-24 ; Times: 7
+	Date: 2020-02-03 ; Times: 17
+	Date: 2020-02-26 ; Times: 4
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-20 ; Times: 4
+	Date: 2020-02-21 ; Times: 4
+	Date: 2020-02-04 ; Times: 16
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-09 ; Times: 8
+	Date: 2020-02-28 ; Times: 9
+	Date: 2020-02-29 ; Times: 7
+	Date: 2020-02-11 ; Times: 11
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 10
+	Date: 2020-02-15 ; Times: 3
+	Date: 2020-02-14 ; Times: 4
+	Date: 2020-02-17 ; Times: 4
+	Date: 2020-02-19 ; Times: 10
+	Date: 2020-02-18 ; Times: 7
+	Date: 2020-02-02 ; Times: 13
+	Date: 2020-02-25 ; Times: 5
+	Date: 2020-02-27 ; Times: 13
+	Date: 2020-02-06 ; Times: 25
+	Date: 2020-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicaudus genus:microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 3
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:pallidus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "zapus princeps" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "vntype:specimen order:Primates family:galagidae" ; Times: 1
+	Query: "class:Amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "Pteronotus quadridens" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "vntype:specimen genus:Graphiurus" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Taricha" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 3
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "Myotis ciliolabrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "genus:Cratogeomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:hemionus genus:Odocoileus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "sorex cinereus" ; Times: 1
+	Query: "specificepithet:boylii genus:rana county:&#34;Tuolumne&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Symphalangus" ; Times: 1
+	Query: "Xenosaurus newmanorum" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "Monachus" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "genus:Manis" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:venustus genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:Rana locality:Yosemite" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+	Query: "genus:macrochelys" ; Times: 1
+	Query: "Abronia graminea" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1974" ; Times: 1
+	Query: "Grammomys dolichurus" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "louisiana" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "sorex jacksoni" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Uma scoparia" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "genus:Agelaius institutioncode:PSM" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 2
+	Query: "genus:Graphiurus" ; Times: 2
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 2020" ; Times: 1
+	Query: "opossum washington" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "specificepithet:megacephalus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "family:Soricidae country:&#34;Egypt&#34;" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "pitta sordida" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "guyana" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "specificepithet:glacialis genus:Fulmarus family:Procellariidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "genus:Notiosorex stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "Anguidae" ; Times: 2
+	Query: "class:Mammalia institutioncode:PSM" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Dermoptera" ; Times: 26
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "genus:rana county:&#34;Tuolumne&#34;" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Uta squamata" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "genus:Canis lupus institutioncode:PSM" ; Times: 1
+	Query: "genus:didelphis stateprovince:&#34;washington&#34;" ; Times: 1
+
+
+End of report.
